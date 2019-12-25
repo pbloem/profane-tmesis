@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A week in the life of"
 ---
 
