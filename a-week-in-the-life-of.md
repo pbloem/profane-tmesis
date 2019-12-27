@@ -1,5 +1,6 @@
 ---
 title:  "A week in the life of"
+summary: "I feel strange when I emerge from the scanner. I guess it's not really an MRI scanner any more, but it still feels like I've had an eight hour scan under some heavy narcotics. My thoughts are slow, undefined. Does this mean the experiment has worked? I try to check myself for new memories."
 ---
 
 # A week in the life of
