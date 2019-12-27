@@ -1,4 +1,4 @@
-# Profane tmesis
+<h1 class="main">Profane tmesis</h1>
 
 <ul class="stories">
 <li><a href="a-week-in-the-life-of">A week in the life of</a></li>
