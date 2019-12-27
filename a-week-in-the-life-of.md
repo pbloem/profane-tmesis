@@ -4,9 +4,9 @@ title:  "A week in the life of"
 
 # A week in the life of
 
-I feel strange when I emerge from the scanner. Well, it's not really an MRI scanner anymore. But it still feels like I've had a two-day long scan under some heavy narcotics. My thoughts are slow, undefined. Does this mean the experiment has worked? I probe myself for new memories. The score of tomorrow's Laker's game, that's objective one. Just a handful of digits and six days time to memorize in a hundred different ways. If anything survived the transfer, that did.
+I feel strange when I emerge from the scanner. I guess it's not really an MRI scanner any more, but it still feels like I've had an eight hour scan under some heavy narcotics. My thoughts are slow, undefined. Does this mean the experiment has worked? I try to check myself for new memories. The score of tomorrow's Lakers game, that's objective one. If anything survived the transfer, that did.
 
-113-110. Am I just making that up? Do I actually remember reading the result? Then I catch myself off guard. I remember having false memories the first time, and they didn't feel like this. This time it's different. What first time? This is run 0. But it's all right there now, clear as day: getting up out of the scanner, testing my memory, fooling myself a few times and concluding that nothing's been transferred.
+113-110. Am I just making that up? The drugs, coupled with a little wishful thinking could easily induce false memories. Then I catch myself off guard. I remember having false memories the first time, and they didn't feel like this. This time it's different. What first time? This is run 0. But it's all right there now, clear as day: getting up out of the scanner, testing my memory, fooling myself a few times and concluding that nothing's been transferred.
 
 I spent some time on the balcony, smoking a few cigarettes, and thinking things over. It was cold, I remember that very vividly, but I wanted to stay out to smoke. I'm staying in now, so as not to confuse the two experiences. Take a different path, keep the memories distinct.
 

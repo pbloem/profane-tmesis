@@ -1,7 +1,8 @@
-# Your website or application stores passwords in clear text. This is a serious problem you should fix quickly.
+# Profane tmesis
 
 <ul class="stories">
 <li><a href="a-week-in-the-life-of">A week in the life of</a></li>
-<li><a href="...">test</a></li>
-<li><a href="...">test</a></li>
+<li><a href="voodo-economics">Voodoo economics</a></li>
+<li><a href="love-these-mixd-souls">Love these mix'd souls</a></li>
+<li><a href="inside-out">Inside out</a></li>
 </ul>
