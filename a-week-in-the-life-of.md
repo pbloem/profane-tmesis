@@ -6,7 +6,7 @@ title:  "A week in the life of"
 
 I feel strange when I emerge from the scanner. I guess it's not really an MRI scanner any more, but it still feels like I've had an eight hour scan under some heavy narcotics. My thoughts are slow, undefined. Does this mean the experiment has worked? I try to check myself for new memories. The score of tomorrow's Lakers game, that's objective one. If anything survived the transfer, that did.
 
-113-110. Am I just making that up? The drugs, coupled with a little wishful thinking could easily induce false memories. Then I catch myself off guard. I remember having false memories the first time, and they didn't feel like this. This time it's different. What first time? This is run 0. But it's all right there now, clear as day: getting up out of the scanner, testing my memory, fooling myself a few times and concluding that nothing's been transferred.
+113-110. Am I just making that up? The drugs, coupled with a little wishful thinking could easily induce false memories. Then I catch myself off guard. I remember having false memories the first time, and they didn't feel like this. This time it's different. What first time? This _is_ the first time. But it's all right there now, clear as day. I got up out of the scanner, tested my memory, fooled myself a few times and finally, concluded that nothing had been transferred.
 
 I spent some time on the balcony, smoking a few cigarettes, and thinking things over. It was cold, I remember that very vividly, but I wanted to stay out to smoke. I'm staying in now, so as not to confuse the two experiences. Take a different path, keep the memories distinct.
 
@@ -14,7 +14,8 @@ By the fifth cigarette, I had talked myself out of the sinking feeling of anothe
 
 Now I'm inside, looking out at the balcony, where I was standing. Last week from my perspective, but the exact same moment in time.
 
-The memorization protocol did't start officially until the results of the Laker's game are announced, but I couldn't sleep, so I broke protocol, and started memorizing some of the random number feeds off the internet. Those will become available in a few hours.
+The memorization protocol did't start officially until the results of the Laker's game are announced, but I couldn't sleep, so I broke protocol, and started memorizing some of the random number feeds off the internet. That was a few hours from now. I'll be able to check soon.
+
 
 I remember most of the sequences quite clearly. I go to a preregistration site, and provide an encrypted record, together with timestamps. I don't expect to require that level of evidence---the experiment seems repeatable---it's mostly to ensure against hallucination. Who knows what damage I've done to my brain. Couple that with the power of suggestion, and a little paranoia is warranted.
 
@@ -58,7 +59,7 @@ I'm frightened by the implications, but also by the effect that these thoughts h
 
 Run 19
 
-I had a nightmare the other day. I was in the machine, towards the end of transmission, when the power schedule spikes. I was suddenly in agonising pain, but still immobilised by the drugs. The pain continued, and the taste of blood filled my mouth. I was certain that I would die. When I awoke, the taste was still there.
+I had a nightmare the other day. I was in the machine, towards the end of transmission, when the . I was suddenly in agonising pain, but still immobilised by the drugs. The pain continued, and the taste of blood filled my mouth. I was certain that I would die. When I awoke, the taste was still there.
 
 Just a nightmare, induced by the stress of the experiment, by the integration of memories across time? Or something more. A memory of an experience near the end of transmission. Not transmitted long enough to be recorded properly, but just enough to take hold somewhere in the latent memories of my subconscious. 
 
