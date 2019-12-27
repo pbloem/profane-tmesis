@@ -16,7 +16,6 @@ Now I'm inside, looking out at the balcony, where I was standing. Last week from
 
 The memorization protocol did't start officially until the results of the Laker's game are announced, but I couldn't sleep, so I broke protocol, and started memorizing some of the random number feeds off the internet. That was a few hours from now. I'll be able to check soon.
 
-
 I remember most of the sequences quite clearly. I go to a preregistration site, and provide an encrypted record, together with timestamps. I don't expect to require that level of evidence---the experiment seems repeatable---it's mostly to ensure against hallucination. Who knows what damage I've done to my brain. Couple that with the power of suggestion, and a little paranoia is warranted.
 
 I watch the feed, and the numbers come out just as I remembered. No need to compare with the prereg. My mind is crystal clear now. I have successfully transmitted my memories back in time. I remember the entire week ahead with astonishing clarity, just as if I'd lived it. The memories are just as clear as the ones I actually experienced one week before. I mean last week. My last week. You know what I mean.
