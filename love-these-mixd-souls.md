@@ -1,5 +1,10 @@
 ---
 title:  Love these mix'd souls
+
+summary: "They tell you to wait after you get the implant. At least six months before you should think about getting involved with anyone. But then, if they understand so well, why did they put us all in the same waiting room together at the first check-up? "
+
+image: "https://ak8.picdn.net/shutterstock/videos/29030938/thumb/1.jpg"
+
 ---
 
 # Love these mix'd souls 
@@ -26,7 +31,7 @@ We lost our jobs, but there weren't many people linked up in those days, and it 
 
 And then it all went to hell. I think we both believed, that people split up because of imperfect communication. Because of secrets and lies, and because people stopped letting each other in. But with the link, that was all over. Everything could be said and nothing could be hidden. So why would people, if they truly loved each other, ever have to break up?
 
-I don't know the answer to that. I don't understand much of the neurodynamics, let alone the long term patterns that develop after linking up. I can only tell you what it felt like. It felt like a defense mechanism. Like our identities were re-asserting themselves. I guess it's not that different from my old-fashioned relationship breakdowns. The signals we got from each other became boring. It's not that I mind boring signals, I just couldn't bear the contrast with how interesting they used to be. After just three months, we had both got to the end of it. We had learned the pattern of each other. And the parts that still remembered we had a body each, slowly became louder again. 
+I don't know the answer to that. I don't understand much of the neurodynamics, let alone the long term patterns that develop after linking up. I can only tell you what it felt like. It felt like a defense mechanism. Like our identities were re-asserting themselves. I guess it's not that different from my old-fashioned relationship breakdowns. The signals we got from each other became boring. It's not that I mind boring signals, I just couldn't bear the contrast with how interesting they used to be. After just three months, we had both got to the end of it. We had learned the pattern of each other. And the parts of our brains that still remembered we had a body each, slowly became louder again. 
 
 And that's what it all comes down to. Why I'm writing this. If I've conveyed something of the intensity of falling in love linked up, I hope you can get some sense of what it's like to separate. We both gave up the link, almost immediately after. Even a simple diagnostic ping to the home router would flood me. I can't quite say with what. They weren't memories, or feelings. More like my mind was trying to grab hold of something that wasn't there anymore.
 

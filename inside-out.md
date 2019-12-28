@@ -1,5 +1,9 @@
 ---
-title:  Inside out
+title: "Inside out"
+
+summary: "That's what some of the early Greeks thought the world looked like. A big sphere floating around in empty space. With other spheres around it. "
+
+image: "https://www.caveofthemounds.com/wp-content/uploads/2016/12/candlelitcave2011.jpg"
 ---
 
 # Inside out
@@ -20,11 +24,13 @@ _Can you even get gravity to work that way, to pull inward all the time? Wouldn'
 
 I think it mostly does work that way, in an empty universe. Especially if you took away most of the dark matter, the rest of it would just clump up into rocks that circle around each other. 
 
-_How about day and night? Wouldn't the Sun just heat up one side of this earth clump?_
+_How about day and night? Wouldn't the Sun just heat up one side of this Earth clump?_
 
-Well, the Greeks imagined that these clumps moved around each other. I mean, that's what we have at the centre: the Sun and Sakmet, spinning around each other. These would just be farther apart. If the Sun would circle the Earth-clump, each side would experience day and night just like us. Maybe the Earth-clump spins around. Or maybe the Earth would circle around the Sun.
+Well, the Greeks imagined that these clumps moved around each other. I mean, that's what we have at the centre: the Sun and Sakmet, spinning around each other. These would just be farther apart. If the Sun would circle the Earth-clump, it would experience day and night just like us. Or maybe the Earth-clump spins around its axis. 
 
-_The Earth circling around the Sun. I bet the churches would be upset about that._
+Or maybe the Earth would circle around the Sun, together with loads of other clumps.
+
+_I bet the churches would be upset about that._
 
 Right? Just like when radio waves were discovered and showed the other pockets, and we found out we weren't at the center of the universe. Except they would just need strong binoculars, so it would probably all blow up much earlier.
 
@@ -34,17 +40,17 @@ Who knows. It would work for the story.
 
 _I guess rocketry and flight would be less important. For us, there's an incentive to travel to the other side of the earth quickly. They'd probably invest much more in tunnel-digging._
 
-Possibly. For us, tunneling has always been about exploration. Finding out what's out there and actually getting there. For them rocketry, would become a symbol of exploration. Getting to the other clumps would be a hugely important symbol. Like when we first dug down to the sub-Asian bubble.
+Possibly. For us, tunneling has always been about exploration. Finding out what's out there and actually getting there. For them rocketry, would become a symbol of exploration. Getting to the other clumps would be a huge milestone. Like when we first dug down to the sub-Asian bubble.
 
 _And found nothing but darkness and slightly different rocks. I guess you have a romantic side after all. What about the shape of the universe? Would they develop neutrino detectors? Work out how big it all is? Or would their telescopes show them right away?_
 
-Pretty much. If the space between the clumps would really be empty they would see a sky full of other Suns. They could look neutrino-years away with the naked eye. And radio waves would let them see even further. I doubt they'd ever discover that neutrinos even exist. 
+Pretty much. If the space between the clumps would really be empty they would see a sky full of other Suns from day one. They could look neutrino-years away just with the naked eye. And radio waves would let them see even further. I doubt they'd ever discover that neutrinos even exist. 
 
 _How do you end a story like that?_
 
 I don't know. Maybe with the end of the universe?
 
-_It is as depressing as ours? The dark matter slowly squeezing us in like a trash compactor, when the suns run out of energy?_
+_Is it as depressing as ours? The dark matter slowly squeezing us in like a trash compactor, when the suns run out of energy?_
 
 Pretty much. All these clumps would be like specks of foam circling the drain. Eventually everything would collapse into one big clump. It's no more stable than the real universe. At least not in my story.
 

@@ -1,5 +1,10 @@
 ---
 title: Voodoo economics
+
+summary: "Erica, I didn't expect I'd ever catch you in your office again. Erica Goldsmith is shocked out of her concentration. She looks up to find David de Ridder, co-chair of the NYU Applied Statistics and Probability Group, standing in the doorway, holding an empty coffee mug. Her social skills take a while to re-surface, and for the moment all she can manage is a quizzical expression. "
+
+image: "https://i.redd.it/yeae4w4yqxg11.png"
+
 ---
 
 # Voodoo economics
@@ -73,7 +78,7 @@ Erica nods.
 
 David takes a deep breath and gathers his thoughts. He takes a sip of coffee, and then another deep breath. 
 
-Erica is famously not much aware of politics. It's a running joke in the group that she would happily tell her models the building's on fire, without making for the exit. David is a little more aware. He has been following the campaigns with increasing intensity.
+Erica is famously not much aware of politics. It's a running joke in the group that she would happily tell her models that the building is on fire, without making for the exit. David is a little more aware. He has been following the campaigns with increasing intensity.
 
 "Erica, don't you realize ... what you have here?"
 
