@@ -6,4 +6,5 @@
 <li><a href="voodo-economics">Voodoo economics</a></li>
 <li><a href="love-these-mixd-souls">Love these mix'd souls</a></li>
 <li><a href="inside-out">Inside out</a></li>
+<li><a href="flash-fiction-2011">Flash fiction 2011</a></li>
 </ul>
