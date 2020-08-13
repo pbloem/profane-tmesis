@@ -307,12 +307,15 @@ date: 17-12-2018
 <p>They had about three hours left together.
 </p>
 
+<p>&ldquo;Such a life we would have had. Such places I would have taken you. Have you heard of Earth?&rdquo;<br />
+&ldquo;No&rdquo;
+</p>
+
 <p>&ldquo;Little planet on one of the outer arms. Kind people, mostly. Just far enough from their star for most of the atmosphere to be saturated with water vapor. And when it condenses high up in the air, they form these huge white mountains of water, drifting along the sky.&rdquo;</p>
 
 <p>&ldquo;That sounds wonderful.&rdquo;<br/>
+&ldquo;Of course the locals don't even look at them. For them it's the most normal thing in the world.&rdquo;
 </p>
-                
-    
                 
 <div class="footer">
 <span class="timestamp"> September 23rd, 2011 10:05am </span>
