@@ -1,6 +1,6 @@
 ---
-Title: Profane Tmesis: the 2011 flash fiction experiment 
-Date: 17-12-2018
+title: "Profane Tmesis: the 2011 flash fiction experiment"
+date: 17-12-2018
 ---
 
 # Profane Tmesis: the 2011 flash fiction experiment 
@@ -21,8 +21,8 @@ Date: 17-12-2018
 
 <p>And she couldn&rsquo;t wait.</p>
                  
-<div id="footer">
-<span id="timestamp"> September 11th, 2011 12:34pm </span>
+<div class="footer">
+<span class="timestamp"> September 11th, 2011 12:34pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">writing</span>
@@ -40,8 +40,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 12th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> September 12th, 2011 10:05am </span>
 <span class="tag">surface</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -61,8 +61,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 13th, 2011 10:10am </span>
+<div class="footer">
+<span class="timestamp"> September 13th, 2011 10:10am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">osiris</span>
@@ -84,8 +84,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 14th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> September 14th, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">reading</span>
 <span class="tag">surface</span>
@@ -114,8 +114,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 15th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> September 15th, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">osiris</span>
 <span class="tag">story</span>
@@ -137,8 +137,8 @@ Date: 17-12-2018
 “Will they let us in, up north?”<br/>
 “Unlikely. But it’s better than sitting here, waiting for some scraper to collapse on top of us.”<br/>  
                                 
-<div id="footer">
-<span id="timestamp"> September 16th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> September 16th, 2011 10:00am </span>
 <span class="tag">fiction</span>
 <span class="tag">short story</span>
 <span class="tag">surface</span>
@@ -161,8 +161,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 17th, 2011 10:06am </span>
+<div class="footer">
+<span class="timestamp"> September 17th, 2011 10:06am </span>
 <span class="tag">boston</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -186,8 +186,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 18th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> September 18th, 2011 10:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">proverbs</span>
 <span class="tag">short story</span>
@@ -209,8 +209,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 19th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> September 19th, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">hoover</span>
 <span class="tag">story</span>
@@ -238,8 +238,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 20th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> September 20th, 2011 10:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">surface</span>
 <span class="tag">short story</span>
@@ -266,8 +266,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 21st, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> September 21st, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">short story</span>
@@ -292,8 +292,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 22nd, 2011 10:42am </span>
+<div class="footer">
+<span class="timestamp"> September 22nd, 2011 10:42am </span>
 <span class="tag">osiris</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -304,8 +304,7 @@ Date: 17-12-2018
                 
                 
 <h2>Breathtaking</h2>
-<p>They had about three hours left together.<br/>
-<br/>
+<p>They had about three hours left together.
 </p>
 
 <p>&ldquo;Little planet on one of the outer arms. Kind people, mostly. Just far enough from their star for most of the atmosphere to be saturated with water vapor. And when it condenses high up in the air, they form these huge white mountains of water, drifting along the sky.&rdquo;</p>
@@ -313,13 +312,10 @@ Date: 17-12-2018
 <p>&ldquo;That sounds wonderful.&rdquo;<br/>
 </p>
                 
+    
                 
-                
-                
-                
-                
-<div id="footer">
-<span id="timestamp"> September 23rd, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> September 23rd, 2011 10:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">short story</span>
@@ -338,15 +334,10 @@ Date: 17-12-2018
 
 <p>Then, a story of Scylbane, who travelled deep into a cursed forest to slay a fire-breathing daemon. When he finished, the villagers shouted: &ldquo;Did that really happen?&rdquo;</p>
 
-<p>&ldquo;No&rdquo;, he said. The villagers went silent.</p>
+<p>&ldquo;No&rdquo;, he said. The villagers went silent.</p>     
                 
-                
-                
-                
-                
-                
-<div id="footer">
-<span id="timestamp"> September 24th, 2011 10:06am </span>
+<div class="footer">
+<span class="timestamp"> September 24th, 2011 10:06am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">history</span>
 <span class="tag">story</span>
@@ -365,13 +356,8 @@ Date: 17-12-2018
 
 <p>I still wouldn&rsquo;t need to follow His word. I might be grateful for the life He gave me. I might fear His dominion over reality. I might simply judge him to be righteous and true. But that would be by choice. Even in a world where God exists undeniably I am free to deny his authority.</p>
                 
-                
-                
-                
-                
-                
-<div id="footer">
-<span id="timestamp"> September 25th, 2011 10:01am </span>
+<div class="footer">
+<span class="timestamp"> September 25th, 2011 10:01am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">proverbs</span>
 <span class="tag">story</span>
@@ -392,8 +378,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 26th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> September 26th, 2011 10:05am </span>
 <span class="tag">blink fiction</span>
 <span class="tag">beast</span>
 <span class="tag">flash fiction</span>
@@ -416,8 +402,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 27th, 2011 10:10am </span>
+<div class="footer">
+<span class="timestamp"> September 27th, 2011 10:10am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">blink fiction</span>
 <span class="tag">101 words</span>
@@ -438,8 +424,8 @@ Date: 17-12-2018
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 28th, 2011 10:46am </span>
+<div class="footer">
+<span class="timestamp"> September 28th, 2011 10:46am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">short story</span>
 <span class="tag">101 words</span>
@@ -467,8 +453,8 @@ Date: 17-12-2018
 “I suppose your you have a point…<br/>
 Well, then I guess we’ll have to start a band.”       
                 
-<div id="footer">
-<span id="timestamp"> September 29th, 2011 10:41am </span>
+<div class="footer">
+<span class="timestamp"> September 29th, 2011 10:41am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">short story</span>
@@ -482,8 +468,8 @@ Well, then I guess we’ll have to start a band.”
 
 <p>The trouble is the point of it. Do I want them to crack it or not? Why not send them random gibberish? Or just the plaintext? I find myself weary of returning to the subject. Second guessing and self-analysis are bad habits when you&rsquo;re so far down a path like this.</p>
                
-<div id="footer">
-<span id="timestamp"> September 30th, 2011 10:57am </span>
+<div class="footer">
+<span class="timestamp"> September 30th, 2011 10:57am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -507,8 +493,8 @@ Well, then I guess we’ll have to start a band.”
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 30th, 2011 4:21pm </span>
+<div class="footer">
+<span class="timestamp"> September 30th, 2011 4:21pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -527,8 +513,8 @@ Well, then I guess we’ll have to start a band.”
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 1st, 2011 10:51am </span>
+<div class="footer">
+<span class="timestamp"> October 1st, 2011 10:51am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">short story</span>
 <span class="tag">story</span>
@@ -552,8 +538,8 @@ Parker lowered his arm.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 2nd, 2011 10:56am </span>
+<div class="footer">
+<span class="timestamp"> October 2nd, 2011 10:56am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">proverbs</span>
 <span class="tag">short story</span>
@@ -575,8 +561,8 @@ Parker lowered his arm.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 3rd, 2011 11:01am </span>
+<div class="footer">
+<span class="timestamp"> October 3rd, 2011 11:01am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -599,8 +585,8 @@ The underground lair of the Republican Party is quite cosy, once you get used to
 George Sr. breaks his silence. <br/>
 “I think I may know someone.”
         
-<div id="footer">
-<span id="timestamp"> October 4th, 2011 11:32am </span>
+<div class="footer">
+<span class="timestamp"> October 4th, 2011 11:32am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -624,8 +610,8 @@ George Sr. breaks his silence. <br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 5th, 2011 10:16am </span>
+<div class="footer">
+<span class="timestamp"> October 5th, 2011 10:16am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -647,8 +633,8 @@ George Sr. breaks his silence. <br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 6th, 2011 10:08am </span>
+<div class="footer">
+<span class="timestamp"> October 6th, 2011 10:08am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -669,8 +655,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 “Why me?”<br/>
 “This happens to all of you, every day, one by one. Every time someone finds a way back, we fix the flaw.”     
                 
-<div id="footer">
-<span id="timestamp"> October 7th, 2011 10:12am </span>
+<div class="footer">
+<span class="timestamp"> October 7th, 2011 10:12am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">short story</span>
@@ -690,8 +676,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 8th, 2011 10:06am </span>
+<div class="footer">
+<span class="timestamp"> October 8th, 2011 10:06am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">short story</span>
@@ -711,8 +697,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 9th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> October 9th, 2011 10:05am </span>
 <span class="tag">prose</span>
 <span class="tag">proverbs</span>
 <span class="tag">flash fiction</span>
@@ -731,8 +717,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 10th, 2011 10:28am </span>
+<div class="footer">
+<span class="timestamp"> October 10th, 2011 10:28am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -754,8 +740,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 11th, 2011 10:15am </span>
+<div class="footer">
+<span class="timestamp"> October 11th, 2011 10:15am </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -779,8 +765,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 12th, 2011 10:10am </span>
+<div class="footer">
+<span class="timestamp"> October 12th, 2011 10:10am </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -801,8 +787,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 13th, 2011 10:11am </span>
+<div class="footer">
+<span class="timestamp"> October 13th, 2011 10:11am </span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
@@ -823,8 +809,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 14th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> October 14th, 2011 10:00am </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -845,8 +831,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 15th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> October 15th, 2011 10:00am </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -871,8 +857,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 15th, 2011 2:59pm </span>
+<div class="footer">
+<span class="timestamp"> October 15th, 2011 2:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -891,8 +877,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 16th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> October 16th, 2011 10:00am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -915,8 +901,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 17th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 17th, 2011 8:05am </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -937,8 +923,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 18th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 18th, 2011 8:05am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -963,8 +949,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 19th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 19th, 2011 8:05am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -984,8 +970,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 20th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 20th, 2011 8:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
@@ -1007,8 +993,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 21st, 2011 2:51am </span>
+<div class="footer">
+<span class="timestamp"> October 21st, 2011 2:51am </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -1030,8 +1016,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 21st, 2011 9:00am </span>
+<div class="footer">
+<span class="timestamp"> October 21st, 2011 9:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
 <span class="tag">running</span>
@@ -1052,8 +1038,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 22nd, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 22nd, 2011 8:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">time travel</span>
@@ -1079,8 +1065,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 23rd, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 23rd, 2011 8:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">proverbs</span>
@@ -1101,8 +1087,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 <p><em>Based on <a href="http://tumblrfiction.tumblr.com/post/11735643087/venom-in-your-story-your-character-is-manipulated">this</a> prompt, sort of.</em></p>
  
                 
-<div id="footer">
-<span id="timestamp"> October 24th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> October 24th, 2011 8:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">eve</span>
@@ -1122,8 +1108,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 25th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> October 25th, 2011 10:05am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -1144,8 +1130,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 26th, 2011 9:00am </span>
+<div class="footer">
+<span class="timestamp"> October 26th, 2011 9:00am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">passchendaele</span>
@@ -1165,8 +1151,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 27th, 2011 7:05am </span>
+<div class="footer">
+<span class="timestamp"> October 27th, 2011 7:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">love letter</span>
@@ -1184,8 +1170,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 28th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> October 28th, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -1207,8 +1193,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 29th, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> October 29th, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">freeman dyson</span>
@@ -1230,8 +1216,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> October 30th, 2011 2:11pm </span>
+<div class="footer">
+<span class="timestamp"> October 30th, 2011 2:11pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
@@ -1253,8 +1239,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 <p>'I&rsquo;m giving it to you, Bukowski&rsquo;, the chief sighs, 'because I don&rsquo;t believe it either&rsquo;
 </p>     
                 
-<div id="footer">
-<span id="timestamp"> October 31st, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> October 31st, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">bukowski</span>
@@ -1271,8 +1257,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 <p>Together, they make up a record. A collection of the moments in your life you don&rsquo;t remember.</p>
                 
                 
-<div id="footer">
-<span id="timestamp"> November 1st, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> November 1st, 2011 8:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">hands</span>
 <span class="tag">prose</span>
@@ -1292,8 +1278,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 2nd, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> November 2nd, 2011 8:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">spilled ink</span>
@@ -1313,8 +1299,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 3rd, 2011 10:00am </span>
+<div class="footer">
+<span class="timestamp"> November 3rd, 2011 10:00am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">spilled ink</span>
@@ -1334,8 +1320,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 4th, 2011 10:03am </span>
+<div class="footer">
+<span class="timestamp"> November 4th, 2011 10:03am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">bartlett</span>
@@ -1358,8 +1344,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 5th, 2011 10:02am </span>
+<div class="footer">
+<span class="timestamp"> November 5th, 2011 10:02am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">rebellion</span>
@@ -1382,8 +1368,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 6th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> November 6th, 2011 10:05am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">spilled ink</span>
@@ -1408,8 +1394,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 7th, 2011 1:42pm </span>
+<div class="footer">
+<span class="timestamp"> November 7th, 2011 1:42pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">amasis</span>
@@ -1428,8 +1414,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 8th, 2011 1:51pm </span>
+<div class="footer">
+<span class="timestamp"> November 8th, 2011 1:51pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">cute</span>
 <span class="tag">prose</span>
@@ -1450,8 +1436,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 9th, 2011 10:40am </span>
+<div class="footer">
+<span class="timestamp"> November 9th, 2011 10:40am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">spilled ink</span>
@@ -1479,8 +1465,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 10th, 2011 6:15pm </span>
+<div class="footer">
+<span class="timestamp"> November 10th, 2011 6:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">french fries</span>
@@ -1503,8 +1489,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 11th, 2011 12:04pm </span>
+<div class="footer">
+<span class="timestamp"> November 11th, 2011 12:04pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">velvet verbosity</span>
@@ -1520,8 +1506,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 <p>She kept her bag secured. Few people in a soup kitchen own a laptop. And while Stella was eating stale bread, her machine was matching rainbow tables against the governor&rsquo;s database.</p>
 
                 
-<div id="footer">
-<span id="timestamp"> November 12th, 2011 5:29pm </span>
+<div class="footer">
+<span class="timestamp"> November 12th, 2011 5:29pm </span>
 <span class="tag">osiris</span>
 <span class="tag">flash fiction</span>
 <span class="tag">spilled ink</span>
@@ -1547,8 +1533,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 13th, 2011 5:47pm </span>
+<div class="footer">
+<span class="timestamp"> November 13th, 2011 5:47pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">the art of war</span>
@@ -1568,8 +1554,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 14th, 2011 4:47pm </span>
+<div class="footer">
+<span class="timestamp"> November 14th, 2011 4:47pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">spilled ink</span>
@@ -1591,8 +1577,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 15th, 2011 12:28am </span>
+<div class="footer">
+<span class="timestamp"> November 15th, 2011 12:28am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">tumblr fiction</span>
@@ -1612,8 +1598,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 16th, 2011 2:13am </span>
+<div class="footer">
+<span class="timestamp"> November 16th, 2011 2:13am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 </div>
@@ -1630,8 +1616,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 17th, 2011 11:08am </span>
+<div class="footer">
+<span class="timestamp"> November 17th, 2011 11:08am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 </div>
@@ -1650,8 +1636,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 18th, 2011 10:07am </span>
+<div class="footer">
+<span class="timestamp"> November 18th, 2011 10:07am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">applied computer science</span>
@@ -1674,8 +1660,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 19th, 2011 3:37pm </span>
+<div class="footer">
+<span class="timestamp"> November 19th, 2011 3:37pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1695,8 +1681,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 20th, 2011 9:49am </span>
+<div class="footer">
+<span class="timestamp"> November 20th, 2011 9:49am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">little red book</span>
@@ -1717,8 +1703,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 21st, 2011 2:52pm </span>
+<div class="footer">
+<span class="timestamp"> November 21st, 2011 2:52pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1739,8 +1725,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 22nd, 2011 2:30pm </span>
+<div class="footer">
+<span class="timestamp"> November 22nd, 2011 2:30pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -1761,8 +1747,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 23rd, 2011 5:10pm </span>
+<div class="footer">
+<span class="timestamp"> November 23rd, 2011 5:10pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1782,8 +1768,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 24th, 2011 10:10am </span>
+<div class="footer">
+<span class="timestamp"> November 24th, 2011 10:10am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1806,8 +1792,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 25th, 2011 10:11am </span>
+<div class="footer">
+<span class="timestamp"> November 25th, 2011 10:11am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -1827,8 +1813,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 26th, 2011 6:54pm </span>
+<div class="footer">
+<span class="timestamp"> November 26th, 2011 6:54pm </span>
 <span class="tag">flash fioction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1851,8 +1837,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 27th, 2011 6:03pm </span>
+<div class="footer">
+<span class="timestamp"> November 27th, 2011 6:03pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">The Art of War</span>
 <span class="tag">story</span>
@@ -1873,8 +1859,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 28th, 2011 2:35pm </span>
+<div class="footer">
+<span class="timestamp"> November 28th, 2011 2:35pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1894,8 +1880,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 29th, 2011 2:53pm </span>
+<div class="footer">
+<span class="timestamp"> November 29th, 2011 2:53pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1918,8 +1904,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> November 30th, 2011 2:10pm </span>
+<div class="footer">
+<span class="timestamp"> November 30th, 2011 2:10pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1942,8 +1928,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 1st, 2011 4:35pm </span>
+<div class="footer">
+<span class="timestamp"> December 1st, 2011 4:35pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -1965,8 +1951,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 2nd, 2011 8:21pm </span>
+<div class="footer">
+<span class="timestamp"> December 2nd, 2011 8:21pm </span>
 <span class="tag">the verbosity</span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
@@ -1989,8 +1975,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 3rd, 2011 7:23pm </span>
+<div class="footer">
+<span class="timestamp"> December 3rd, 2011 7:23pm </span>
 <span class="tag">leiden</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2011,8 +1997,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 4th, 2011 6:56pm </span>
+<div class="footer">
+<span class="timestamp"> December 4th, 2011 6:56pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">leonardo</span>
@@ -2036,8 +2022,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 5th, 2011 3:25pm </span>
+<div class="footer">
+<span class="timestamp"> December 5th, 2011 3:25pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
 <span class="tag">prose</span>
@@ -2059,8 +2045,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 6th, 2011 3:34pm </span>
+<div class="footer">
+<span class="timestamp"> December 6th, 2011 3:34pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2081,8 +2067,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 7th, 2011 3:57pm </span>
+<div class="footer">
+<span class="timestamp"> December 7th, 2011 3:57pm </span>
 <span class="tag">prose</span>
 <span class="tag">flashfiction</span>
 <span class="tag">Nihyakuhatsuka</span>
@@ -2102,8 +2088,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 8th, 2011 4:03pm </span>
+<div class="footer">
+<span class="timestamp"> December 8th, 2011 4:03pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">howl</span>
@@ -2123,8 +2109,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 
 <p>Part of a <a href="/tagged/osiris">narrative</a>.</p>
                 
-<div id="footer">
-<span id="timestamp"> December 9th, 2011 4:35pm </span>
+<div class="footer">
+<span class="timestamp"> December 9th, 2011 4:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">osiris</span>
@@ -2140,8 +2126,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 
 <p>I only want to give her the gift of my love. And if that scares her or she doesn&rsquo;t appreciate it as such, well, I don&rsquo;t really care.</p>
 
-<div id="footer">
-<span id="timestamp"> December 10th, 2011 7:00pm </span>
+<div class="footer">
+<span class="timestamp"> December 10th, 2011 7:00pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2163,8 +2149,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 11th, 2011 11:35am </span>
+<div class="footer">
+<span class="timestamp"> December 11th, 2011 11:35am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">The Art of War</span>
@@ -2182,8 +2168,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 12th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> December 12th, 2011 8:05am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2203,8 +2189,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 13th, 2011 10:05am </span>
+<div class="footer">
+<span class="timestamp"> December 13th, 2011 10:05am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2226,8 +2212,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 14th, 2011 7:00am </span>
+<div class="footer">
+<span class="timestamp"> December 14th, 2011 7:00am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">ouroboros</span>
@@ -2247,8 +2233,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 15th, 2011 5:07pm </span>
+<div class="footer">
+<span class="timestamp"> December 15th, 2011 5:07pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">lesbians</span>
@@ -2270,8 +2256,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 16th, 2011 6:39pm </span>
+<div class="footer">
+<span class="timestamp"> December 16th, 2011 6:39pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">war</span>
@@ -2288,8 +2274,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
 
 <p><em>This is story 101 of as many words.</em></p>
                
-<div id="footer">
-<span id="timestamp"> December 17th, 2011 6:45pm </span>
+<div class="footer">
+<span class="timestamp"> December 17th, 2011 6:45pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2307,8 +2293,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 18th, 2011 8:05am </span>
+<div class="footer">
+<span class="timestamp"> December 18th, 2011 8:05am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">spilled ink</span>
@@ -2328,8 +2314,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 19th, 2011 5:48pm </span>
+<div class="footer">
+<span class="timestamp"> December 19th, 2011 5:48pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">black hole</span>
@@ -2349,8 +2335,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 20th, 2011 6:37pm </span>
+<div class="footer">
+<span class="timestamp"> December 20th, 2011 6:37pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">lone gunman</span>
@@ -2371,8 +2357,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 21st, 2011 4:38pm </span>
+<div class="footer">
+<span class="timestamp"> December 21st, 2011 4:38pm </span>
 <span class="tag">prose</span>
 <span class="tag">prompt</span>
 <span class="tag">flash fiction</span>
@@ -2394,8 +2380,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 22nd, 2011 6:35pm </span>
+<div class="footer">
+<span class="timestamp"> December 22nd, 2011 6:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">nausea</span>
@@ -2415,8 +2401,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 23rd, 2011 8:33pm </span>
+<div class="footer">
+<span class="timestamp"> December 23rd, 2011 8:33pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -2436,8 +2422,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 24th, 2011 6:44pm </span>
+<div class="footer">
+<span class="timestamp"> December 24th, 2011 6:44pm </span>
 <span class="tag">prose</span>
 <span class="tag">spilled ink</span>
 <span class="tag">flash fiction</span>
@@ -2456,8 +2442,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 25th, 2011 6:58pm </span>
+<div class="footer">
+<span class="timestamp"> December 25th, 2011 6:58pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">strasbourg</span>
@@ -2476,8 +2462,8 @@ But you wouldn’t remember. You would just get up and for about an hour you wou
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 26th, 2011 5:51pm </span>
+<div class="footer">
+<span class="timestamp"> December 26th, 2011 5:51pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2500,8 +2486,8 @@ Cooper pushes a photograph at him, face down.
 ‘Don’t talk to me about Catherwood. He’d kill me if we ever tracked him down. Told me as much himself.’<br/>
 ‘We have some leverage, sir. He… he doesn’t know she’s still alive.’  
                 
-<div id="footer">
-<span id="timestamp"> December 27th, 2011 7:02pm </span>
+<div class="footer">
+<span class="timestamp"> December 27th, 2011 7:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">zamglenie</span>
@@ -2527,8 +2513,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 28th, 2011 8:21pm </span>
+<div class="footer">
+<span class="timestamp"> December 28th, 2011 8:21pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2549,8 +2535,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 29th, 2011 8:38pm </span>
+<div class="footer">
+<span class="timestamp"> December 29th, 2011 8:38pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2569,8 +2555,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 30th, 2011 5:40pm </span>
+<div class="footer">
+<span class="timestamp"> December 30th, 2011 5:40pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">violin</span>
@@ -2591,8 +2577,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> December 31st, 2011 7:51pm </span>
+<div class="footer">
+<span class="timestamp"> December 31st, 2011 7:51pm </span>
 <span class="tag">prose</span>
 <span class="tag">happy new year</span>
 <span class="tag">flash fiction</span>
@@ -2613,8 +2599,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 1st, 2012 3:18pm </span>
+<div class="footer">
+<span class="timestamp"> January 1st, 2012 3:18pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">turing</span>
@@ -2636,8 +2622,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 2nd, 2012 3:49pm </span>
+<div class="footer">
+<span class="timestamp"> January 2nd, 2012 3:49pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">DARPA</span>
@@ -2659,8 +2645,8 @@ Cooper pushes a photograph at him, face down.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 3rd, 2012 4:15pm </span>
+<div class="footer">
+<span class="timestamp"> January 3rd, 2012 4:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">subway</span>
@@ -2678,8 +2664,8 @@ Before the chief can quite gather his thoughts for a suitable admonishment, Davi
 
 The chief rubs his eyes. 'Davis, remind me when your next performance review is&hellip;&rsquo;
                 
-<div id="footer">
-<span id="timestamp"> January 4th, 2012 3:58pm </span>
+<div class="footer">
+<span class="timestamp"> January 4th, 2012 3:58pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -2700,8 +2686,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 5th, 2012 6:53pm </span>
+<div class="footer">
+<span class="timestamp"> January 5th, 2012 6:53pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2721,8 +2707,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 6th, 2012 7:43pm </span>
+<div class="footer">
+<span class="timestamp"> January 6th, 2012 7:43pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -2742,8 +2728,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 9th, 2012 5:02pm </span>
+<div class="footer">
+<span class="timestamp"> January 9th, 2012 5:02pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -2764,8 +2750,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 10th, 2012 3:28pm </span>
+<div class="footer">
+<span class="timestamp"> January 10th, 2012 3:28pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">barefoot</span>
@@ -2789,8 +2775,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 11th, 2012 5:16pm </span>
+<div class="footer">
+<span class="timestamp"> January 11th, 2012 5:16pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2810,8 +2796,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 12th, 2012 5:24pm </span>
+<div class="footer">
+<span class="timestamp"> January 12th, 2012 5:24pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">plague doctor</span>
@@ -2835,8 +2821,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 13th, 2012 6:41pm </span>
+<div class="footer">
+<span class="timestamp"> January 13th, 2012 6:41pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2856,8 +2842,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 16th, 2012 7:40pm </span>
+<div class="footer">
+<span class="timestamp"> January 16th, 2012 7:40pm </span>
 <span class="tag">story</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -2877,8 +2863,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 17th, 2012 6:59pm </span>
+<div class="footer">
+<span class="timestamp"> January 17th, 2012 6:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -2898,8 +2884,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 18th, 2012 6:51pm </span>
+<div class="footer">
+<span class="timestamp"> January 18th, 2012 6:51pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -2923,8 +2909,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 19th, 2012 4:19pm </span>
+<div class="footer">
+<span class="timestamp"> January 19th, 2012 4:19pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">exit music</span>
@@ -2939,8 +2925,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 20th, 2012 7:09pm </span>
+<div class="footer">
+<span class="timestamp"> January 20th, 2012 7:09pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">surface</span>
@@ -2962,8 +2948,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 23rd, 2012 5:56pm </span>
+<div class="footer">
+<span class="timestamp"> January 23rd, 2012 5:56pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">languille</span>
@@ -2981,8 +2967,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 24th, 2012 4:38pm </span>
+<div class="footer">
+<span class="timestamp"> January 24th, 2012 4:38pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">manticore</span>
@@ -3003,8 +2989,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 25th, 2012 5:59pm </span>
+<div class="footer">
+<span class="timestamp"> January 25th, 2012 5:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">manifold hunger</span>
@@ -3024,8 +3010,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 26th, 2012 7:15pm </span>
+<div class="footer">
+<span class="timestamp"> January 26th, 2012 7:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -3051,8 +3037,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 27th, 2012 3:48pm </span>
+<div class="footer">
+<span class="timestamp"> January 27th, 2012 3:48pm </span>
 <span class="tag">prose</span>
 <span class="tag">tumblr fiction</span>
 <span class="tag">prompt</span>
@@ -3070,8 +3056,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 30th, 2012 12:12pm </span>
+<div class="footer">
+<span class="timestamp"> January 30th, 2012 12:12pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -3089,8 +3075,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> January 31st, 2012 2:45pm </span>
+<div class="footer">
+<span class="timestamp"> January 31st, 2012 2:45pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">zamglenie</span>
@@ -3114,8 +3100,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 1st, 2012 5:26pm </span>
+<div class="footer">
+<span class="timestamp"> February 1st, 2012 5:26pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -3135,8 +3121,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 2nd, 2012 6:15pm </span>
+<div class="footer">
+<span class="timestamp"> February 2nd, 2012 6:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -3160,8 +3146,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 3rd, 2012 9:18am </span>
+<div class="footer">
+<span class="timestamp"> February 3rd, 2012 9:18am </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -3184,8 +3170,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 6th, 2012 4:32pm </span>
+<div class="footer">
+<span class="timestamp"> February 6th, 2012 4:32pm </span>
 <span class="tag">prose</span>
 <span class="tag">drabble</span>
 <span class="tag">prometheus</span>
@@ -3207,8 +3193,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 7th, 2012 5:23pm </span>
+<div class="footer">
+<span class="timestamp"> February 7th, 2012 5:23pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">ice</span>
@@ -3230,8 +3216,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 8th, 2012 6:00pm </span>
+<div class="footer">
+<span class="timestamp"> February 8th, 2012 6:00pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">nature</span>
@@ -3251,8 +3237,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 9th, 2012 4:02pm </span>
+<div class="footer">
+<span class="timestamp"> February 9th, 2012 4:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">flashfiction</span>
 <span class="tag">okhotsk</span>
@@ -3274,8 +3260,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 10th, 2012 4:12pm </span>
+<div class="footer">
+<span class="timestamp"> February 10th, 2012 4:12pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">spilled ink</span>
@@ -3295,8 +3281,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 13th, 2012 8:04am </span>
+<div class="footer">
+<span class="timestamp"> February 13th, 2012 8:04am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">radium girls</span>
@@ -3316,8 +3302,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 14th, 2012 11:02am </span>
+<div class="footer">
+<span class="timestamp"> February 14th, 2012 11:02am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">projection</span>
@@ -3337,8 +3323,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 15th, 2012 11:02am </span>
+<div class="footer">
+<span class="timestamp"> February 15th, 2012 11:02am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">vegetarianism</span>
@@ -3360,8 +3346,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 16th, 2012 10:58am </span>
+<div class="footer">
+<span class="timestamp"> February 16th, 2012 10:58am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">ice cream</span>
@@ -3383,8 +3369,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 17th, 2012 4:52pm </span>
+<div class="footer">
+<span class="timestamp"> February 17th, 2012 4:52pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">bukowski</span>
@@ -3404,8 +3390,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 20th, 2012 3:30pm </span>
+<div class="footer">
+<span class="timestamp"> February 20th, 2012 3:30pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prompt</span>
@@ -3423,8 +3409,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 21st, 2012 5:29pm </span>
+<div class="footer">
+<span class="timestamp"> February 21st, 2012 5:29pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">demon hunter</span>
@@ -3442,8 +3428,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 22nd, 2012 3:02pm </span>
+<div class="footer">
+<span class="timestamp"> February 22nd, 2012 3:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">drabble</span>
 <span class="tag">spilled ink</span>
@@ -3465,8 +3451,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 23rd, 2012 5:19pm </span>
+<div class="footer">
+<span class="timestamp"> February 23rd, 2012 5:19pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">surface</span>
@@ -3484,8 +3470,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 24th, 2012 5:52pm </span>
+<div class="footer">
+<span class="timestamp"> February 24th, 2012 5:52pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">community</span>
@@ -3503,8 +3489,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 27th, 2012 2:38pm </span>
+<div class="footer">
+<span class="timestamp"> February 27th, 2012 2:38pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">spilled ink</span>
@@ -3526,8 +3512,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 28th, 2012 4:17pm </span>
+<div class="footer">
+<span class="timestamp"> February 28th, 2012 4:17pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">the singularity</span>
@@ -3545,8 +3531,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> February 29th, 2012 5:09pm </span>
+<div class="footer">
+<span class="timestamp"> February 29th, 2012 5:09pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">gait</span>
@@ -3567,8 +3553,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 1st, 2012 5:10pm </span>
+<div class="footer">
+<span class="timestamp"> March 1st, 2012 5:10pm </span>
 <span class="tag">prose</span>
 <span class="tag">flashfiction</span>
 <span class="tag">drabble</span>
@@ -3588,8 +3574,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 2nd, 2012 2:11pm </span>
+<div class="footer">
+<span class="timestamp"> March 2nd, 2012 2:11pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">cryogenics</span>
@@ -3609,8 +3595,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 5th, 2012 4:52pm </span>
+<div class="footer">
+<span class="timestamp"> March 5th, 2012 4:52pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">cambridge</span>
@@ -3630,8 +3616,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 6th, 2012 12:45pm </span>
+<div class="footer">
+<span class="timestamp"> March 6th, 2012 12:45pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">love</span>
@@ -3651,8 +3637,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 7th, 2012 4:49pm </span>
+<div class="footer">
+<span class="timestamp"> March 7th, 2012 4:49pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">venice</span>
@@ -3672,8 +3658,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 8th, 2012 4:59pm </span>
+<div class="footer">
+<span class="timestamp"> March 8th, 2012 4:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">deuterium</span>
@@ -3695,8 +3681,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 9th, 2012 3:34pm </span>
+<div class="footer">
+<span class="timestamp"> March 9th, 2012 3:34pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">zamglenie</span>
@@ -3716,8 +3702,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 12th, 2012 4:56pm </span>
+<div class="footer">
+<span class="timestamp"> March 12th, 2012 4:56pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">moebius</span>
@@ -3735,8 +3721,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 13th, 2012 6:30pm </span>
+<div class="footer">
+<span class="timestamp"> March 13th, 2012 6:30pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">balloon</span>
@@ -3756,8 +3742,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 14th, 2012 6:12pm </span>
+<div class="footer">
+<span class="timestamp"> March 14th, 2012 6:12pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prompt</span>
@@ -3776,8 +3762,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 15th, 2012 6:30pm </span>
+<div class="footer">
+<span class="timestamp"> March 15th, 2012 6:30pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -3797,8 +3783,8 @@ The chief rubs his eyes. 'Davis, remind me when your next performance review is&
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 16th, 2012 6:30pm </span>
+<div class="footer">
+<span class="timestamp"> March 16th, 2012 6:30pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -3821,8 +3807,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
 ‘Yellow stars are rare near terminals. They say that the Earth’s sun was class G. Yellow light on your skin can trigger an emotional response. Like remembering something. Something you can’t believe you’d forgotten.’      
                 
                 
-<div id="footer">
-<span id="timestamp"> March 19th, 2012 4:37pm </span>
+<div class="footer">
+<span class="timestamp"> March 19th, 2012 4:37pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">sunlight</span>
@@ -3843,8 +3829,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 20th, 2012 6:00pm </span>
+<div class="footer">
+<span class="timestamp"> March 20th, 2012 6:00pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">heroes</span>
@@ -3875,8 +3861,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 21st, 2012 4:35pm </span>
+<div class="footer">
+<span class="timestamp"> March 21st, 2012 4:35pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -3897,8 +3883,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 22nd, 2012 6:01pm </span>
+<div class="footer">
+<span class="timestamp"> March 22nd, 2012 6:01pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -3918,8 +3904,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 23rd, 2012 5:02pm </span>
+<div class="footer">
+<span class="timestamp"> March 23rd, 2012 5:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -3940,8 +3926,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 26th, 2012 2:25pm </span>
+<div class="footer">
+<span class="timestamp"> March 26th, 2012 2:25pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">business plan</span>
@@ -3959,8 +3945,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 27th, 2012 3:23pm </span>
+<div class="footer">
+<span class="timestamp"> March 27th, 2012 3:23pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">story</span>
@@ -3982,8 +3968,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 28th, 2012 3:35pm </span>
+<div class="footer">
+<span class="timestamp"> March 28th, 2012 3:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">sheep</span>
@@ -4001,8 +3987,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 29th, 2012 3:44pm </span>
+<div class="footer">
+<span class="timestamp"> March 29th, 2012 3:44pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">love</span>
@@ -4022,8 +4008,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> March 30th, 2012 4:52pm </span>
+<div class="footer">
+<span class="timestamp"> March 30th, 2012 4:52pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -4044,8 +4030,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 2nd, 2012 1:48pm </span>
+<div class="footer">
+<span class="timestamp"> April 2nd, 2012 1:48pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">barber</span>
@@ -4065,8 +4051,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 3rd, 2012 2:47pm </span>
+<div class="footer">
+<span class="timestamp"> April 3rd, 2012 2:47pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -4086,8 +4072,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 4th, 2012 6:25pm </span>
+<div class="footer">
+<span class="timestamp"> April 4th, 2012 6:25pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">war</span>
@@ -4107,8 +4093,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 5th, 2012 5:45pm </span>
+<div class="footer">
+<span class="timestamp"> April 5th, 2012 5:45pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">dust</span>
@@ -4128,8 +4114,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 6th, 2012 7:22pm </span>
+<div class="footer">
+<span class="timestamp"> April 6th, 2012 7:22pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -4150,8 +4136,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 9th, 2012 7:27pm </span>
+<div class="footer">
+<span class="timestamp"> April 9th, 2012 7:27pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">imperator</span>
@@ -4171,8 +4157,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 10th, 2012 3:50pm </span>
+<div class="footer">
+<span class="timestamp"> April 10th, 2012 3:50pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">hasselblad</span>
@@ -4192,8 +4178,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 11th, 2012 6:44pm </span>
+<div class="footer">
+<span class="timestamp"> April 11th, 2012 6:44pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">amsterdam</span>
@@ -4213,8 +4199,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 12th, 2012 5:47pm </span>
+<div class="footer">
+<span class="timestamp"> April 12th, 2012 5:47pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -4234,8 +4220,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 13th, 2012 7:44pm </span>
+<div class="footer">
+<span class="timestamp"> April 13th, 2012 7:44pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fomalhaut</span>
@@ -4253,8 +4239,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 16th, 2012 5:16pm </span>
+<div class="footer">
+<span class="timestamp"> April 16th, 2012 5:16pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">violence</span>
@@ -4274,8 +4260,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 17th, 2012 5:12pm </span>
+<div class="footer">
+<span class="timestamp"> April 17th, 2012 5:12pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">dyson shell</span>
@@ -4295,8 +4281,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 18th, 2012 6:57pm </span>
+<div class="footer">
+<span class="timestamp"> April 18th, 2012 6:57pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">time travel</span>
@@ -4315,8 +4301,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 19th, 2012 5:05pm </span>
+<div class="footer">
+<span class="timestamp"> April 19th, 2012 5:05pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">island</span>
@@ -4338,8 +4324,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 20th, 2012 6:02pm </span>
+<div class="footer">
+<span class="timestamp"> April 20th, 2012 6:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">ronin</span>
@@ -4359,8 +4345,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 23rd, 2012 4:16pm </span>
+<div class="footer">
+<span class="timestamp"> April 23rd, 2012 4:16pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -4380,8 +4366,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 24th, 2012 6:23pm </span>
+<div class="footer">
+<span class="timestamp"> April 24th, 2012 6:23pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -4402,8 +4388,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 25th, 2012 5:17pm </span>
+<div class="footer">
+<span class="timestamp"> April 25th, 2012 5:17pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">osiris</span>
@@ -4423,8 +4409,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 26th, 2012 5:10pm </span>
+<div class="footer">
+<span class="timestamp"> April 26th, 2012 5:10pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">puberty</span>
@@ -4442,8 +4428,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 27th, 2012 9:44pm </span>
+<div class="footer">
+<span class="timestamp"> April 27th, 2012 9:44pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -4467,8 +4453,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> April 30th, 2012 8:47pm </span>
+<div class="footer">
+<span class="timestamp"> April 30th, 2012 8:47pm </span>
 <span class="tag">prose</span>
 <span class="tag">flashfiction</span>
 <span class="tag">lycanthropy</span>
@@ -4489,8 +4475,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 1st, 2012 5:14pm </span>
+<div class="footer">
+<span class="timestamp"> May 1st, 2012 5:14pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -4510,8 +4496,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 2nd, 2012 12:40pm </span>
+<div class="footer">
+<span class="timestamp"> May 2nd, 2012 12:40pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -4533,8 +4519,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 3rd, 2012 3:02pm </span>
+<div class="footer">
+<span class="timestamp"> May 3rd, 2012 3:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -4556,8 +4542,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 4th, 2012 6:20pm </span>
+<div class="footer">
+<span class="timestamp"> May 4th, 2012 6:20pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">story</span>
@@ -4575,8 +4561,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 7th, 2012 5:55pm </span>
+<div class="footer">
+<span class="timestamp"> May 7th, 2012 5:55pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flashfiction</span>
@@ -4594,8 +4580,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 8th, 2012 6:22pm </span>
+<div class="footer">
+<span class="timestamp"> May 8th, 2012 6:22pm </span>
 <span class="tag">flashfiction</span>
 <span class="tag">prose</span>
 <span class="tag">zamglenie</span>
@@ -4615,8 +4601,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 9th, 2012 6:33pm </span>
+<div class="footer">
+<span class="timestamp"> May 9th, 2012 6:33pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -4636,8 +4622,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 10th, 2012 5:35pm </span>
+<div class="footer">
+<span class="timestamp"> May 10th, 2012 5:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">breasts</span>
@@ -4657,8 +4643,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> May 11th, 2012 5:17pm </span>
+<div class="footer">
+<span class="timestamp"> May 11th, 2012 5:17pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -4676,8 +4662,8 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
 
 <p><em>I&rsquo;ll be on holiday for the next three weeks. If tumblr&rsquo;s delayed posting doesn&rsquo;t let me down, you will see <a href="http://profane-tmesis.tumblr.com/tagged/de-profundis">this</a> story appear in (about) twenty installments.</em></p>
                 
-<div id="footer">
-<span id="timestamp"> May 14th, 2012 7:55pm </span>
+<div class="footer">
+<span class="timestamp"> May 14th, 2012 7:55pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">de profundis</span>
@@ -4693,8 +4679,8 @@ Dorian Evers is a new addition to the team, recently returned from America. Gort
 
 ‘You said I should try you from 5 AM. What do you want me to do?’ 'I think you can handle it Evers. You can brief me when I come in.’         
                 
-<div id="footer">
-<span id="timestamp"> May 15th, 2012 5:34pm </span>
+<div class="footer">
+<span class="timestamp"> May 15th, 2012 5:34pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">de profundis</span>
@@ -4714,8 +4700,8 @@ The pathologist is pretty. Evers doesn’t seem to notice that she’s flirting 
 ‘Can’t tell yet. And I wouldn’t get your hopes up.’
 
 
-<div id="footer">
-<span id="timestamp"> May 16th, 2012 4:21pm </span>
+<div class="footer">
+<span class="timestamp"> May 16th, 2012 4:21pm </span>
 </div>
             
                 
@@ -4731,8 +4717,8 @@ The pathologist is pretty. Evers doesn’t seem to notice that she’s flirting 
 
 <p>The pathologist seems disappointed.</p>
                 
-<div id="footer">
-<span id="timestamp"> May 17th, 2012 4:35pm </span>
+<div class="footer">
+<span class="timestamp"> May 17th, 2012 4:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4754,8 +4740,8 @@ Evers points at his adam’s apple.<br/>
 ‘What about DNA? Is she in the database?’<br/>
 ‘Well no, but somebody else is…’<br/>
 
-<div id="footer">
-<span id="timestamp"> May 22nd, 2012 8:49am </span>
+<div class="footer">
+<span class="timestamp"> May 22nd, 2012 8:49am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">de profundis</span>
@@ -4776,8 +4762,8 @@ Gorter takes the lead. Evers is intimidating the boy.
 
 The boy is confused.         
                 
-<div id="footer">
-<span id="timestamp"> May 21st, 2012 5:38pm </span>
+<div class="footer">
+<span class="timestamp"> May 21st, 2012 5:38pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4798,8 +4784,8 @@ The boy explodes at Evers.
 
 ‘I don’t care! Why the fuck should I care about some bitch who couldn’t keep her legs shut. It’s all bullshit.’
                 
-<div id="footer">
-<span id="timestamp"> May 22nd, 2012 4:01pm </span>
+<div class="footer">
+<span class="timestamp"> May 22nd, 2012 4:01pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4813,8 +4799,8 @@ The boy explodes at Evers.
 'Have you checked with vice?’<br/>
 'They just about know her name. The brothel is squeeky clean. They’re quite fond of Leila. She used to be a prostitute herself. Climbed the ladder. They say she has the girl’s interests at heart.’<br/>
            
-<div id="footer">
-<span id="timestamp"> May 23rd, 2012 4:14pm </span>
+<div class="footer">
+<span class="timestamp"> May 23rd, 2012 4:14pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4837,8 +4823,8 @@ Leila Guessous seems genuinely upset.
 ‘My girls don’t have pimps.’
                 
                
-<div id="footer">
-<span id="timestamp"> May 24th, 2012 4:03pm </span>
+<div class="footer">
+<span class="timestamp"> May 24th, 2012 4:03pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4854,8 +4840,8 @@ Leila Guessous seems genuinely upset.
 Evers leaves the office in an awkward silence. The case is running cold. Gorter hates the feeling. He can see it it rippling through the team. Just another dead hooker. Some of them genuinely want to protect the girls. Some of them despise the legalizations. Most of them just hate to let a good puzzle go unsolved.
                 
                 
-<div id="footer">
-<span id="timestamp"> May 25th, 2012 4:05pm </span>
+<div class="footer">
+<span class="timestamp"> May 25th, 2012 4:05pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">de profundis</span>
@@ -4876,8 +4862,8 @@ Gorter is irked. That should have been his call. Digging through the old cases i
 ‘Eight years ago a prostitute was found at the Theemsweg carpark. Crushed hyoid, just like Natalia.’
                          
                 
-<div id="footer">
-<span id="timestamp"> May 28th, 2012 3:43pm </span>
+<div class="footer">
+<span class="timestamp"> May 28th, 2012 3:43pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4900,8 +4886,8 @@ Hartman takes some pleasure in briefing Evers and Gorter about her find.
 Gorter sinks into deep contemplation.
              
                        
-<div id="footer">
-<span id="timestamp"> May 29th, 2012 4:06pm </span>
+<div class="footer">
+<span class="timestamp"> May 29th, 2012 4:06pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4920,8 +4906,8 @@ Gorter sinks into deep contemplation.
 ‘And we just happen to be looking for a pimp.’<br/>
 ‘It’s thin, Evers. It’s still damn thin.’
                 
-<div id="footer">
-<span id="timestamp"> May 30th, 2012 3:50pm </span>
+<div class="footer">
+<span class="timestamp"> May 30th, 2012 3:50pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4942,8 +4928,8 @@ Gorter and Evers are watching the monitors.<br/>
 ‘I think it’s Witteveen testing the waters. He wants to see what we’ve got on him. He’s sending Zaydan out as a canary.’
 
                 
-<div id="footer">
-<span id="timestamp"> May 31st, 2012 3:55pm </span>
+<div class="footer">
+<span class="timestamp"> May 31st, 2012 3:55pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4958,8 +4944,8 @@ Gorter and Evers are watching the monitors.<br/>
 
 <p>Gorter knows he should tell his wife about the attention they&rsquo;re getting from Witteveen. She has a right to know. It&rsquo;s better if she knows. He just needs the right moment.</p>                
                 
-<div id="footer">
-<span id="timestamp"> June 1st, 2012 4:15pm </span>
+<div class="footer">
+<span class="timestamp"> June 1st, 2012 4:15pm </span>
 </div>
             
                 
@@ -4973,8 +4959,8 @@ Gorter and Evers are watching the monitors.<br/>
 'Maybe a rape? A special client?’<br/>
 'Perhaps. But we’re assuming she had a pimp. She’d hit the panic button first sign.’
                 
-<div id="footer">
-<span id="timestamp"> June 4th, 2012 4:01pm </span>
+<div class="footer">
+<span class="timestamp"> June 4th, 2012 4:01pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -4989,8 +4975,8 @@ Evers cuts off the lawyer.
 
 ‘And we did. This Ukrainian prostitute that you’ve never seen before is the mother of your child, Malik. The boy’s name is Thomas. I think he takes after you.’    
                 
-<div id="footer">
-<span id="timestamp"> June 5th, 2012 4:15pm </span>
+<div class="footer">
+<span class="timestamp"> June 5th, 2012 4:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -5010,8 +4996,8 @@ Evers is having some fun with the lawyer.<br/>
 'Too late’, Evers gloats.
          
                 
-<div id="footer">
-<span id="timestamp"> June 6th, 2012 4:01pm </span>
+<div class="footer">
+<span class="timestamp"> June 6th, 2012 4:01pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -5028,8 +5014,8 @@ Evers is having some fun with the lawyer.<br/>
 
 'She must have scratched pretty hard, mr. Witteveen, for there still to be traces after three months in the water.’<br/>        
             
-<div id="footer">
-<span id="timestamp"> June 7th, 2012 4:02pm </span>
+<div class="footer">
+<span class="timestamp"> June 7th, 2012 4:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -5044,8 +5030,8 @@ Evers is having some fun with the lawyer.<br/>
 
 <p>A petty little jab. He wonders if they had anything on Evers.</p>                
                 
-<div id="footer">
-<span id="timestamp"> June 8th, 2012 3:58pm </span>
+<div class="footer">
+<span class="timestamp"> June 8th, 2012 3:58pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">de profundis</span>
@@ -5065,8 +5051,8 @@ He looks up with a genial smile.<br/>
 'You should have seen me when my mother died. I worked my way through general relativity and historical cryptography. I kept going for months before I cracked.’   
                 
                 
-<div id="footer">
-<span id="timestamp"> June 11th, 2012 7:44pm </span>
+<div class="footer">
+<span class="timestamp"> June 11th, 2012 7:44pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5093,8 +5079,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 12th, 2012 6:45pm </span>
+<div class="footer">
+<span class="timestamp"> June 12th, 2012 6:45pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5117,8 +5103,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 13th, 2012 7:47pm </span>
+<div class="footer">
+<span class="timestamp"> June 13th, 2012 7:47pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -5134,8 +5120,8 @@ He looks up with a genial smile.<br/>
 <p>The forest will be dark, with only scattered sunlight making it through the canopy. Most light will come from the mushrooms and moss. Do not touch any of the flora. The walkway is there for a reason.</p>
             
                 
-<div id="footer">
-<span id="timestamp"> June 14th, 2012 6:43pm </span>
+<div class="footer">
+<span class="timestamp"> June 14th, 2012 6:43pm </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">sunshine</span>
@@ -5153,8 +5139,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 15th, 2012 6:59pm </span>
+<div class="footer">
+<span class="timestamp"> June 15th, 2012 6:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">crime</span>
 <span class="tag">flash fiction</span>
@@ -5177,8 +5163,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 18th, 2012 4:05pm </span>
+<div class="footer">
+<span class="timestamp"> June 18th, 2012 4:05pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">travel</span>
@@ -5196,8 +5182,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 19th, 2012 2:48pm </span>
+<div class="footer">
+<span class="timestamp"> June 19th, 2012 2:48pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5227,8 +5213,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 20th, 2012 4:05pm </span>
+<div class="footer">
+<span class="timestamp"> June 20th, 2012 4:05pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -5247,8 +5233,8 @@ He looks up with a genial smile.<br/>
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 21st, 2012 4:19pm </span>
+<div class="footer">
+<span class="timestamp"> June 21st, 2012 4:19pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
@@ -5273,8 +5259,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 22nd, 2012 5:19pm </span>
+<div class="footer">
+<span class="timestamp"> June 22nd, 2012 5:19pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5295,8 +5281,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 25th, 2012 2:07pm </span>
+<div class="footer">
+<span class="timestamp"> June 25th, 2012 2:07pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -5316,8 +5302,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 26th, 2012 1:16pm </span>
+<div class="footer">
+<span class="timestamp"> June 26th, 2012 1:16pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5337,8 +5323,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 27th, 2012 1:19pm </span>
+<div class="footer">
+<span class="timestamp"> June 27th, 2012 1:19pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
@@ -5356,8 +5342,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 28th, 2012 6:39pm </span>
+<div class="footer">
+<span class="timestamp"> June 28th, 2012 6:39pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">arson</span>
@@ -5375,8 +5361,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> June 29th, 2012 3:50pm </span>
+<div class="footer">
+<span class="timestamp"> June 29th, 2012 3:50pm </span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
@@ -5394,8 +5380,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 2nd, 2012 7:20pm </span>
+<div class="footer">
+<span class="timestamp"> July 2nd, 2012 7:20pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5413,8 +5399,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 3rd, 2012 4:18pm </span>
+<div class="footer">
+<span class="timestamp"> July 3rd, 2012 4:18pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5434,8 +5420,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 4th, 2012 5:19pm </span>
+<div class="footer">
+<span class="timestamp"> July 4th, 2012 5:19pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">insomnia</span>
@@ -5453,8 +5439,8 @@ He rasps something unintelligible.
 <p>So far he has evaded their questions about the south. They clearly expect a kind of paradise, where people live like the old days. They expect to be let in if they ever make it there. Diego does not like the idea of shattering their hopes.</p>
                 
                 
-<div id="footer">
-<span id="timestamp"> July 5th, 2012 5:01pm </span>
+<div class="footer">
+<span class="timestamp"> July 5th, 2012 5:01pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">ice</span>
@@ -5471,8 +5457,8 @@ He rasps something unintelligible.
 'It’s like lighting fires, isn’t it? Our neighbours burn the fucking house down by falling asleep with a lit cigarette, and we can’t even get the barbecue started.’
                                
                 
-<div id="footer">
-<span id="timestamp"> July 6th, 2012 5:54pm </span>
+<div class="footer">
+<span class="timestamp"> July 6th, 2012 5:54pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5489,8 +5475,8 @@ He rasps something unintelligible.
 <p>The thruster blinked to show she was approaching quarantine. No propulsion allowed. She turned it off and let the momentum carry her on. She reminded herself that she had plenty of oxygen.</p>
                 
                 
-<div id="footer">
-<span id="timestamp"> July 9th, 2012 5:11pm </span>
+<div class="footer">
+<span class="timestamp"> July 9th, 2012 5:11pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5507,8 +5493,8 @@ He rasps something unintelligible.
 <p>She was nauseous. She had been born on martian soil. Part of the first generation. She had no stomach for microgravity.</p>
               
                 
-<div id="footer">
-<span id="timestamp"> July 10th, 2012 3:49pm </span>
+<div class="footer">
+<span class="timestamp"> July 10th, 2012 3:49pm </span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
@@ -5523,8 +5509,8 @@ He rasps something unintelligible.
 <p>She could see the foundations of the skyscrapers that had not survived the loss of gravity. Most of them had collapsed and shed their rubble over vast distances. She had heard that when the earth was still settling, and the crust was going wild, there were quakes that flung whole buildings loose and into space.</p>
                 
                 
-<div id="footer">
-<span id="timestamp"> July 11th, 2012 5:35pm </span>
+<div class="footer">
+<span class="timestamp"> July 11th, 2012 5:35pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
@@ -5546,8 +5532,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 12th, 2012 5:35pm </span>
+<div class="footer">
+<span class="timestamp"> July 12th, 2012 5:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5565,8 +5551,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 13th, 2012 6:58pm </span>
+<div class="footer">
+<span class="timestamp"> July 13th, 2012 6:58pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -5585,8 +5571,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 16th, 2012 2:08pm </span>
+<div class="footer">
+<span class="timestamp"> July 16th, 2012 2:08pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
@@ -5607,8 +5593,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 17th, 2012 11:21am </span>
+<div class="footer">
+<span class="timestamp"> July 17th, 2012 11:21am </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -5627,8 +5613,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 18th, 2012 6:08pm </span>
+<div class="footer">
+<span class="timestamp"> July 18th, 2012 6:08pm </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -5650,8 +5636,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 19th, 2012 5:59pm </span>
+<div class="footer">
+<span class="timestamp"> July 19th, 2012 5:59pm </span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
@@ -5675,8 +5661,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 20th, 2012 4:08pm </span>
+<div class="footer">
+<span class="timestamp"> July 20th, 2012 4:08pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">pressure</span>
 <span class="tag">prose</span>
@@ -5697,8 +5683,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 23rd, 2012 7:51pm </span>
+<div class="footer">
+<span class="timestamp"> July 23rd, 2012 7:51pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">limbo</span>
@@ -5716,8 +5702,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 24th, 2012 3:01pm </span>
+<div class="footer">
+<span class="timestamp"> July 24th, 2012 3:01pm </span>
 <span class="tag">flash fiction</span>
 <span class="tag">prose</span>
 <span class="tag">limbo</span>
@@ -5737,8 +5723,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 25th, 2012 3:00pm </span>
+<div class="footer">
+<span class="timestamp"> July 25th, 2012 3:00pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">limbo</span>
@@ -5756,8 +5742,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 26th, 2012 2:59pm </span>
+<div class="footer">
+<span class="timestamp"> July 26th, 2012 2:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">limbo</span>
@@ -5778,8 +5764,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 27th, 2012 2:59pm </span>
+<div class="footer">
+<span class="timestamp"> July 27th, 2012 2:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">limbo</span>
@@ -5799,8 +5785,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 30th, 2012 4:00pm </span>
+<div class="footer">
+<span class="timestamp"> July 30th, 2012 4:00pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">a matter of scale</span>
@@ -5818,8 +5804,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> July 31st, 2012 5:15pm </span>
+<div class="footer">
+<span class="timestamp"> July 31st, 2012 5:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">a matter of scale</span>
@@ -5839,8 +5825,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 1st, 2012 4:55pm </span>
+<div class="footer">
+<span class="timestamp"> August 1st, 2012 4:55pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">a matter of scale</span>
@@ -5858,8 +5844,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 2nd, 2012 5:28pm </span>
+<div class="footer">
+<span class="timestamp"> August 2nd, 2012 5:28pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">a matter of scale</span>
@@ -5879,8 +5865,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 3rd, 2012 4:52pm </span>
+<div class="footer">
+<span class="timestamp"> August 3rd, 2012 4:52pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">a matter of scale</span>
@@ -5900,8 +5886,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 6th, 2012 4:59pm </span>
+<div class="footer">
+<span class="timestamp"> August 6th, 2012 4:59pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -5928,8 +5914,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 7th, 2012 4:49pm </span>
+<div class="footer">
+<span class="timestamp"> August 7th, 2012 4:49pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">cigarettes</span>
@@ -5951,8 +5937,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 8th, 2012 7:21pm </span>
+<div class="footer">
+<span class="timestamp"> August 8th, 2012 7:21pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">medicine</span>
@@ -5972,8 +5958,8 @@ He rasps something unintelligible.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 9th, 2012 7:35pm </span>
+<div class="footer">
+<span class="timestamp"> August 9th, 2012 7:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">griffin</span>
@@ -5993,8 +5979,8 @@ He can hear her eyes rolling at him.
 
 ‘I figured that the Saint Petersburg job should have been your last. The papers were very impressed with your getaway, but I know that was your backup. Botched job, escape by the skin of your teeth. And a 12 million dollar cameo to plan your retirement with. But here you are, at it again.’     
                 
-<div id="footer">
-<span id="timestamp"> August 10th, 2012 7:36pm </span>
+<div class="footer">
+<span class="timestamp"> August 10th, 2012 7:36pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">bukowski</span>
@@ -6012,8 +5998,8 @@ He can hear her eyes rolling at him.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 13th, 2012 6:15pm </span>
+<div class="footer">
+<span class="timestamp"> August 13th, 2012 6:15pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">whale</span>
@@ -6032,8 +6018,8 @@ He can hear her eyes rolling at him.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 14th, 2012 6:42pm </span>
+<div class="footer">
+<span class="timestamp"> August 14th, 2012 6:42pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">footsteps</span>
@@ -6059,8 +6045,8 @@ He can hear her eyes rolling at him.
 
 'There is no need to. I’ll call the locksmith.’     
                 
-<div id="footer">
-<span id="timestamp"> August 15th, 2012 5:25pm </span>
+<div class="footer">
+<span class="timestamp"> August 15th, 2012 5:25pm </span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
 <span class="tag">dialogue</span>
@@ -6082,8 +6068,8 @@ He can hear her eyes rolling at him.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 16th, 2012 5:26pm </span>
+<div class="footer">
+<span class="timestamp"> August 16th, 2012 5:26pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">sunset</span>
@@ -6104,8 +6090,8 @@ He can hear her eyes rolling at him.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 17th, 2012 6:26pm </span>
+<div class="footer">
+<span class="timestamp"> August 17th, 2012 6:26pm </span>
 <span class="tag">prose</span>
 <span class="tag">flash fiction</span>
 <span class="tag">fiction</span>
@@ -6130,8 +6116,8 @@ One of us. She knows that’s wishful thinking.
 
 <p><em>From <a href="http://yeahwriters.tumblr.com/post/29141693134">this prompt</a> at Yeah Write.</em></p>
                  
-<div id="footer">
-<span id="timestamp"> August 20th, 2012 6:02pm </span>
+<div class="footer">
+<span class="timestamp"> August 20th, 2012 6:02pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">boating</span>
@@ -6150,8 +6136,8 @@ One of us. She knows that’s wishful thinking.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 21st, 2012 6:17pm </span>
+<div class="footer">
+<span class="timestamp"> August 21st, 2012 6:17pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -6173,8 +6159,8 @@ One of us. She knows that’s wishful thinking.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 22nd, 2012 5:32pm </span>
+<div class="footer">
+<span class="timestamp"> August 22nd, 2012 5:32pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">priest</span>
@@ -6197,8 +6183,8 @@ One of us. She knows that’s wishful thinking.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 23rd, 2012 5:47pm </span>
+<div class="footer">
+<span class="timestamp"> August 23rd, 2012 5:47pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">cool blue reason</span>
@@ -6223,8 +6209,8 @@ Officer Baines falls several paces behind his colleague and unclips his holster.
 
 <p><em>From <a href="http://tumblrfiction.tumblr.com/post/30041239524/catharsis-write-about-a-character-experiencing-a">this prompt</a> at Tumblr fiction.</em></p>
                 
-<div id="footer">
-<span id="timestamp"> August 24th, 2012 7:11pm </span>
+<div class="footer">
+<span class="timestamp"> August 24th, 2012 7:11pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">croissant</span>
@@ -6238,8 +6224,8 @@ Officer Baines falls several paces behind his colleague and unclips his holster.
 <p>The water is fine and you fill any receptacle you can find. The cell phone is dead. The TV is telling you to wait for further information. The internet is slow, but alive. So far, no one on earth has seen the sun today.</p>
                
                 
-<div id="footer">
-<span id="timestamp"> August 27th, 2012 7:06pm </span>
+<div class="footer">
+<span class="timestamp"> August 27th, 2012 7:06pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">daylight</span>
@@ -6263,8 +6249,8 @@ She doesn’t answer but they’re thinking the same thing.
 
 <p><em>From <a href="http://www.velvetverbosity.com/2012/08/28/100-word-challenge-open-road/">this prompt</a> at Velvet verbosity.</em></p>
                
-<div id="footer">
-<span id="timestamp"> August 28th, 2012 7:31pm </span>
+<div class="footer">
+<span class="timestamp"> August 28th, 2012 7:31pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -6285,8 +6271,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 29th, 2012 7:35pm </span>
+<div class="footer">
+<span class="timestamp"> August 29th, 2012 7:35pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">fomalhaut</span>
@@ -6309,8 +6295,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 30th, 2012 6:54pm </span>
+<div class="footer">
+<span class="timestamp"> August 30th, 2012 6:54pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">penguins</span>
@@ -6331,8 +6317,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> August 31st, 2012 7:28pm </span>
+<div class="footer">
+<span class="timestamp"> August 31st, 2012 7:28pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">grind</span>
@@ -6351,8 +6337,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 3rd, 2012 6:07pm </span>
+<div class="footer">
+<span class="timestamp"> September 3rd, 2012 6:07pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">interpol</span>
@@ -6376,8 +6362,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 4th, 2012 5:33pm </span>
+<div class="footer">
+<span class="timestamp"> September 4th, 2012 5:33pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">rockets</span>
@@ -6400,8 +6386,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 5th, 2012 5:55pm </span>
+<div class="footer">
+<span class="timestamp"> September 5th, 2012 5:55pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">gaunt</span>
@@ -6426,8 +6412,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 6th, 2012 7:05pm </span>
+<div class="footer">
+<span class="timestamp"> September 6th, 2012 7:05pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">baker</span>
@@ -6450,8 +6436,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 7th, 2012 5:54pm </span>
+<div class="footer">
+<span class="timestamp"> September 7th, 2012 5:54pm </span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
 </div>
@@ -6470,8 +6456,8 @@ She doesn’t answer but they’re thinking the same thing.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 10th, 2012 5:16pm </span>
+<div class="footer">
+<span class="timestamp"> September 10th, 2012 5:16pm </span>
 <span class="tag">canopy</span>
 <span class="tag">fiction</span>
 <span class="tag">prose</span>
@@ -6487,8 +6473,8 @@ She doesn’t answer but they’re thinking the same thing.
 
 <p><em>This is the one-year anniversary of profane tmesis. <a href="http://profane-tmesis.tumblr.com/post/10085704070/the-promise-of-new-life">Here</a>&rsquo;s the first post, if you&rsquo;re interested. If all goes well, the project will end next Tuesday at 303 posts.</em></p>
                 
-<div id="footer">
-<span id="timestamp"> September 11th, 2012 7:50pm </span>
+<div class="footer">
+<span class="timestamp"> September 11th, 2012 7:50pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
@@ -6510,8 +6496,8 @@ She doesn’t answer but they’re thinking the same thing.
 
 <p><em>From <a href="http://www.velvetverbosity.com/2012/09/11/100-word-challenge-inspired-garrison-keele">this prompt</a> at Velvet verbosity.</em></p>
 
-<div id="footer">
-<span id="timestamp"> September 12th, 2012 4:55pm </span>
+<div class="footer">
+<span class="timestamp"> September 12th, 2012 4:55pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">guns</span>
@@ -6532,8 +6518,8 @@ And off she went, with only little Toto following.
 
 <p>From <a href="http://yeahwriters.tumblr.com/post/31431543807">this prompt</a> at Yeah write.</p>
                 
-<div id="footer">
-<span id="timestamp"> September 13th, 2012 4:04pm </span>
+<div class="footer">
+<span class="timestamp"> September 13th, 2012 4:04pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">dorothy</span>
@@ -6554,8 +6540,8 @@ And off she went, with only little Toto following.
                 
                 
                 
-<div id="footer">
-<span id="timestamp"> September 14th, 2012 2:56pm </span>
+<div class="footer">
+<span class="timestamp"> September 14th, 2012 2:56pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">amakudari</span>
@@ -6574,8 +6560,8 @@ And off she went, with only little Toto following.
 <p>That means it&rsquo;s over. She exaggerates the ankle and drops to second.</p>
                 
                 
-<div id="footer">
-<span id="timestamp"> September 17th, 2012 4:17pm </span>
+<div class="footer">
+<span class="timestamp"> September 17th, 2012 4:17pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">gray&#039;s anatomy</span>
@@ -6596,8 +6582,8 @@ They smile at each other comfortably.
 ‘It does. But it’s over whatever we do. It stopped without us.’<br/>
 ‘So the only control we have is to start something else.’
 
-<div id="footer">
-<span id="timestamp"> September 18th, 2012 6:08pm </span>
+<div class="footer">
+<span class="timestamp"> September 18th, 2012 6:08pm </span>
 <span class="tag">prose</span>
 <span class="tag">fiction</span>
 <span class="tag">flash fiction</span>
