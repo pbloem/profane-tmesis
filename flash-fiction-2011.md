@@ -6151,7 +6151,7 @@ One of us. She knows that’s wishful thinking.
 
 <p>&lsquo;Where is your God now, Priest?!&rsquo; It is a maniacal cry. The creature shouts the words without understanding them. It knows the language, but it lacks the experience required for a natural intonation.</p>
 
-<p>'Actually&hellip;&rsquo;, father Dmitri stands in the doorway with a lit Molotov cocktail rigged from a bottle of cleaning alcohol.
+<p>&lsquo;Actually&hellip;&rsquo;, father Dmitri stands in the doorway with a lit Molotov cocktail rigged from a bottle of cleaning alcohol. &lsquo;I don't believe in God.&rsquo;
 </p>
                 
                 
