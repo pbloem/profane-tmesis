@@ -2,7 +2,7 @@
 title:  "A week in the life of"
 summary: "I feel strange when I emerge from the scanner. I guess it's not really an MRI scanner any more, but it still feels like I've had an eight hour scan under some heavy narcotics. My thoughts are slow, undefined. Does this mean the experiment has worked? I try to check myself for new memories."
 
-image: "https://assets.newatlas.com/dims4/default/7b22567/2147483647/strip/true/crop/1619x1080+151+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fpsychopath-brain-mri-2.jpg"
+image: "https://a.wattpad.com/cover/212905618-352-k378766.jpg"
 
 ---
 
