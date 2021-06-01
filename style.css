@@ -60,13 +60,14 @@ p {
 }
 
 aside {
-	font-size: 0.8em;
-	line-height: 2em; 
+	font-size: 1em;
+	line-height: 1.8em;
+
 	
-	width: 95%;
+	width: 92%;
 	
 	padding: 0;
-	margin: 0 0 60px auto;
+	margin: 0.5em 0 0.5em auto;
 }
 
 ul, ol {
