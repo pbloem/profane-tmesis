@@ -1,11 +1,12 @@
 ---
-title: " If Croesus goes to war"
+title: "If Croesus goes to war"
 
 summary: "When I arrived at Naxos and made my way to the small beach on its eastern coast, I found only a handful of visitors who were there for the same reason I was. To consult the oracle, at the temple in the cave, on a small, unnamed island to the south."
 
 image: "https://holidaygreece.ru/images/w./h.400/c.0/mr.1/d.guide_photos/sd.2014-04/i.1276619_10151807322058194_427827914_itaka-20140415.jpg"
 ---
 
+# If Croesus goes to war
 
 <aside><em>I count the grains of sand on the beach and measure the sea; I understand the speech of the dumb and hear the voiceless. The smell has come to my sense of a hard shelled tortoise boiling and bubbling with a lamb's flesh in a bronze pot: the cauldron underneath it is of bronze, and bronze is the lid.</em></aside>
 
@@ -25,17 +26,17 @@ When I first heard of the oracle of Naxos, I had long given up. I was continuing
 
 It was a fisherman in a taverna who first told me. I was well wary by then, of the showmen who stalk the harbors, drawing the believers to the temple for a cut of the proceeds. This was no showman. The man stumbled over his words, and struggled to make himself clear. He warned me not to go. Imploring, grabbing me drunkenly by the collar. At that point, no promises of mystical truth and salvation could have tempted me, but this was a sincere warning, from a clearly frightened man. Whatever he was warning me away from, he at least believed that it was genuine.
 
-So I made my way to Naxos. I asked around, and found people who knew what I was talking about. The island was unnamed, home to a few handfuls of people. But there was a temple, and a small sloop ferried its visitors to the island and back once a day. I observed for a few days. In the morning, a small group of visitors, five was the most I saw, would patiently wait at the beach in the early morning, until a stocky, red-haired man, his bare, broad shoulders slathered in olive oil to protect against the sun, rowed up to a small improvised jetty, and took them to the island. 
+So I made my way to Naxos. I asked around, and found people who knew what I was talking about. The island was unnamed, home to a few handfuls of people. But there was a temple, and a small rowing boat ferried its visitors to the island and back once a day. I observed for a few days. In the morning, a small group, five was the most I saw, would patiently wait at the beach in the early morning, until a stocky, red-haired man, his bare, broad shoulders slathered in olive oil to protect against the sun, rowed up to an improvised wooden jetty, and took them to the island. 
 
-After a few days I decided it was time to join. I didn't know whether I was meant to make arrangements somewhere or whether I needed to announce myself. I simply joined the group on the beach. I did not greet the other visitors, and they did not greet me. The red-haired man let me board the row boat, and we set off.
+After a few days I decided it was time to join. I didn't know whether I was meant to make arrangements somewhere or whether I needed to announce myself. I simply joined the group on the beach. I did not greet the other visitors, and they did not greet me. The red-haired man let me board the rowboat, and we set off.
 
-The red-haired man rowed, uninterrupted, and the sun was almost at the zenith, when we reached the island. When the boat hit the beach, he jumped ashore, and pulled it aground as far he could. A small pole had been put in place for him to moor the boat, but there was no jetty, so we each jumped off the boat as he had done, and waded through the water to the shore. 
+The red-haired man rowed, uninterrupted, and the sun was almost at the zenith, when we reached the island. When the boat hit the beach, he jumped ashore, and pulled it aground as far he could. A small pole had been put in place for him to moor the boat, but there was no jetty, so we each jumped off into the shallow water, as he had done, and waded to the shore. 
 
-The red-haired man pointed us along the shoreline, and walked up the beach himself. Hesitantly, we walked along the beach. Where the beach ended, we found a small rope ladder that allowed us to climb over the large rock protruding out into the sea. After that, another long beach. Where that ended, a set of small wooden walkways had been constructed, no broader than a single plank, barely wide enough for two feet, side by side. We spaced ourselves out so that no more than one of us would stretch the thin planks at a time.
+He pointed us along the shoreline, and walked up the beach himself. Hesitantly, we walked along the beach. Where the beach ended, we found a small rope ladder that allowed us to climb over the large rock protruding out into the sea. After that, another long beach. Where that ended, a set of small wooden walkways had been constructed, no broader than a single plank, barely wide enough for two feet. We spaced ourselves out so that no more than one of us would stretch the thin planks at a time.
 
 The walkways continued for a while, along a rockface rising straight out of the sea. Clean white bands of quartzite lilted in the direction of our route. The walkway terminated in a small cove, still with no beach and nothing but white cliff faces on on all three sides. On the far side, the cliff face lifted very slightly out of the water to reveal a small cave entrance that swallowed the walkway. 
 
-I held back while the rest of the visitors approached the cave. I heard them being greeted by a young, priestess, and being asked to wait. I made my way back along the walkway to the last beach
+I held back while the rest of the visitors approached the cave. I heard them being greeted by a young priestess, and being asked to wait. I made my way back along the walkway to the last beach.
 
 Each temple is a theatre. If you want to see its true face, don't enter with the crowd. Instead, watch the actors come and go. I had caught many a priestess that way, stripped of her dramatic costume, removed from the smoke and smell of incense, the paint cleared from her face. After that, there would be no false hope. I would see no mysticism where there were only theatrics. 
 
@@ -55,11 +56,11 @@ She smiled at me, kindly, and held out her arms. "Pamphilos." She said it softly
 
 "Pamphilos of the Ardiae. Your household numbers fifteen slaves. Five-thousand strong are sworn to answer your call. Your olive grove is the envy of the Adriatic. You have come to ask me a question. It is about your son."
 
-She kept smiling, patiently as I stood silently.
+She kept smiling patiently as I stood there, silent.
 
 I was at a loss. I had used assumed names, invented many characters for myself to play. For years, I had not given away a single truth. Precisely for this purpose. Precisely so that I would be armored against their cruel tricks. 
 
-"This is the night you've been waiting for Pamphilos, this is the night an Oracle answers your questions."
+"This is the night you've been waiting for Pamphilos, this is the night an oracle answers your questions."
 
 I could not have spoken if I wanted to. I stayed still. I tried desperately not to let her read how much she had shaken me. 
 
@@ -81,7 +82,7 @@ Before I could speak, she interjected.
 
 She spoke with no drama. No theatre. Almost bored at the obvious truth of her proclamations.
 
-"To the village", I said at last. Whatever she had planned for me, whatever tricks she was playing, I could not let this end with a few simple questions and a night sleeping under the stars. 
+"To the village", I said at last. Whatever she had planned for me, whatever tricks she was playing, I could not let this end with a few simple questions and a night sleeping on the beach. 
 
 At first we walked in silence. I felt somehow that every question I would ask would pull me more firmly into her influence. I could sense it in her confidence. 
 
@@ -95,7 +96,7 @@ At first we walked in silence. I felt somehow that every question I would ask wo
 
 I shook my head.
 
-"They are a little like your demigods, perhaps. But older. Much older. They predate most of the gods of man. I was a goatherd in Palmyra, an orphan girl. I owned a small herd, just enough to keep myself alive. I learned soon enough that even young girls should be vigilant in big cities, so I spent most of my time outside the walls by myself. I led my goats to young shrubs, and to fresh running water, and I slept under the stars most nights.
+"They are a little like your demigods, perhaps. But older. Much older. They predate most of the gods of man. I was a goatherd in Palmyra, an orphan girl. I owned a small herd, just big enough to keep myself alive. I learned soon enough that even young girls should be vigilant in big cities, so I spent most of my time outside the walls by myself. I led my goats to young shrubs, and to fresh running water, and I slept under the stars most nights.
 
 The lands around Palmyra are bountiful if you know where to look, but they can be treacherous as well. While leading my goats across a dangerous stretch of arid land, I spotted the shade of a figure in the distance. I saw him standing up, and then collapse to his knees. It could have been a trick of the light, I told myself, a dead tree or small cloud of dust kicked up by a desert rat. I was in no position to make detours. I deliberated for a while, but then decided: I did not want to spend the rest of my life unsure whether I had let an unfortunate traveler die. 
 
