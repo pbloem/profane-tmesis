@@ -106,19 +106,19 @@ I managed to find enough deadwood to create some shade for us and for my goats. 
 
 As night began to fall, he regained consciousness. He expressed his gratitude, acknowledging that I had certainly saved his life. Weakly, he offered his apologies. He was a poor man, with nothing left to give. Half asleep, he muttered that if he had been a Jinn, he would have surely granted me a wish.
 
-Ah yes. Allow me to explain. There are many Jinns, with many different abilities. But there is only one type that anybody ever talks about. The Jinns that grant you a wish. Some say you must trap them, some say you must meet them on a full moon, some say you must save their life. Whatever the case, the Jinn is always reluctant. 
+Ah yes. Allow me to explain. There are many Jinns, with many different abilities. But there is only one type that anybody ever talks about. The Jinns that grant you a wish. Some say you must trap them, some say you must meet them on a full moon, some say you must save their life. Whatever the case, the Jinn is always reluctant, but if the conditions are right, you will get your wish. 
 
 Lying on his back still, with his eyes closed, the man asked me what my wish would be, if I ever did meet a Jinn. A common enough question to ask a stranger around a campfire outside Palmyra. Stories of Jinns are common fare, and we've all played out our private fantasies.
 
 Of course, stories with wishes rarely end happily. I need hardly tell a Greek that. Ask for eternal life and you end up aging into infinity. Ask for your enemy's true love to die, and you may come home to find your wife has met an early end. The gods are as cruel in Palmyra as they are everywhere else.
 
-I had always believed that it was the greed inherent in the wish that invited such retribution.  A virtuous request, I thought, could not possibly deserve to be punished. 
+I had always believed that it was the greed and the malice in such wishes that invited the retribution.  A virtuous request, I thought, could not possibly deserve to be punished. 
 
 And truth, I knew, is the greatest virtue. It may take great pains at the time, it may take courage, but ultimately, there is no greater virtue than to tell the truth. So that is what I told the stranger. If I ever met a Jinn, my wish would be to answer any question truthfully, no matter what the circumstances. 
 
-The stranger smiled weakly. "Of all the questions you could ask. I bet it seems like a simple thing to you. If a Ginnaye were to grant you such a wish, it would surely be his final act." He coughed.
+The stranger smiled weakly. 'Of all the questions you could ask. I bet it seems like a simple thing to you. If a Ginnaye were to grant you such a wish, it would surely be his final act.' He coughed.
 
-"But then, what a final act it would be. You would become a mighty thread in the tapestry, little one. Yes, that would be a good final wish for a Jinn to fulfill."
+'But then, what a final act it would be. You would become a mighty thread in the tapestry, little one. Yes, that would be a good final wish for a Jinn to fulfill.'
 
 We did not speak further. When I woke, the stranger was gone. He had taken none of my water, and I could find no tracks to indicate in which direction he had left."
 
@@ -134,31 +134,31 @@ I paid twice what such a meal should cost, and in return he left us in peace. It
 
 "So you think the stranger was a Jinn?"
 
-"I know he was a Jinn. I have lived with the consequences of my answer ever since." 
+"I know he was a Jinn. I have lived with the consequences of my answer ever since. 
 
-"But I did not know right away. I spent most of my time in those days with no other company than my goats. I rarely met people, except when I went into the city to sell my milk. The first person I spoke to after the Jinn had disappeared was a keeper of an inn just outside the south walls. An unpleasant man, but one who always paid a fair price. 
+But I did not know right away. I spent most of my time in those days with no other company than my goats. I rarely met people, except when I went into the city to sell my milk. The first person I spoke to after the Jinn had disappeared was a keeper of an inn just outside the south walls. An unpleasant man, but one who always paid a fair price. 
 
-He enjoyed asking me questions that made me uncomfortable. Intimate, physical questions. Coming along nicely, I see. He said, as he poked my chest with a fat finger. He spoke loudly, more to his patrons than to me. Soon, you'll be a ripe little fig. You'll start craving the touch of a man like me. And more than a finger too! His patrons laughed.
+He enjoyed asking me questions that made me uncomfortable. Intimate, physical questions. 'Coming along nicely, I see', he said, as he poked my chest with a fat finger. He spoke loudly, more to his patrons than to me. zSoon, you'll be a ripe little fig. You'll start craving the touch of a man like me. And more than a finger too!' His patrons laughed.
 
-How about it little one? I had passed him the milk, but he held back my money to taunt me. Have you started having ungodly thoughts yet? 
+'How about it little one?' I had passed him the milk, but he held back my money to taunt me. 'Have you started having ungodly thoughts yet?'
  
-Yes, I have. It took some time before I realized what I had said. I felt dizzy with shock. 
+'Yes, I have.' It took some time before I realized what I had said. I felt dizzy with shock. 
 
-He laughed heartily, almost as shocked at my honesty as I was. Really? And what have you fantasized about, little one? Who would you like to give your little cherry to?
+He laughed heartily, almost as shocked at my honesty as I was. 'Really? And what have you fantasized about, little one? Who would you like to give your little cherry to?'
 
-There is a slave girl at the temple, she cleans the statues. I've talked to her a few times. The words came out easily, as though somebody else was speaking. I think about kissing her. Kissing her everywhere. Then I think about her kissing me.
+'There is a slave girl at the temple, she cleans the statues. I've talked to her a few times.' The words came out easily, as though somebody else was speaking. 'I think about kissing her. Kissing her everywhere. Then I think about her kissing me.'
 
 The innkeeper did not understand what was happening to me, but he wasted no time in capitalizing on his good fortune. He forced me to recount my fantasies in as much detail as possible. He only relented when my crying became so heavy that I found it difficult to speak. But still, the words forced themselves out through my sore throat. 
 
 Normally his wife would step in after a few taunts, and make him pay me. But this time, she simply stood by with a horrified look. Perhaps I should explain. She was not horrified at what her husband was doing, you see. She was horrified at what I had said. 
 
-In those days the temple had a strong hold on Palmyra, and for one woman to lie with another was seen as an unforgivable sins. These were my most shameful, most secret thoughts. And with good reason. I had seen crowds, whipped into a fury, cheer the executions of men and women alike for just such acts as I had dreamed of committing with that innocent slave girl.
+In those days the temple had a strong hold on Palmyra, and for one woman to lie with another was seen as an unforgivable sin. These were my most shameful, most secret thoughts. And with good reason. I had seen crowds, whipped into a fury, cheer the executions of men and women alike for just such acts as I had dreamed of committing with that innocent slave girl.
 
 I hurried out with my money. I bought no supplies, and took my goats as far away from the city as I could. When night fell, I lay on my back, staring wide eyed at the stars. Letting the enormity of the firmament make me as small and as insignificant as it could. 
 
 When my shame had subsided, I began to realize exactly what had happened. The consequences of my answer to the stranger's question. What the Jinn had done to me.
 
-I fled from Palmyra in a panic. In shame, and in fear. These days I think they are more kind over there. But it changes like the wind, how people like me are treated. It does not shock you, Pamphilos, to share your table with a gynaikerastria?"
+I fled from Palmyra in a panic. In shame, and in fear. These days I think they are more kind over there. But it changes like the wind, how people like me are treated. It does not shock you, Pamphilos, to share your table with a _gynaikerastria_?"
 
 "Not in the least."
 
@@ -182,17 +182,17 @@ I left Palmyra and headed west, to Antioch. I lost my flock to the heat. I was n
 
 I was frightened to join them. I had no doubt now that I was cursed. I could feel it in my throat when I just imagined somebody asking me a question. So many innocent questions would get me in trouble. Where are you from, how did you get here, why did you leave Palmyra?
 
-At first I considered mumbling my answers, or pretending to be mute. But of course, as soon as somebody would ask What's the matter with you? the whole history would come out. 
+At first I considered mumbling my answers, or pretending to be mute. But of course, as soon as somebody would ask _What's the matter with you?_ the whole history would come out. 
 
 In the end, my hunger and thirst won out, and without a plan, I joined the other children.
 
-The questions were not as bad as I had thought. What's your name? they asked and Where are you from? It gave me an opportunity to test my condition. I found I could not hold back the answer for long, but if I did, I had some measure of control. I could state that I was from Palmyra, or from the south, from a large city called Palmyra. 
+The questions were not as bad as I had thought. 'What's your name?' they asked and 'Where are you from?' It gave me an opportunity to test my condition. I found I could not hold back the answer for long, but if I did, I had some measure of control. I could state that I was 'from Palmyra', or 'from the south', 'from a large city called Palmyra'. 
 
 Any details I tried to withhold would come out immediately, but if I relaxed and concentrated, I could control the phrasing, and the order in which the facts emerged. I tried answering in Aramaic instead of Greek, but I found that I could not. If I could possibly make myself understood to the person who asked me a question, I had to.
 
 Mostly, I chose the shortest answer possible. Anything to keep people from asking more questions. This did not endear me to anybody, but I usually managed to get some share of the water and food.
 
-Among the caravan, there was a storyteller. A true Greek. At night, when the campfires were lit, he would find a group of traders that had some coin to spare, and tell them stories. Mostly of your ancient heroes. Of Achilles and Odysseus. But also of Alexander. The Greek traders were fond of the stories from the glory days of their empire, those ancient days when the different kingdoms first united to conquer Troy. And the glorious empire of Alexander, on the edges of your living memory."
+Among the caravan, there was a storyteller. A true Greek. At night, when the campfires were lit, he would find a group of traders that had some coin to spare, and tell them stories. Mostly of your ancient heroes. Of Achilles and Odysseus. But also of Alexander. The Greek traders were fond of the stories from the glory days of their empire."
 
 She paused to help herself to some wine, and bread. I remembered the many storytellers I had seen in my own travels. Indeed, always the old heroes. Tales of the Greek peoples at their finest. People seem so weary now, scarred by so many small and petty wars. So much death and destruction for so little change, demanded by such feeble leaders. They long for the days of Alexander. When a single man, a single Greek, could conquer all the kingdoms to the ends of the world. Or before that, in the days of the old kings, when Agamemnon and Odysseus burned a city to the ground, for the honor of a single man.
 
@@ -200,69 +200,69 @@ Is this why there are so many storytellers nowadays, I thought to myself. Are we
 
 "For the eastern traders, he reserved the more tragic stories. The stories that the Greeks themselves no longer tell. Of Croesus, of King Oedipus, of Aegeus and Theseus. Around these campfires, the darker, the perverse side of the Greek legacy made a welcome diversion. The eastern traders were eager to hear of anything they could use to put their arrogant western counterparts in their place.
 
-We followed him around, to listen from a safe distance, without angering the traders. The other children would often act out his stories as we trudged after the caravan, pretending to feed each other murdered children, and to gauge their eyes out after they learned of the horrible things they had done. 
+We followed him around, to listen from a safe distance, without angering the traders. The other children would often act out his stories as we trudged after the caravan, pretending to feed each other murdered children, and to gouge their eyes out after they learned of the horrible things they had done. 
 
 When we came to Sardis, the caravan disbanded, and with it the group of orphans. As they ran off to their preferred places to beg, play, or steal, I was left alone. Instantly, I felt a great sense of despair come over me. I did not speak Greek well, and I did not know this city at all. Too late, I realized I should have followed the other children. 
 
 Behind me, I heard the storyteller.
-"Tell me, how is it that you have survived for so long?"
-"I'm sorry, I said, I do not understand the question."
-"I grew up like you, you know. I lived on the streets when I was your age. Kids like you don't survive. Kids who don't fight. Kids who are polite and withdrawn. You need the other kids to survive, and you need to be able to take what you want from them, when it comes to that."
+'Tell me, how is it that you have survived for so long?'
+'I'm sorry, I said, I do not understand the question.'
+'I grew up like you, you know. I lived on the streets when I was your age. Kids like you don't survive. Kids who don't fight. Kids who are polite and withdrawn. You need the other kids to survive, and you need to be able to take what you want from them, when it comes to that.'
 
 I now understood. I hoped he would not ask again.
 
-"How did you survive so long?"
-"I was not always a beggar, I said. I used to be a goatherd in Palmyra. I kept to myself outside the city walls."
-"That sounds like a charmed life, for an orphan girl. However did you manage to lose all that, and end up here with the likes of us?"
+'How did you survive so long?'<br/>
+'I was not always a beggar', I said. 'I used to be a goatherd in Palmyra. I kept to myself outside the city walls.'<br/>
+'That sounds like a charmed life, for an orphan girl. However did you manage to lose all that, and end up here with the likes of us?'
 
 I tried to fight it, but I doubt he even noticed the pause between his question and my answer. The whole history trickled from me like water from a well spring. I spoke for minutes on end, barely managing to pause for breath.
 
 He looked at me, wide-eyed. 
 
-"Well, that was quite a story. Maybe I mistook you. Is this some scheme you run with your friends, to fool the gullible adults?
-"No. I have no friends."
+'Well, that was quite a story. Maybe I mistook you. Is this some scheme you run with your friends, to fool the gullible adults'<br/>
+'No. I have no friends.'
 
 He grabbed my tunic. I struggled.
 
-"Don't worry. I won't hurt you. But this is far too interesting a game for you to just run off. You don't mind, surely, if I put your story to the test."
+'Don't worry. I won't hurt you. But this is far too interesting a game for you to just run off. You don't mind, surely, if I put your story to the test.'
 
-"Please don't ask me anything embarrassing", I begged.
+'Please don't ask me anything embarrassing', I begged.
 
-"Hm, a nice touch." He smiled. "If I did that, it would give you just the opportunity to fake a convincing answer. I would feel in control, but really, it would be no test at all. I'm not so easily led, girl. A proper test would be a question about me. Something you wouldn't know. The name of my first love for instance."
+'Hm, a nice touch. If I did that, it would give you just the opportunity to fake a convincing answer. I would feel in control, but really, it would be no test at all. I'm not so easily led, girl. A proper test would be a question about _me_. Something you wouldn't know. The name of my first love for instance.'
 
 He looked at me expectantly.
 
-"I think it needs to be a question", I mumbled.
-"Ah. What was the name of the maiden that was my first love?"
-"Your first love was not a maiden. It was a slave boy you called Lathyros. His real name was Phut."
+'I think it needs to be a question', I mumbled.<rb/>
+'Ah. What was the name of the maiden that was my first love?'<br/>
+'Your first love was not a maiden. It was a slave boy you called Lathyros. His real name was Phut.'
 
-His eyes became wide. "How?", he shouted, "How could you know that?"
+His eyes became wide. 'How?', he shouted, 'How could you know that?'
 
 He sank to his knees, still grabbing my tunic, dragging me down with him.
 
-"I didn't", I said, "until you asked me the question."
-"You don't know anything else? About him. About us?"
-"No, not until you ask me."
+'I didn't', I said, 'until you asked me the question.'<br/>
+'You don't know anything else? About him. About us?'<br/>
+'No, not until you ask me.'<br/>
 
-His grip on my tunic relaxed, and he sat back. "Were you a slave too?" I asked.
+His grip on my tunic relaxed, and he sat back. 'Were you a slave too?' I asked.
 
-"I was employed by a butcher then. I used to make deliveries to the villa where he lived."
+'I was employed by a butcher then. I used to make deliveries to the villa where he lived.'
 
-We sat in silence for a while. Then, he suddenly jumped to his feet, and smiled at me., "I suppose I should ask you more questions, just to be sure. But I'm a little scared, to tell you the truth. Tell you what, how about we stick together for a while? I can show you the city. Teach you some of the tricks the kids use to stay alive around here and scrounge a daily meal together. How do you feel about that?"
+We sat in silence for a while. Then, he suddenly jumped to his feet, and smiled at me., 'I suppose I should ask you more questions, just to be sure. But I'm a little scared, to tell you the truth. Tell you what, how about we stick together for a while? I can show you the city. Teach you some of the tricks the kids use to stay alive around here and scrounge a daily meal together. How do you feel about that?'
 
-"Relieved", I said, "that I have an option, but a little worried, because I don't really trust you."
+'Relieved', I said, 'that I have an option, but a little worried, because I don't really trust you.'
 
-"Oh, right", he said, taken aback by my honesty. "I guess I should be careful with the direct questions. Tell you what. I will do my best not to ask you anything so long as we're together. Not unless you give me permission."
+'Oh, right', he said, taken aback by my honesty. 'I guess I should be careful with the direct questions. Tell you what. I will do my best not to ask you anything so long as we're together. Not unless you give me permission.'
 
-He thought for a while, seeking a suitable phrase, that wasn't a question. "That might help, I think."
-"I think it would", I smiled.
-"Call me Agias", he said.
+He thought for a while, seeking a suitable phrase, that wasn't a question. 'That might help, I think.'<br/>
+'I think it would.' I smiled.<br/>
+'Call me Agias', he said.<br/>
 
-Over the next few weeks, we walked the city. The first priority of the moment was almost always food. Sometimes he would offer to tell a story at the market in exchange for food. Most times, people refused, but he would distract them enough that I could steal a loaf of bread.
+Over the next few weeks, we walked the city. The first priority of the moment was almost always food. Sometimes he would offer to tell a story at the market in exchange for scraps. Most times, people refused, but he would distract them enough that I could steal a loaf of bread.
 
 If we had eaten, we would rest, and when we were rested, but not yet hungry again, we would think of ways to get money. It didn't pay to have too much money, since it made you a target for robbery, and quite possibly murder, but a small amount of coin meant you didn't have to worry about food all the time, and it could help with some of the necessities that could not be easily stolen. 
 
-I learned to conquer my fear quickly, and soon thought nothing of grabbing a cup of wine from a table outside a taverna, when all eyes were turned. The trick was always to be calm. Be ready to run, but don't if you can avoid it. And if you keep track of where people's attentions are, you will rarely need to.
+I learned to conquer my fears quickly, and soon thought nothing of grabbing a cup of wine from a table outside a taverna, when all eyes were turned. The trick was always to be calm. Be ready to run, but don't if you can avoid it. And if you keep track of where people's attentions are, you will rarely need to.
 
 The most exhilarating were the games of chance we offered. You must have seen them many times on your travels, Pamphilos. Three large walnut shells and a small pebble of quartz. Bright enough to be distinctive, but not so unique that you can't find two alike, in a few hours of looking on the beach.
 
@@ -272,85 +272,83 @@ He would play the shells. I was practicing, but he told me it would take months 
 
 The game needed a third player. Somebody who would be winning big just as the target approached. Agias recruited Lesches, a boy of 18, who could speak Greek with a noble accent. We split the winnings three ways. After a large win, we would buy wine, and spend the night outside the city, under the stars.
 
-I spoke little, when Lesches was around. Agias recognized my fear, and usually cut Lesches off, when he started a direct question to me. But people of our class are naturally paranoid, and Lesches soon began to show his suspicion. When Lesches was away on some errand, Agias took me aside.
+I spoke little, when Lesches was around. Agias recognized my fear, and usually cut Lesches off, when he started a direct question to me. But people of our class are naturally paranoid, and Lesches soon began to show his suspicion. When he was away on some errand, Agias took me aside.
 
-"I'm worried about Lesches. I think he suspects something is off about you. I think it'll be increasingly difficult to keep him under control. I think you feel the same way."
+'I'm worried about Lesches. I think he suspects something is off about you. I think it'll be increasingly difficult to keep him under control. I think you feel the same way.'
 
 By now, he had become skilled in asking questions without asking them.
 
-"I think so. How do we know if he's a risk?"
+'I think so. How do we know if he's a risk?'
 
-"There's one way to be sure. I could ask you."
+'There's one way to be sure. I could ask you.'
 
 I told him he could.
 
-"If we keep playing the three-shell game with Lesches, what will happen?"
+'If we keep playing the three-shell game with Lesches, what will happen?'
 
-I felt a slight sting at the back of my head, a little nausea, but nothing more. "I think the question is too broad. Maybe the answer would take forever to say. Which means we wouldn't be playing the game at all, so there isn't a real answer."
+I felt a slight sting at the back of my head, a little nausea, but nothing more. 'I think the question is too broad. Maybe the answer would take forever to say. Which means we wouldn't be playing the game at all, so there isn't a real answer.'
 
-"Right", he said, "I guess I had better be a little more precise. If we decide to keep playing the three-shell game with Lesches for another week, will we keep playing until the end of the week?"
+'Right', he said, 'I guess I had better be a little more precise. If we decide to keep playing the three-shell game with Lesches for another week, will we keep playing until the end of the week?'
 
-"No", I said.
+'No', I said. <br/>
+'Why not?'
 
-"Why not?"
+'In three days, we will win big. We will get drunk and he will get angry. He will ask me what my problem is, and I will tell him the story of the Jinn. In his drunken excitement, he will ask me questions about treasure, about the future. He will be careless, and the complexity of the answers will tax me to near death. You and he will fight, and you will kill him with the knife you hide in the back of your tunic. We will then attempt to escape the city.'
 
-"In three days, we will win big. We will get drunk and he will get angry. He will ask me what my problem is, and I will tell him the story of the Jinn. In his drunken excitement, he will ask me questions about treasure, about the future. He will be careless, and the complexity of the answers will tax me to near death. You and he will fight, and you will kill him with the knife you hide in the back of your tunic. We will then attempt to escape the city."
+I was more shocked by the revelation than he was. He smiled lightly and showed me the knife. Reading my face, he said, 'I tried to tell you child. People in our station... It's not a bad life altogether, but you need to be prepared.'
 
-I was more shocked by the revelation than he was. He smiled lightly and showed me the knife. Reading my face, he said, "I tried to tell you child. People in our station... It's not a bad life altogether, but you need to be prepared."
+'Have you killed before?' I realized it was not a smart thing to ask, but I was a child, and it had been a long time since I had had an adult to look up to.
 
-"Have you killed before?" I realized it was not a smart thing to ask, but I was a child, and it had been a long time since I had had an adult to look up to.
-
-"Lots of people kill, child. From the gods, to the kings to us in the street. Even those nice people in the temple every week aren't above a little poison in a cup of wine, if somebody gets in the way. Just so long as they are sure they can get away with it. I suggest you get used to the idea. I suggest you get used to the idea of doing it yourself. You may need to, one day."
+'Lots of people kill. From the gods, to the kings to us in the street. Even those nice people in the temple every week aren't above a little poison in a cup of wine, if somebody gets in the way. Just so long as they are sure they can get away with it. I suggest you get used to the idea. I suggest you get used to the idea of doing it yourself. You may need to, one day.'
 
 He wasn't paying attention to me. He said it off-hand. But those few sentences started something in me. I think that was the moment I stopped waiting for things to happen to me. The moment I began to think about taking control.
 
 Agias may have been a killer, but he didn't revel in the act, and murder was no solution to the problem of Lesches. However, stopping the game now would certainly anger him. Leaving without a word would raise suspicion, and we would forever be wary of meeting him by accident. Instead Agias devised a far more neat solution. After the week's first take, we celebrated outside the city, and, acting more drunk than we were, we left our parts of the winnings lying around, while we pretended to sleep. Lesches, predictably greedy, stole the money. For a small price, he was out of the picture, and it would be his job to avoid us.
 
-The next morning, we were free of Lesches, but in urgent need of food. Winter was approaching. Life was moving inside, and people were conserving their money and food. Most of our games were designed for full markets, for outside dining and for people celebrating the harvest.
+The next morning, we were free of Lesches, but in urgent need of food. Winter was approaching. Life was moving inside, and people were conserving their money and food. Most of our games were designed for full markets, for people celebrating the harvest and eating outside.
 
 One night, sitting around a fire in hunger, Agias pointed to me. 
 
-"That curse of yours sure saved our hides, child. Have you ever considered it may not be such a curse at all? There might be a way in it to alleviate our current burden. Would you mind if I tried something? I promise not to ask you anything personal."
+'That curse of yours sure saved our hides, child. Have you ever considered it may not be such a curse at all? There might be a way in it to alleviate our current burden. Would you mind if I tried something? I promise not to ask you anything personal.'
 
 I shrugged.
 
-"Ok, How about this. Where... is the nearest buried treasure?" He asked with a smile. 
+'Ok, How about this. Where... is the nearest buried treasure?' He asked with a smile. 
 
-"On an unnamed island in the Aegean sea. It is buried at the back of a deep cave."
+'On an unnamed island in the Aegean sea. It is buried at the back of a deep cave.'
 
-"Hmm, that's a little further away than I'd hoped." He thought for a minute. "Where is the nearest dropped coin?"
+'Hmm, that's a little further away than I'd hoped.' He thought for a minute. 'Where is the nearest dropped coin?'
 
-I pointed to a tree in the distance. "By that tree. It's about two fingers deep in the soil."
+I pointed to a tree in the distance. 'By that tree. It's about two fingers deep in the soil.'
 
 We walked over, and with a few further questions managed to locate the coin. It was a copper obol, which was far from enough to pay for a meal. But Agias soon refined the method. The largest coin within walking distance was a silver tetradrachm, on the other side of the city. A long walk, and buried deep in the earth but enough for several days of comfortable living. We had to spend it carefully too, as two vagrants with that much silver would surely have aroused suspicion at a moneychanger.
 
-This is how we  spent the following weeks. Digging for coins, and other valuables in the soil around the city. When all the dropped coins of any value had been found, we found new questions that allowed us to continue. Many coins are not dropped, but stay in the purse, so we found some lost purses. Occasionally, it was not just the purse that had dropped to the ground, but the owner as well. Agias barely flinched at taking money from a dead body. For me, it was another lesson. Another reminder of what was needed to survive. 
+This is how we spent the following weeks. Digging for coins, and other valuables in the soil around the city. When all the dropped coins of any value had been found, we found new questions that allowed us to continue. Many coins are not dropped, but stay in the purse, so we found some lost purses. Occasionally, it was not just the purse that had dropped to the ground, but the owner as well. Agias barely flinched at taking money from a dead body. For me, it was another lesson. Another reminder of what was needed to survive. 
 
 We had struck gold. A city, it turns out, holds enough loose change for two people to live comfortably, if only for a while. We bought new clothes, and when sleeping outside became uncomfortable, we looked respectable enough to be able to rent a cheap room over a taverna. But something had changed. I was no longer Agias' apprentice. The source of our income was no longer his experience of life on the streets. It was this strange curse of mine, which he could only control by controlling me. He took care of most things, holding on to the money, arranging food and our room. He told me it was the least he could do, considering I brought in the money, but there seemed to be a hint of fear, or anger beneath his words.
 
 Once, as a test, I think, I pocketed a purse we had found, and tried to move on, back to the city. He didn't move.
 
-"Why don't you let me hang on to that?"
-"Come, let's go to the city. It's getting late, and I'm hungry."
-"Give me the purse, child, it's not safe for you to hold on to that kind of money."
-"You're not making sense. We're going to walk to the city, and spend all this immediately. Let me pay for dinner this time." I smiled in an attempt to lighten the mood. But his resistance showed me that this was not insignificant. This was a fight that was not going to go away.
+'Why don't you let me hold on to that?'<br/>
+'Come, let's go to the city. It's getting late, and I'm hungry.'<br/>
+'Give me the purse, child, it's not safe for you to hold on to that kind of money.'</br>
+'You're not making sense. We're going to walk to the city, and spend all this immediately. Let me pay for dinner this time.' I smiled in an attempt to lighten the mood. But his resistance showed me that this was not insignificant. This was a fight that was not going to go away.
 
 He moved closer to me.
 
-"Give me that purse, child. This is important."
-
-"You're being impossible. What does it matter."
+'Give me that purse, child. This is important.'<br/>
+'You're being impossible. What does it matter.'<br/>
 
 He grabbed my wrist, and squeezed hard enough to hurt me.
 
-"Now. This is for your own good."
+'Now. This is for your own good.'
 
 I gave him the purse, and he set off towards the city. I followed a few paces behind in silence. 
 
-After dinner, he brought the incident up. "I'm sorry I was so rough with you. I slept badly, I shouldn't have grabbed you like that. But I hope you see my point. It is better that I take care of the money. This city can be rough, and you haven't been here for very long." I agreed, and apologised for my part. 
+After dinner, he brought the incident up. 'I'm sorry I was so rough with you. I slept badly, I shouldn't have grabbed you like that. But I hope you see my point. It is better that I take care of the money. This city can be rough, and you haven't been here for very long.' I agreed, and apologised for my part. 
 
-"Let us be friends again." He smiled, and held out his hand.
-"Of course", I said, and shook it.
+'Let us be friends again.' He smiled, and held out his hand.<br/>
+'Of course', I said, and shook it.
 
 But that night I lay awake a long time.
 
@@ -358,53 +356,49 @@ After a few months, we had assembled a considerable collection of coins and jewe
 
 One evening, we were sitting on the floor. Agias pointed to the large leather sack we used to hold the jewelry and larger coins we could not spend without arousing suspicion.
 
-"It's getting too big to hide anywhere. The owner of the taverna will find it one of these days. He knows what we are. He'll kick us out, and keep the treasure. He knows there's nothing we can do."
+'It's getting too big to hide anywhere. The owner of the taverna will find it one of these days. He knows what we are. He'll kick us out, and keep the treasure. He knows there's nothing we can do.'
 
-"What if we move to a new inn. Get a bigger room, with better places to hide our finds."
+'What if we move to a new inn. Get a bigger room, with better places to hide our finds.'
 
-"No. Look at this." He opened the bag "We're richer than most people we meet on the street. We shouldn't have to be afraid of anybody. We need a new way of thinking. What if we go bigger? Use that talent of yours to take the money we have and turn it into a real fortune."
+'No. Look at this.' He opened the bag 'We're richer than most people we meet on the street. We shouldn't have to be afraid of anybody. We need a new way of thinking. What if we go bigger? Use that talent of yours to take the money we have and turn it into a real fortune.'
 
-"I don't know. Whenever you ask the wrong question I get sick, or talk for ages. I'm scared to push this. How about we move to another city. By foot, we could reach Miletus in two days. We could find fresh coins, and the money changers would not know our faces."
+'I don't know. Whenever you ask the wrong question I get sick, or talk for ages. I'm scared to push this. How about we move to another city. By foot, we could reach Miletus in two days. We could find fresh coins, and the money changers would not know our faces.'
 
-"No, I like Sardis, I know how things work here. Don't worry, I'll be careful. I've been thinking about those chance-games we played, like the shells. What if we didn't have to cheat? If you can tell us what will happen, we can work out a system where we always win, even if the game is fair!"
+'No, I like Sardis, I know how things work here. Don't worry, I'll be careful. I've been thinking about those chance-games we played, like the shells. What if we didn't have to cheat? If you can tell us what will happen, we can work out a system where we always win, even if the game is fair!'
 
-"Why don't we talk about this tomorrow. I'm tired."
+'Why don't we talk about this tomorrow. I'm tired.'
 
-"Here." He pulled an old obol out of his pocket, too rusty to pay with. "When I flip this, will it land head or tails?"
+'Here.' He pulled an old obol out of his pocket, too rusty to pay with. 'When I flip this, will it land head or tails?'
 
-"Heads." I said, demurely. He flipped the coin and let it land in his palm, the heads face up.
+'Heads.' I said. He flipped the coin and let it land in his palm, the heads face up.
 
-He leaned in closer. "Again, if I flip it, which side will it land?"
+He leaned in closer. 'Again, if I flip it, which side will it land?'
 
 The white light again at the back of my head. I held off my answer, fighting the building nausea. Suddenly, the light resolved, and I could see. It's difficult to describe it, Pamphilos. It's not quite seeing. More like knowing. Finally I answered.
 
-"Heads, again"
+'Heads, again.'
 
 He flipped the coin and it landed heads.
 
 He looked at me intently.
 
-"You paused there. Something was different."
+'You paused there. Something was different.' <br/>
+'Please, I'd like to go to bed.'<br/>
+'What happened after I asked that question? Why did you hesitate?'<br/>
 
-"Please, I'd like to go to bed."
-
-"What happened after I asked that question? Why did you hesitate?"
-
-"It's the white light, the one I see when you ask me questions about the future. I could see... inside it somehow. I know what it means now."
+'It's the white light, the one I see when you ask me questions about the future. I could see... inside it somehow. I know what it means now.'
 
 He waited, but this was something I wanted to keep to myself. I wanted to think this through in peace. But his promise not to ask questions when I didn't want him to had long ago evaporated.
 
-"Tell me, what does it mean?"
+'Tell me, what does it mean?'<br/>
+'The coin was going to hit your hand just on its edge. Which way it fell depended on the slightest disturbance of the air. If I had said heads, it would have landed heads. If I had said tails, then it would have landed tails. Both answers were equally true. The light was showing me. If I wait, if I let it resolve, I can see all the different answers that are true, if I choose to utter them.'
 
-"The coin was going to hit your hand just on its edge. Which way it fell depended on the slightest disturbance of the air. If I had said heads, it would have landed heads. If I had said tails, then it would have landed tails. Both answers were equally true. The light was showing me. If I wait, if I let it resolve, I can see all the different answers that are true, if I choose to utter them."
-
-"So by choosing one..."
-
-"I make it happen."
+'So by choosing one...'<br/>
+'I make it happen.'
 
 We sat in silence, both considering the implications. I could see he was tempted to ask further questions, but he thought better of it. 
 
-"You're right, it's better to discuss such matters in the light of day. Let's go to bed."
+'You're right, it's better to discuss such matters in the light of day. Let's go to bed.'
 
 I think we both lay awake a long time. Both pretending to be asleep. We both realized that our game was coming to an end. It was time for the final moves.
 
@@ -412,124 +406,123 @@ Agias was shrewd, Pamhilos, but arrogant. He thought, perhaps, that he had some 
 
 I had taken the knife from his tunic and held it to his throat. I forced the tip deep into his skin. 
 
-"Careful", I said. "It's some time ago that I last did this to one of my goats, but think I can still bleed a body when I need to. The tip of my knife should just be at your artery. It won't take much movement from either of us.
+'Careful', I said. 'It's some time ago that I last did this to one of my goats, but think I can still bleed a body when I need to. The tip of my knife should just be at your artery. It won't take much movement from either of us.'
 
-"What is this? What do you want?"
-"I want to find out some truths. I also warn you that the next question you ask without my permission will be the last."
-"Understood. Ask away."
-"No, it won't be quite that simple. You're going to be the one asking. But I'll supply the questions."
+'What is this? What do you want?'<br/>
+'I want to find out some truths. I also warn you that the next question you ask without my permission will be the last.'<br/>
+'Understood. Ask away.'<br/>
+'No, it won't be quite that simple. You're going to be the one asking. But I'll supply the questions.'<br/>
 
 I could see a hint of panic in his face. He stared into my eyes.
 
-"This isn't you, child. I've seen how shocked you were whenever things got violent. All those bodies we found outside the city, you were terrified each time. You may have killed goats, but you can't kill a man."
-"Good. Let's start there, shall we? Ask me if I'm willing to kill you, for a wrong move."
-"Are you prepared to kill me if I try to escape?"
-"Yes."
-"Are you prepared to kill me if I refuse to ask you a question?"
-"Yes."
+'This isn't you, child. I've seen how shocked you were whenever things got violent. All those bodies we found outside the city, you were terrified each time. You may have killed goats, but you can't kill a man.'<br/>
+'Good. Let's start there, shall we? Ask me if I'm willing to kill you, for a wrong move.'<br/>
+'Are you prepared to kill me if I try to escape?'<br/>
+'Yes.'<br/>
+'Are you prepared to kill me if I refuse to ask you a question?'<br/>
+'Yes.'<br/>
 
 I gave him a moment to digest this information. He spoke softly, and very deliberately.
 
-"I see you've taken my advice to heart. Very well. You're in control, what's next?"
-"Ask me what your plan is for the money."
-"What's my plan for the money?"
-"You plan to take it. You don't trust me anymore."
+'I see you've taken my advice to heart. Very well. You're in control, what's next?'<br/>
+'You ask me what your plan is for the money.'<br/>
+'What's my plan for the money?'<br/>
+'You plan to take it. You don't trust me anymore.'
 
-"Ask me why you don't trust me anymore."
-"Why don't I trust you anymore?"
-"You realized yesterday that I held more power than you thought. If I could decide the future just by answering questions, I might eventually be able to give the most innocent answer to a question and seal your fate. You decided that the longer you played this game, the more the odds were against you."
-"Is that such a bad thing? Is that worth killing me over? It's a scary thing, this curse of yours."
-"If you want to plead your case, you'll get the opportunity later. We are not finished yet. Ask me when you first decided to use my curse to make money."
-"When we got rid of Lesches. Listen, child,"
+'Ask me why you don't trust me anymore.'<br/>
+'Why don't I trust you anymore?'<br/>
+'You realized yesterday that I held more power than you thought. If I could decide the future just by answering questions, I might eventually be able to give the most innocent answer to a question and seal your fate. You decided that the longer you played this game, the more the odds were against you.'<br/>
+'You are making me out to be a villain. You are suggesting that this is worth killing me over. It's a scary thing, this curse of yours.'<br/>
+'If you want to plead your case, you'll get the opportunity later. We are not finished yet. Ask me when you first decided to use my curse to make money.'<br/>
+'When we got rid of Lesches. Listen, child...'<br/>
 
-I twisted the knife. Blood started flowing slowly into the nape of his neck.
-"Ask. Be precise."
+I twisted the knife. Blood started flowing slowly into the nape of his neck.'_Ask._ Be precise.'
 
-"When did I first decide to use your curse to make money?"
-"Almost immediately after you first learned about it. You realized you needed my confidence first, but you always knew you would eventually use me to make your fortune."
+'When did I first decide to use your curse to make money?'<br/>
+'Almost immediately after you first learned about it. You realized you needed my confidence first, but you always knew you would eventually use me to make your fortune.'
 
 He said nothing.
 
-"Ask me, in your plan to escape with the money, what did you plan to do to me."
-"Please, you can take the money, just let me go."
+'Ask me, in your plan to escape with the money, what did you plan to do to me.'<br/>
+'Please, you can take the money, just let me go.'
 
 I held the knife firm.
 
-"What did I plan to do to you?"
-"You planned to kill me."
+'What did I plan to do to you?'<br/>
+'You planned to kill me.'
 
-"Ask me why you planned to kill me."
-"Why did I plan to kill you?"
-"Now that you knew what I was capable of, you could not take the risk that I would follow you and get the money back. It would take one question from a willing stranger for me to track you down. If all I cared about was revenge, I wouldn't even need to come to you. I could have someone ask about you. About your future, or about how you would die, or whether you would suffer any accidents this year. With a question far enough in the future, and a little bit of luck, I would get to from from a wide range of answers. You could not bear the thought of living with that over your head.
+'Ask me why you planned to kill me.'<br/>
+'Why did I plan to kill you?'<br/>
+'Now that you knew what I was capable of, you could not take the risk that I would follow you and get the money back. It would take one question from a willing stranger for me to track you down. If all I cared about was revenge, I wouldn't even need to come to you. I could have someone ask about you. About your future, or about how you would die, or whether you would suffer any accidents this year. With a question far enough in the future, and a little bit of luck, I would get to choose from a wide range of answers. You could not bear the thought of living with that over your head.
 
-Do you still want to plead your case? Convince me that I'm being paranoid?"
+Do you still want to plead your case? Convince me that I'm being paranoid?'
 
 He remained silent.
 
-"Good. It may surprise you to learn that I don't want to kill you. I want to take that money and I never want to see you again. Specifically, I want you to walk out of here, immediately, out of the city, and to keep walking until you get to Miletus. You will spend the rest of your life there."
+'Good. It may surprise you to learn that I don't want to kill you. I want to take that money and I never want to see you again. Specifically, I want you to walk out of here, immediately, out of the city, and to keep walking until you get to Miletus. You will spend the rest of your life there.'
 
-"Of course, you win. Whatever you say."
+'Of course, you win. Whatever you say.'
 
-"No. It isn't quite that easy Agias." I paused to let him work out what was going to happen next.
+'No. It isn't quite that easy Agias.' I paused to let him work out what was going to happen next.
 
-"Ask me, if I let you go now, whether you will spend the rest of your life in Miletus"
-"If you let me go, will I spend the rest of my life in Miletus?"
+'Ask me, if I let you go now, whether you will spend the rest of your life in Miletus'<br/>
+'If you let me go, will I spend the rest of my life in Miletus?'
  
 The white light again. I struggled to keep the knife steady, but there was only one answer.
 
-"No." I looked at him. "Ask me what will happen instead
-"What will happen instead?"
-"You will not leave the city. You will wait outside the inn until I leave. Your plan will be to ambush me, to kill me and to take the money."
+'No.' I looked at him. 'Ask me what will happen instead.'<br/>
+'What will happen instead?'<br/>
+'You will not leave the city. You will wait outside the inn until I leave. Your plan will be to ambush me, to kill me and to take the money.
 
 We sat in silence for a time.
 
-"There are only two outcomes here, Agias. Ask me what will happen if you don't convince me that you will spend the rest of your life in Miletus."
+'There are only two outcomes here, Agias. Ask me what will happen if you don't convince me that you will spend the rest of your life in Miletus.'
 
-"What will happen?" His composure was gone. There was nothing but panic in his voice now.
+'What will happen?' There was nothing but panic in his voice now.
 
-"I will drive this knife into your neck and you will die. Ask me again. If I let you go now, will you spend the rest of your life in Miletus."
+'I will drive this knife into your neck and you will die. Ask me again. If I let you go now, will you spend the rest of your life in Miletus.'
 
-"If... If you let me go will I spend the rest of my life in Miletus?"
+'If... If you let me go will I spend the rest of my life in Miletus?'
 
-"No. Ask me what would happen instead."
-"What would happen?"
-"You would make it to the city gates, before you regain your composure. Then you would turn back and attempt to track me down.
+'No. Ask me what would happen instead.'<br/>
+'What would happen?'<br/>
+'You would make it to the city gates, before you regain your composure. Then you would turn back and attempt to track me down.
 
-You need to convince me Agias. It's the only way you live"
-"But I can't..." he was crying "I don't know what to do. Please. I promise I want to do what you say."
+You need to convince me Agias. It's the only way you live.'<br/>
+'But I can't...' he was crying. 'I don't know what to do. Please. I promise I want to do what you say.'
 
-"Shh. Concentrate. It's not easy. You need to commit to the idea. You can make it true. Here, this might help. Ask me, if you convince me that you will stay in Miletus, whether you will live a quiet life."
+'Shh. Concentrate. It's not easy. You need to commit to the idea. You can make it true. Here, this might help. Ask me, if you convince me that you will stay in Miletus, whether you will live a quiet life.'
 
-"Will I live a quiet life, if I convince you?"
+'Will I live a quiet life, if I convince you?'
 
 The white light again. I held out. Many answers were possible. In his current state, Agias would follow whatever path I chose for him here.
 
-"Yes, Agias, you will live a quiet life in Miletus if you want to."
+'Yes, Agias, you will live a quiet life in Miletus if you want to.'
 
 I saw him relax somewhat.
 
-"Take some time for this. Picture this life for yourself. Commit to the idea fully."
+'Take some time for this. Picture this life for yourself. Commit to the idea fully.'
 
 He closed his eyes, and breathed in deep. I sat there, rigidly, as he concentrated. My muscles began to ache under the strain.
 
-"I think I'm ready"
-"Ask the question."
-"If you let me go now, will I leave peacefully, make my way to Miletus, and spend the rest of my life there?"
+'I think I'm ready'
+'Ask the question.'
+'If you let me go now, will I leave peacefully, make my way to Miletus, and spend the rest of my life there?'
 
-White light again. One answer.
+There was no light, only one answer.
 
-"Yes." 
+'Yes.'
 
 I withdrew the knife, and stood up carefully. He rose, rubbing his arms. Despite my precautions, I still pointed the knife at him. He looked at me with slightly dead eyes, as he dressed. He pointed at the water bowl, and our provisions.
 
-"Can I take some water... some food?"
-"Yes"
+'Can I take some water... some food?'<br/>
+'Yes.'
 
 He filled his wineskin, and took less than half the food. He looked back once, with the eyes of a beaten dog.
 
 He walked out. I could see him out of the window. He walked for the city gates. He did not look back.
 
----
+***
 
 The old woman leaned back. The food was gone, and the sky was a deep black.
 
@@ -537,9 +530,9 @@ The old woman leaned back. The food was gone, and the sky was a deep black.
 
 "You're not usually so easily taken in, are you Pamhilos? You, who have travelled the Aegean, studied the oracles and the messias. Is a fanciful story accompanied by three cups of wine enough to convince you of my supernatural powers?"
 
-I was slightly stunned, and could not gather my words together before she interjected.
+I could not gather my words together before she interjected.
 
-"Yes." She smiled  "I know what became of Agias. I have my priestesses now. They will ask me what I tell them to ask me, and nothing more. I occasionally ask about Agias. He fulfilled his promise, and lived a quiet life in Miletus. He worked himself up to the respectable classes, and found himself an understanding wife. Before long I was a distant memory, something he didn't need to think about at all, so long as he didn't stray too far from the city walls."
+"Yes." She smiled. "I know what became of Agias. I have my priestesses now. They will ask me what I tell them to ask me, and nothing more. I occasionally ask about Agias. He fulfilled his promise, and lived a quiet life in Miletus. He worked himself up to the respectable classes, and found himself an understanding wife. Before long I was a distant memory, something he didn't need to think about at all, so long as he didn't stray too far from the city walls."
 
 She leaned back, and idly tied up the loose ends of her tale.
 
@@ -586,9 +579,9 @@ My parents had six children altogether, but by my ninth birthday I was the only 
 
 After that, my mother's nerves were too frail to make any further attempts at extending the family. My father was expected to divorce her, and to try again with another woman, but he never did. When I was thirteen, she died. I don't have many memories of her. I think she was deeply unwell for most of my life.
 
-He kept me at home and took charge of my education. He taught me about our great pirate ancestors, scourges of the Adriatic. Of how his father fought the Gauls in the mountains, and of how he himself twice fought the invading Romans.
+He kept me at home and took charge of my education. He taught me about our great pirate ancestors, the scourges of the Adriatic. Of how his father fought the Gauls in the mountains, and of how he himself twice fought the invading Romans.
 
-During the day he drilled me in naval strategy, and the sneak tactics with small raiding parties that had served them so well in the war. "The Romans never change", he would say, "They will be back one day and they will fight in exactly the same way with exactly the same tactics. So long as we are prepared, so long as we all remember how we beat them the last time, they will never cross Illyria. That's us son, our class. Let the king play his games with the Senate. We are the memory of the Ardiae. So long as we remember, we can beat the Romans back when they come. And one day, we will be an independent people again."
+During the day he drilled me in naval strategy, and the sneak tactics with small raiding parties that had served them so well in the war. "The Romans never change", he would say, "They will be back one day and they will fight in exactly the same way with exactly the same tactics. So long as we are prepared, so long as we all remember how we beat them the last time, they will never cross Illyria. That's us son, our class. Let the King play his games with the Senate. We are the memory of the Ardiae. So long as we remember, we can beat the Romans back when they come. And one day, we will be an independent people again."
 
 But despite all his lessons, he could not bring himself to take me outside, to let me rig a ship and sail it by myself, to take me to the square where the young men from the village practiced their maneuvers and their hand to hand combat. He would not let me come face to face with the men I might have to lead one day. 
 
@@ -596,9 +589,9 @@ He knew what I needed to be prepared for, but he would only let me do it inside.
 
 With no siblings, and no children of my own class to play with, I resorted to uneasy friendships with the children of our servants. I have few precise memories, but I assume that I acted insufferable, and superior. I was superior, by the law of the land. And yet, I so often saw in their lives the things I craved. A doting mother. The freedom to swim in the sea or to play in the woods on the mountain. Brothers and sisters to argue with. 
 
-The day my father dreaded, came sooner than he thought. He was summoned to the court of the new king, when he was struck by apoplexy. Even the physicians of the King could do little more than keep him alive. When he came home, his body was limp. When I looked at him, his eyes locked with mine in an intense stare, but he could no longer speak, or make his intentions known.
+The day my father dreaded came sooner than he thought. He was summoned to the court of the new King, when he was struck by apoplexy. Even the physicians of the King could do little more than keep him alive. When he came home, his body was limp. When I looked at him, his eyes locked with mine in an intense stare, but he could no longer speak, or make his intentions known.
 
-A messenger travelled with him, and informed me that by order of the king, and by the grace of the Roman senate, I had inherited my father's lands. I was hereby instated as ruler of the house, and of our village. 
+A messenger travelled with him, and informed me that by order of the King, and by the grace of the Roman senate, I had inherited my father's lands. I was hereby instated as ruler of the house, and of our village. 
 
 While the slaves kept my father alive, with liquid meals, I stumbled into a life my father had utterly failed to prepare me for. I owe much to Midas, our principal slave, who had regularly carried out administrative tasks for my father. He arranged weekly meetings with representatives from the village, and cut in whenever a situation presented itself that I was unequipped to handle. 
 
@@ -626,37 +619,37 @@ All this didn't mean that I had found peace, or that the knot had come undone. O
 
 The next morning she woke me by lightly touching my shoulder, rather than opening the shutters that covered the window of the bedroom. 
 
-"How did you sleep?"
-"Poorly" I answered bluntly.
-"Do you still feel angry?" She sat with one leg on the side of my bed. A position that would have earned her a beating in any other household.
-"I think I do, yes" Even by her standards, it was an impertinent question. I think that I answered truthfully, because I felt understood by it.
+"How did you sleep?"<br/>
+"Poorly" I answered bluntly.<br/>
+"Do you still feel angry?" She sat with one leg on the side of my bed. A position that would have earned her a beating in any other household.<br/>
+"I think I do, yes" Even by her standards, it was an impertinent question. I think that I answered truthfully, because I felt understood by it.<br/>
 
-"Would you like me to keep the shutters in place? Perhaps a few more hours of sleep would do you good."
-"No, thank you Anaximene. I think I had better get up."
-"Your anger must be strong that it still burns after a night of sleep." she said as she let the light in. "I rarely feel something so strongly that it does not die in my sleep."
-"I must have slept poorly."
-"Or perhaps it was too great an anger to be resolved by sleep and time. Sometimes that is the case. A deep grief, or a profound anger over a great injustice cannot be cured in a day."
-"There was no great injustice behind my anger. I'm not sure why I felt so bad yesterday. Everything was as it should be, and everybody was going about their business. Only the noise from the village disturbed me."
+"Would you like me to keep the shutters in place? Perhaps a few more hours of sleep would do you good."<br/>
+"No, thank you Anaximene. I think I had better get up."<br/>
+"Your anger must be strong that it still burns after a night of sleep." she said as she let the light in. "I rarely feel something so strongly that it does not die in my sleep."<br/>
+"I must have slept poorly."<br/>
+"Or perhaps it was too great an anger to be resolved by sleep and time. Sometimes that is the case. A deep grief, or a profound anger over a great injustice cannot be cured in a day."<br/>
+"There was no great injustice behind my anger. I'm not sure why I felt so bad yesterday. Everything was as it should be, and everybody was going about their business. Only the noise from the village disturbed me."<br/>
 "But, if you'll permit me, it seems to me you felt angry before the festivities started. As early as the morning, even though you hid it well."
 
 I smiled, weakly.
 
-"I can rarely hide these things from you Anaximene. You're right, the noise simply served to fan the flames."
-"Your hearing really is most acute. I often barely notice noises from the village. It's quite a distance from the villa."
-I got out of bed, and  proceeded to wash my face with the bowl of water she had set down for me.
-"Gordias told me it was a wedding yesterday, the party. They broke things off early after he told them to stop."
+"I can rarely hide these things from you Anaximene. You're right, the noise simply served to fan the flames."<br/>
+"Your hearing really is most acute. I often barely notice noises from the village. It's quite a distance from the villa."<br/>
+I got out of bed, and  proceeded to wash my face with the bowl of water she had set down for me.<br/>
+"Gordias told me it was a wedding yesterday, the party. They broke things off early after he told them to stop."<br/>
 She said it carelessly, as a matter of fact, but her words stopped me dead. I imagined a husband and wife, a family, a day of happiness, a day that was meant to be a lifelong memory. Crudely interrupted by a single order from me. 
 
 In the past I would surely have begrudged them their happiness. I would have found reasons to think of them as uncivilized, common. But now, I couldn't see anything in my mind but a simple pair of young people in love. Celebrating love among their family. I sat down on my bed.
 
-Anaximene knelt down at my feet, at once impertinent and submissive, a strange trick of hers. "What is the matter? They are your citizens. It is within your right to regulate festivities. Many noblemen would have done the same."
-"You're very kind." But her words did little to ease my mind.
-"You are not the first man to act in anger, you know. And this is not the worst action taken in anger. Not by a long way."
-She began to tidy up the room.
-"I doubt the villagers resent you very much for it. Much worse is happening in villages around Illyria, without a chance of revolt. If anything, the fact that you care shows you have a gentle soul. From what I see, you suffer worse than anybody."
-"What do you mean?"
+Anaximene knelt down at my feet, at once impertinent and submissive, a strange trick of hers. "What is the matter? They are your citizens. It is within your right to regulate festivities. Many noblemen would have done the same."<br/>
+"You're very kind." But her words did little to ease my mind.<br/>
+"You are not the first man to act in anger, you know. And this is not the worst action taken in anger. Not by a long way."<br/>
+She began to tidy up the room.<br/>
+"I doubt the villagers resent you very much for it. Much worse is happening in villages around Illyria, without a chance of revolt. If anything, the fact that you care shows you have a gentle soul. From what I see, you suffer worse than anybody."<br/>
+"What do you mean?"<br/>
 "Well, as you tell it, all this started because you felt angry. Anger without any cause, and any injustice. Anger so great that a long night of sleep does nothing to quell it."
-She stopped what she was doing when she noticed that she had my complete attention. That I was looking up at her wide eyed and unable to speak. 
+She stopped what she was doing when she noticed that she had my complete attention. That I was looking up at her wide eyed and unable to speak. <br/>
 "You've been angry for a long time, haven't you?"
 
 And so I began to tell her, over many days, the way I'd lived. She listened, patiently and without judgement. And in recounting, I found that I could force a change in myself. In some way reliving the past, in minute detail, was like opening an old wound once poorly healed. The process was painful, but the fresh wound would be allowed to heal properly. I doubt she ever knew that in listening to my past, she was playing the physician.
@@ -1147,198 +1140,3 @@ This seems to be how most of them spend their days. They use the oracle to answe
 I wonder, is she content with the same fate? Has she decided to make her exit from this world gracefully, with nobody ever to know what part she played in our history? Two-thousand years, she said. That is enough responsibility for any one person to shoulder. Perhaps she would allow something to remain hidden. Something, she could make sure we would only find in time. Something to let them know that there was some order, some choice, that the world they suffered through, as bad as it was, was not the worst possible. That there was somebody, in the depths of time, making sure that though they erred and suffered, someone somewhere would at least learn from their suffering. Someone who made sure that that lesson stayed alive. 
 
 I feel that they should know. And for all she's done, I feel that she deserves for somebody to know that, at some point.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rough timeline:
-
-story
-history
-285 BC. Pamphilos grandfather born
-
-
-255 BC. Pamphilos' father born
-
-
-245 BC. Nyda born
-
-
-235 BC. Nyda meets the Jinn
-
-
-230 BC. Agias leaves for Miletus
-231 BC. King Argon dies
-Pamphilos' father fights under Teuta
-228 Nyda settles at Naxos
-229 BC. First Illyrian war
-228 BC. Queen Teuta submits to Rome
-
-
-Client kingdom under Pinnes
-
-
-222 BC Demetrius marries Triteuta. Becomes regent.
-220 Pamphilos born. Anaximene born.
-
-Pamphilos' father fights under Demetrius.
-220 BC Start of second Illyrian war. 
-
-
-219 BC Illyria surrenders. Demetrius flees to Macedon. Pinnes reinstated
-
-
-217 BC Pinnes dies.
-
-
-??
-
-
-
-
-
-
-205 BC Pleuratus III becomes king. Loyal to the Romans.
-204 BC. Pamphilos' father has a stroke.
-202 BC. Pamphilos' father dies.
-
-
-190 BC. Anaximene joins the household
-188 BC. Pamphilos marries Ana. Pamphilos' son, Hyllus, born.
-186 BC. Anaximene dies. Gordias is caught stealing some of her jewelry and Pamphilos beats him severely and then dismisses him.
-184 BC. Hyllus is taken in the night. No ransom is asked for.
-
-
-180 BC. Pamphilos (40)  leaves for Delphi, begins his travels.
-181 BC. Pleuratus III is succeeded by Gentius, who allies with the Macedonians
-
-170 BC. Pamphilos (50) visits the Oracle.
-
-
-
-
-
-
-
-
-168 BC. Third Illyrian war. Greece falls to the Roman empire.
-
-
-
-
-
-
-
-Pamphilos of Illyria
-
-born: ~220 BC, during the second Illyrian war. 
-
-A wealthy landowner, renowned for his olive grove. Introduces himself initially as a simple farmer. Travels to the oracle especially. Doesn't realize that the reason he does so, the question he obsesses over, is inspired by events set in motion by one of the oracle's predictions.
-
-The oracle wants to eliminate Pamphilos to usher in the end of the Hellenic republic.
-
-Pamphilos is obsessed by the disappearance of his fiancee just before marriage.
-
-The oracle
-
-born ~240 BC
-
-A relatively unknown oracle, in an Athenian temple in a small Greek island, to the east of Naxos.
-
-Born as Kartir Nysa, the oracle grew up in Palmyra as an orphan girl, daughter of a goat farmer. She sustains herself by selling milk and meat from the small herd her father left her.
-
-When far out in the arid desert, he comes across a man near death. He offers him water and goat's milk. The man reveals himself as a Ginnaye, a dying breed of spirits with the power to grant wishes. 
-
-Kartir knows the stories of Ginnaye well, and asks the man if he has some advice before he makes his wish. The Ginnaye states that the humbler the wish, the more likely it is to work out well for the wisher. Kartir asks to be virtuous, but the Ginnaye states that this wish is too vague. He has no sense of visture of his own, and the virtues of men differ from one village the next. He recommends that Kartir choose a specific virtue. Kartir think, and decares: "Truthfulness. Whenever I am asked a question, let me respond with the most truthful answer."
-
-The Ginnaye smiles. "Of all the things you could have asked. This is no small wish Kartir. It will have to be my last. Do not be shocked, this is a happy day for me. We do not seek immortality for our physical form. Only for the wishes we grant, and sadly, with the imagination of man what it is, we seldom achieve greatness. But you Kartir, have granted me the opportunity for a glorious final song. I thank you, young child of men."
-
-Kartir is shocked, he had thought his request a humble one. But before he can protest or ask for clarification, the ginnaye puts his thumbs to his temples and dissolves into the wind, leaving only his robes behind. Kartir is shaken by the experience, but otherwise feels no different.
-
-Kartir's "power" is found out in the local inn and he is mocked. The local men asked him how many times he's touched himself this week, and which of the local women takes his fancy. They quickly find out he's gay, and while they just laugh, he has to escape to another village, without his flock. [LGBT in ancient Syria? Accepted in some periods...]
-We see here what happens when Kertir tries to lie. He can hold it in for a while, but it hurts and he can't do it for long.
-He meets up with another, older itinerant, who decides to test his gift and quickly works out a means of making money. At first, he attempts asking for the nearest buried treasure, but that turns out to be on one of the islands in the Sea of Aegeus. He then asks where the nearest dropped coin is, and they quickly scrounge together enough for a feast.
-They run several scams around Antioch. Three card monte, etc.
-When the itinerant asks him what will happen in the future (the flip of a coin) Kartir feels a white light in the back of his head and nearly passes out. He struggles to speak, finds that he can't say heads and says tails.
-When the asker is further away 
-
-The Oracle refers to Greeks, which derives from the Roman ethonym. The Greeks (probably) referred to themselves as Hellenes, and people from the east used Ethonyms deriving from Iona. Note that she doesn't think of herself as greek. She is translating from the Palmyran word for Greek. And of course she has seen the modern view of the past.
-
-https://en.wikipedia.org/wiki/Rhapsode
-
-
-
-
-https://en.wikipedia.org/wiki/Necromanteion_of_Acheron
-Might be fun to have Pamphilos' visit to the Acheron described in detail. 
-
-
-Brooklyn museum
-
-
-The island is most likely Kato Antikeri
-
-NBMake it a "water cave" like this, accessible by a system of wooden walkways.
