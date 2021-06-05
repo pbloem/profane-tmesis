@@ -676,7 +676,7 @@ There was no physician living in the village. Midas sent for a physician from Sk
 
 From that point on, I felt like I was managing a forest fire in my chest. If she had been all I had had to live for, I would have gladly let it erupt, let it burn me down, one way or another. Often, I came close. Once, I nearly killed one of my slaves.
 
-Shortly after the funeral, I caught a young slave called Gordias in her bedroom. I thought he was preparing to clear it out, and I was ready to admonish him for it. But he simply stood there. Frozen, wide eyed, making no excuses. I realized something was wrong, but I could not immediately tell what was going on.
+Shortly after the funeral, I caught a young slave in her bedroom. I thought he was preparing to clear it out, and I was ready to admonish him for it. But he simply stood there. Frozen, wide eyed, making no excuses. I realized something was wrong, but I could not immediately tell what was going on.
 
 His right fist was clenched tight. I ordered him to open his hand, but he just stood there, motionless. I grabbed by his tunic, and pulled his hand up by the wrist. He relented, and opened it, revealing a small necklace. A gold chain threaded through a small beryl pendant, carved in the shape of two dolphins intertwined.
 
@@ -684,7 +684,7 @@ This was the first thing she bought for herself when she became a free woman. It
 
 And here stood this fool, just days after we had performed the rites, after we had all mourned for her, as a household master and slave alike, sullying her belongings with his greedy fingers. And of all the things he could choose to steal, he picks the one item I would keep above all to remember her by. 
 
-I beat him. I kept beating. I was not a skilled fighter. I broke as many bones in my own hands as I did in his face. But he did not resist or fight back. If Midas had not found us, and put himself between us. I would surely have killed him. When my rage had subsided, Midas took him away and sold him to a caravan bound for the east. We lost a fortune, selling him in that state, but it ensured that he would be taken far out of our lives, instead of lingering around the village. 
+I beat him. I kept beating. I was not a skilled fighter. I broke as many bones in my own hands as I did in his face. But he did not resist or fight back. If Midas had not found us, I would surely have killed him. When my rage had subsided, Midas took him away and sold him to a caravan bound for the east. We lost a fortune, selling him in that state, but it ensured that he would be taken far out of our lives, instead of lingering around the village. 
 
 But for Hyllus, I would have let that fire burn me to ash. That little boy, asleep in his little bed, offered me a refuge from my rage. A different kind of sorrow.
 
@@ -706,19 +706,21 @@ Had he died of some illness, I would have simply taken my own life as well. Had 
 
 I knew he had not wandered off by himself, because the door was too heavy for him to open. He could not reach the window. Only one other thing was missing, from among all his toys, a small cloth hippopotamus, stuffed with rags of linen. Made for him by his mother. 
 
-He did not sleep with it, often he did not look at it for weeks, but when he became upset, it was the one way to put him at ease. Did he pick it out himself, did he know the man who took him? Did somebody in the household, someone who knew Hyllus tell them to take the toy? Anybody who could have seen Hyllus with the toy was still in the household.
+There was nothing special about the toy. Hyllus didn't particularly care for it. The only significance was that his mother had made it for him. It was the toy I would have taken, if I could have chosen only one. It was the toy she would have taken. In my darkest moments, I feared that she had come back, judged me to be unworthly of her son, and taken Hyllus with her to the underworld. 
 
-I suspected all the slaves. Questioned them. One or two I beat, in hopes of a confession. I was hoping that somebody would run away, so that I would know that they were guilty.
+More than once, I dreamt that I myself had taken him. That I had broken myself in two, one side filled with happiness and love, which had taken all that mattered: Hyllus and the memory of his mother, and one side left behind in my vast, empty house, filled with all the bitterness, loneliness and misery that I had collected over the years.
 
-Then, in my desperation, I turned to the oracles.
+In my more lucid moments, I suspected all the slaves. Questioned them. One or two I beat, in hopes of a confession. I was hoping that somebody would run away, so that I would know that they were guilty. Of course, I had some enemies. Some villagers whose lives I had upset. Some slaves and ex-slaves. The thief, of course, could have made his way back from the slave market in Byzantion. Perhaps even Midas bore some hidden grudge against his new master. Would any of them be so aggrieved as to hurt me by taking my son? Did anything I had done in my life warrant such cruel retribution?
+
+Finally, in my desperation, I turned to the oracles.
 
 I traveled to Dodona first, just over the border in Macedon. Only a few days travel. It was Midas' idea. To ask for guidance, nothing more, for a way to cope with my grief. But by the time I disembarked at Gitanea, and made my way up the mountains, I knew just what I would ask. 
 
 I paid a considerable sum and was given direct access to the main attraction; an ancient oak tree, guarded by a priest of the cult of Zeus. With a small knife, I carved my question in a slip of lead. Addressed to Zeus and to Dione. What happened to my son? I asked. 
 
-The priest sat with me, by the oak tree, and we listened intently to the rustling of the leaves. Yes, he said finally, Zeus Naios knows what happened son. He is not beyond saving. He wants to be saved. There is a possibility for you and him to see eye to eye again. The Father judges you as unworthy to know more. If you devote yourself, you will be reunited with your son.
+The priest sat with me, by the oak tree, and we listened intently to the rustling of the leaves. Yes, he said finally, Zeus Naios knows what happened to your son. He is not beyond saving. He wants to be saved. There is a possibility for you and him to see eye to eye again. The Father judges you as unworthy to know more. If you devote yourself, you will be reunited with your son.
 
-I tried to ask more, but it was forbidden. No amount of money would convince them. I was still enthralled by the theatre. Only when I made my way back to the coast, I slowly began to realize what a hollow performance it had been. They had told me what I wanted to hear, and tried to rope me into their cult. They didn't even know my son was gone. I could have been a father wondering why his son had grown distant, and all their answers would still have made perfect sense to me.
+I tried to ask more, but it was forbidden. No amount of money would convince them. I was still enthralled by the theatre. Only when I made my way back to the coast, did I  slowly begin to realize what a hollow performance it had been. They had told me what I wanted to hear, and tried to rope me into their cult. They didn't even know my son was gone. I could have been a father wondering why his son had grown distant, and all their answers would still have made perfect sense to me.
 
 But the idea that I might get a meaningful answer this way had taken root. Only days after I had come back home, I left again for the Pythia at Delphi. Afterwards I travelled straight to Epyra, to ask the oracle of the dead whether Hyllus was already in the underworld.
 
@@ -726,33 +728,31 @@ Before long I rarely visited home at all, except briefly to refill my purse. The
 
 And with that final arrangement, I left an empty villa, no doubt tended to loyally by my slaves. An enviable olive grove, an ancient rose garden, and a dozen luxuriously furnished rooms. All kept in perfect condition for over a decade, for nobody in particular.
 
-***
+---
 
-The wine was finished, and the small village was perfectly still. The old woman waited patiently for me to formulate a question. 
-"You are having some difficulty?"
-"Yes."
+The wine was finished, and the small village was perfectly still. The old woman waited patiently for me to formulate a question. <br/>
+"You are having some difficulty?"<br/>
+"Yes."<br/>
 "If you do not believe in my abilities, we can conduct further trials, if you like. I have many suggestions, if you are struggling to come up with convincing ways of testing me."
 
 I did not doubt her abilities. Even before she showed me she could dig into my past. There was simply something about the way she told her story. Not even her confidence, just the choices she made. The details she added, the ease with which she recalled them when necessary.
 
-"I'm not sure what's wrong", I whispered.
-"How long have you been at sea, Pamphilos?'
-"Almost ten years, I think"
-"As long as Odysseus. It's not easy to come home after such a long time."
+"I'm not sure what's wrong", I whispered.<br/>
+"How long have you been at sea, Pamphilos?"<br/>
+"Almost ten years, I think."<br/>
+"As long as Odysseus. It's not easy to come home after such a long time."<br/>
 
 As she spoke, she idly took the breadknife from the table and placed it by her side.
 
 "Like I said. There are many painful truths ahead. Why don't we work up to the bigger questions. We could start with why it is that you are here. I told you that you are important to me. We could start there."
 
-"Very well, go ahead."
-
-"It would be better if you ask me."
-
-"Of course" I mumbled, "In what way am I important to you?"
+"Very well, go ahead."<br/>
+"It would be better if you ask me."<br/>
+"Of course" I mumbled, "In what way am I important to you?"<br/>
 
 "It is as your father always told you, Pamphilos. You are the memory of the Ardiae. When the Romans come, the royalty cowers, or faces them head on in a mad gamble. It's your people that always beat them in the end. You know the land well enough to hide in the hills, to attack carefully and pick away, never giving open battle. It's your people who sail from so young an age, and who know the water and the winds so well, that your triremes can face down the Roman navy.
 
-Between you in the east, and the Carthaginians in the west, the Romans are kept in their place, and the world... well, what you think of as the world: the powers around the great sea, Egyptian, Roman, Mycenean, keep each other perfectly in balance."
+Between you in the east, and Carthage in the west, the Romans are kept in their place, and the world... well, what you think of as the world: the powers around the great sea, Carthaginian, Egyptian, Roman, Greek, keep each other perfectly in balance."
 
 "I still don't understand."
 
@@ -768,7 +768,7 @@ Between you in the east, and the Carthaginians in the west, the Romans are kept 
 
 "Why then, am I important to you? What role do you want me to play in this careful balance?"
 
-"Simply the opposite of what you suggested. What I want, and what will happen, is that the balance is upset. And for the Romans to be the ones to upset it. They will take Illyria. They will take Mycenae. Eventually, they will come to encircle the great sea. They will rule all parts of the world that you and your countrymen know about. It will be an empire that will put Alexander's to shame."
+"Simply the opposite of what you suggested. What I want, and what will happen, is that the balance is upset. And for the Romans to be the ones to upset it. They will take Illyria. They will take Macedon. Eventually, they will come to encircle the great sea. They will rule all parts of the world that you and your countrymen know about. It will be an empire that will put Alexander's to shame."
 
 I felt a rage build in me. Somewhere deep inside me, my love for Illyria, and my hatred of the Romans still smouldered after all these years, and she was fanning the flames with her nonsense.
 
@@ -798,19 +798,19 @@ She looked up at me with a look in her eyes that changed her face entirely. It w
 
 She had avoided answering my question, and the strain was becoming too much to bear.
 
-"I saw millions die. Imagine all the people in the Roman empire, all the people around the great sea. Every last one of them, snuffed out. Vast machinery, on land, in the air, all built with the single purpose of taking the lives of as many people as possible. Gas, fire, disease, all at the command of man, to put whole generations to death at the stroke of a pen."
+"I saw millions die. As many as all the people in the Roman empire, all the people around the great sea. Every last one of them, snuffed out. Vast machinery, on land, in the air, all built with the single purpose of taking the lives of as many people as possible. Gas, fire, disease, all at the command of man, to put whole generations to death at the stroke of a pen."
 
 She looked down as she spoke. The emotion evaporated from her voice. She looked up at me.
 
 "But soldiers have always killed soldiers. If there are more people, then there will be more soldiers, and they will eventually all kill each other. The worst is always what soldiers do to the rest of us. Whole people, eradicated, mothers, children, elders."
 
-She chose her words carefully. I realized later, that she was repeating exactly her answer from the first time she had answered the question. Being precise in every word, so as not to add details.
+She chose her words carefully. I realized later that she was repeating exactly her answer from the first time she had answered the question. Being precise in every word, so as not to add details.
 
 "Not to win a war, or claim some land. Eradication for the sole purpose of eradication. Millions."
 
 We sat in silence for a long time. My rage was gone, and I felt a strange need to comfort her.
 
-"This was not your responsibility."
+"This was not your responsibility."<br/>
 "You are damned right it's not!", she snapped. "I've seen their faces. The men who will happily guide children to their death. Those who glory in it. Do not think for a damned minute that I will sit here, two thousand years in their past and shoulder the blame while they laugh as they recount to each other what they did."
 
 Silence again.
@@ -833,11 +833,11 @@ I had learned my lesson, to be sure. I planned my questions more carefully. I qu
 
 "What then? Why do they need to win?"
 
-"Because of their veneration of the Greeks, Pamphilos. It's the Greek ideals that need to survive. Take solace in that, if you think of yourself as a Greek. Not that the Greeks cannot be brutal or petty. But somewhere in your society are ideas. Ideas that need to be kept alive. Ideas that are now like fragile seeds, but that someday can germinate truly in the minds of men. The basic dignity of people governing themselves. The pursuit of truth and beauty. The idea that anybody can be held to account by their peers. These notions are nascent, flawed, among the Greeks, but they are there, and when they grow, they may prove our salvation."
+"Because of their veneration of the Greeks, Pamphilos. It's the Greek ideals that need to survive. Take solace in that, if you think of yourself as a Greek. Not that the Greeks cannot be brutal or petty. But somewhere in your societies are ideas. Ideas that need to be kept alive. Ideas that are now like fragile seeds, but that someday can germinate truly in the minds of men. The basic dignity of people governing themselves. The pursuit of truth and beauty. The idea that anybody can be held to account by their peers. These notions are nascent, flawed, among the Greeks, but they are there, and when they grow, they may prove our salvation."
 
 "Then why not the Greeks? Why should we subjugate ourselves to the Romans in order to keep our ideals alive?"
 
-"You have seen that yourself, in the past 10 years. The Greeks are a splintered people. Brow beaten and defeated. Decadent, with no vision or ability to weather hardship. Any power they have they spend on pointless feuds. They do not value what they have. They do not remember Socrates and Plato. Or Hypathia and Aristarchus. They remember Alexander and Agamemnon. They dream only of another grand empire. If the Greeks win the great sea, there will simply be another line of cruel royalty. The temples will come to control the King, and in the name of virtue, your history will be wiped away."
+"You have seen that yourself, in the past 10 years. The Greeks are a splintered people. Browbeaten and defeated. Decadent, with no vision or ability to weather hardship. Any power they have they spend on pointless feuds. They do not value what they have. They do not remember Socrates and Plato. Or Hypathia and Aristarchus. They remember Alexander and Agamemnon. They dream only of another grand empire. If the Greeks win the great sea, there will simply be another line of cruel royalty. The temples will come to control the King, and in the name of virtue, your history will be wiped away."
 
 "But if the Romans win, they will take your culture home as spoils of war. They will scarcely notice your brutality, since they have plenty of their own. They will see your statues, your architecture and your writing. They will bring them home, and in the light of your achievements, they will feel like brutes. The Greek ideals will take a hold of them, more than they ever did with the Greeks, and as the truth of Greek culture fades into history, its ideals will blossom."
 
@@ -845,25 +845,21 @@ I had learned my lesson, to be sure. I planned my questions more carefully. I qu
 
 "They will fade again when the Roman empire does. But by then, their legacy will be indelible. The most powerful temples in the world will try and fail to erase the ideas alive today in the heads of these Greeks."
 
-They will be rediscovered. They will inspire again and again. They will not stop people from brutalizing each other. But eventually, a pattern will emerge. Even if we did not do it, we will come to see more and more clearly what we should have done. How we should have lived. After each atrocity, after each genocide, when we again come face to face with ourselves, confronted unmistakebly with what we've done, with who we are, we will know what to turn to. We know the ideals we should live by even if we don't, and each time we try, they will take root more strongly in our laws, and in our culture."
+They will be rediscovered. They will inspire again and again. They will not stop people from brutalizing each other. But we will see, in stark contrast to what we are, what we _could_ be. After each atrocity, after each genocide, when we again come face to face with ourselves, confronted unmistakebly with what we are capable of, we will know what to turn to. We know the ideals we should live by even if we don't, and each time we try, they will take root more strongly in our laws, and in our culture."
 
 "And all this will take thousands of years?"
 
 "At least. I have not dared to look any further. Two millennia is enough responsibility for any one person."
 
- "And without the Romans, these ideas will not take hold?"
+"And without the Romans, these ideas will not take hold?"
 
-"Not in the lands around the great sea, and to the north. Many other people throughout time will hold to these ideals, and many more useful ones. But in the end what matters is the people to our north. Eventually, whatever they think, what they believe, the world will suffer. Somehow, some grain of empathy, some notion of huma dignity must end up somewhere in their view of the world. Even if they don't act on it, they should know that they should have."
+"Not in the lands around the great sea, and to the north. Many other people throughout time will hold to these ideals, and many more useful ones. But in the end what matters is the people to our north. Eventually, whatever they think, what they believe, the world will suffer. Somehow, some grain of empathy, some notion of human dignity must end up somewhere in their view of the world. Even if they don't act on it, they should know that they should have done."
 
-"So the Romans need to take Illyria. And after that the world."
-
-"A large part of it."
-
-"But I can stop them."
-
-"Think of the empire as a boulder, held in place by just enough pebbles. You were one of those pebbles."
-
-"Were?"
+"So the Romans need to take Illyria. And after that the world."<br/>
+"A large part of it."<br/>
+"But I can stop them."<br/>
+"Think of the empire as a boulder, held in place by just enough pebbles. You were one of those pebbles."<br/>
+"Were?"<br/>
 
 She gave me a sympathetic smile, as I slowly locked eyes with her.
 
@@ -871,18 +867,15 @@ She gave me a sympathetic smile, as I slowly locked eyes with her.
 
 The fire was back in my chest, as I began to realize what I should have seen much sooner. My mind raced. For the first time, I felt the urge to take control over the conversation. 
 
-"Your plan for me... to get me out of the way. It's already in motion."
-
-"Be sure, Pamphilos, that you are ready for what comes next."
-
-"Tell me." I said, teeth clenched.
-
-"Then ask me.", she replied calmly.
+"Your plan for me... to get me out of the way. It's already in motion."<br/>
+"Be sure, Pamphilos, that you are ready for what comes next."<br/>
+"Tell me." I said, teeth clenched.<br/>
+"Then ask me.", she replied calmly.<br/>
 
 "Did you take my son?" I was no longer hesitant to open old wounds.
 
-"I was responsible, ultimately, for him being taken. But that is not where my influence on your life started. This will be easier for you if we start at the beginning."
-"When was the beginning? When did you start playing around with my life?"
+"I was responsible, ultimately, for him being taken. But that is not where my influence on your life started. This will be easier for you if we start at the beginning."<br/>
+"When was the beginning? When did you start playing around with my life?"<br/>
 "From my perspective, before you were born. I found my purpose the same year Illyria first submitted to the Romans. Your father fought for the queen. In him I saw the memory of the Ardiae. I saw you." 
 
 "From my perspective. Where did it start for me? Did you kill my father?"
@@ -897,9 +890,9 @@ And with that one name, she had quelled the fire again.
 
 "I did not do it out of kindness. But still, I take some solace in the fact that I brought you love among the misery."
 
-"Why?"
-"Why what?"
-"Why any of it? Why did you need Ana?"
+"Why?"<br/>
+"Why what?"<br/>
+"Why any of it? Why did you need Ana?"<br/>
 
 "You were an unhappy man. Without Ana, you would have had a son eventually, with a slave also, but not out of love. And you would not have been kind. It would have been sufficient. You would have trained a strong, and angry leader, and in a few years, when your current king blunders into another war, you and he would have been there, to make the passage through Illyria just enough of a miserable experience for the Romans, to stop them from fully conquering you."
 
@@ -911,27 +904,27 @@ And with that one name, she had quelled the fire again.
 
 So I slowly brought people to me. Slavers, traders, the rich and the poor. And I sent them on their way, to bring me more people. With every question I was asked, I increased my control over the traffic across the great sea, and with my priestesses I could plan months ahead.
 
-"When things finally came together, I had directly changed, and sometimes ruined, the lives of hundreds of people so that one slave boy in Cairo would neglect his duties for a night of passion with a young prostitute. True love, mind you, but they never would have met if a sailor I had called to me a year before, had not decided to give her a beating for declining her services as the young boy passed by on an errand. He saved her, and she gladly rewarded him with the only means she had.
+When things finally came together, I had directly changed, and sometimes ruined, the lives of hundreds of people so that one slave boy in Cairo would neglect his duties for a night of passion with a young prostitute. True love, mind you, but they never would have met if a sailor I had called to me a year before, had not decided to give her a beating for declining her services just as the young boy passed by on an errand. He saved her, and she gladly rewarded him with the only means she had.
 
-This one magical night cost him dearly, as the linen he was meant to be guarding was stolen in the night. This left a silk trader who was visiting the next day without a return cargo. Instead he found a slave girl to sell back in Ephesus."
+This one magical night cost him dearly, as the linen he was meant to be guarding was stolen. This left a silk trader who was visiting the next day without a return cargo. Instead he found a slave girl to sell back in Ephesus.
 
-"From there to Athens, and to Illyria. That part was easy. The further north, the more exotic her dark skin made her, so the traders could make a neat profit by buying slaves like her and moving her north."
+From there to Athens, and to Illyria. That part was easy. The further north, the more exotic her dark skin made her, so the traders could make a neat profit by buying slaves like her and moving them north.
 
-"Then I need to put her before Midas, and to convince him to make the purchase. That was perhaps the biggest puzzle. His visit to the market was a month after she'd been moved on, originally, and her price was well above what was reasonable for a simple house slave. Moreover, Midas had a preference for a young boy, since he was mainly looking for a slave that could help with the more intensive labor."
+Then I needed to put her before Midas, and to convince him to make the purchase. That was perhaps the biggest puzzle. His visit to the market was a month after she'd been moved on, originally, and her price was well above what was reasonable for a simple house slave. Moreover, Midas had a preference for a young boy, since he was looking for a slave that could help with the more intensive labor."
 
-"I could not entice any of the traders to come to Naxos beforehand. This was one point of the world, where at this moment of time, I had no influence."
+I could not entice any of the traders to come to Naxos beforehand. This was one point of the world, where at this moment of time, I had little direct influence.
 
-"I knew it could be done, since I had asked, but whenever I asked how, the answers were frustratingly vague. For the longest time, I could not get the picture clear enough."
+I knew it could be done, since I had asked, but whenever I asked how, the answers were frustratingly vague. For the longest time, I could not get the picture clear enough."
 
-She fell silent for a minute, and then locked eyes with me.
+She fell silent for a minute.
 
 "It was the only way. I asked, I tried to find other options. There were none. To put Anaximene in your life, I killed 36 slaves. It was an Egyptian mercenary. A carrier of a dormant disease. It's common in the south of Egypt, but not around here. I found him and put him on the wrong ship. He was captured by pirates in the Aegean, and sold into slavery at Lissos. Within two weeks, most of the slaves, and three of the traders lay dying."
 
 "Anaximene had come into contact with the disease at a younger age, and was now no longer susceptible to its effects. She survived where her captor did not, and when Midas finally came, she was by far the healthiest option at the market. The price was still steep, but he had travelled too far to return empty handed."
 
-There was remorse without regret. I could see in her eyes, the steady determination that must have faced Agias when he found her sitting on his chest with a knife to her throat. She knew, with greater certainty anybody else was ever afforded, what her path ought to be. And she seemed determined to follow to the end.
+There was remorse without regret. I could see in her eyes, the determination that must have faced Agias when he found her sitting on his chest with a knife to her throat. She knew, with greater certainty anybody else was ever afforded, what her path ought to be. And she was determined to follow to the end.
 
-"That's what it took. Five years, and 36 or so lives, but after that, Anaximene was in your life, and I needed to interfere no more. All the tapestry was pinned in place, and it was still five years before you or Ana would even be born.
+"That's what it took. Five years, and 36 or so lives, but after that, Anaximene was in your life, and I needed to interfere no more. All the threads were pinned in place, and it was still five years before you or Ana would even be born.
 
 When everything was prepared, I had my priestesses ask what your future would be and I gave the answer that I knew I would. You would fall in love with Anaximene, marry, have a son, she would die, and you would lose Hyllus, and then yourself. After that, your future was set in stone."
 
@@ -955,7 +948,7 @@ Ask me what happened to him."
 
 "He was taken by Gordias. One of your slaves. You beat him almost to death a few years before, when you caught him stealing on the day of Ana's funeral."
 
-"Gordias? There is no sense in that. He was sold off. Midas made sure that he would end up in Byzantium at least. Are you suggesting he escaped? That his desire for revenge was so strong that he made it all the way back to Illyria to torment me by taking my son? All that for a simple beating?"
+"Gordias? There is no sense in that. He was sold off. Midas made sure that he would end up in Byzantion at least. Are you suggesting he escaped? That his desire for revenge was so strong that he made it all the way back to Illyria to torment me by taking my son? All that for a simple beating?"
 
 "No, I'm not saying that. Just that Gordias was the man who took your son. It would help, if you accepted that slaves are never as loyal as they seem. Your slaves had secrets from you."
 
@@ -997,7 +990,7 @@ How about before she became a slave? Did you know she was of minor royalty?"
 
 Again, no answer seemed required.
 
-"The lands to the south of the Ptolemaic kingdom are as contested as your own Illyria. Anaximene was one of the cousins of the ruler of a minute kingdom. The king had sworn allegiance to Ptolemy, so that he could maintain his status. When the area changed hands again, Ptolemy did not send armies to come to his vassal's aid. Instead, he used the conquering of the kingdom to buy time to amass his forces in the north.
+"The lands to the south of the Ptolemaic kingdom are as contested as your own Illyria. Anaximene was one of the cousins of the ruler of a minute kingdom. The king had sworn allegiance to Ptolemy, so that he could maintain his status. When the area changed hands again, Ptolemy did not send armies to come to his vassal's aid. Instead, he used the conquering of the kingdom to buy time to amass his forces on its northern border.
 
 The king made an attempt to switch his allegiance, but you can only do that so many times, Pamphilos, before the gesture becomes meaningless. He was publicly humiliated, put to death, and his household sold into slavery. Among them Ana.
 
@@ -1021,7 +1014,7 @@ At the mention of his name I suddenly became angry. I was done with the play.
 
 She took as deep a breath as her curse allowed before answering. 
 
-"Your son, Pamphilos, was stillborn. You and Anaximene buried him in the old rose garden."
+"_Your_ son, Pamphilos, was stillborn. You and Anaximene buried him in the old rose garden."
 
 I was too angry to notice the subtlety in her emphasis. I blundered on, in blind anger, deeper into the fish trap. 
 
@@ -1035,15 +1028,15 @@ It was, I suppose, a truth I had been trying to escape from for the past ten yea
 
 We sat in silence for a long time. 
 
-"Would you like me to tell you the details, Pamphilos? I think it's important for you to hear."
-"Very well."
+"Would you like me to tell you the details, Pamphilos? I think it's important for you to hear."<br/>
+"Very well."<br/>
 "I think it's best if you ask me."
 
 I didn't care. I felt numb. The obsessive desire to escape the truth that had driven me across the Aegean had been crudely pulled out of my chest. I was finally entirely empty. I wanted her to tell me what she felt it was necessary to tell me. But I couldn't think of a way to phrase that as a question.
 
 "What happened to Hyllus?"
 
-"His father came back to take him. Gordias tried to leave Illyria, many times. He tried to tell himself that Hyllus was better off with you. Well fed, well cared for by a dozen slaves. He even recognized, despite his jealousy, that you were a far more loving father than any other slavemaster in Illyria. 
+"His father came back to take him. Gordias tried to leave Illyria, many times. He tried to tell himself that Hyllus was better off with you. Well fed, well cared for by a dozen slaves. He even recognized, despite his jealousy, that you were a far more loving father than any other slavemaster in Illyria would have been. 
 
 But he remembered what Anaximene had told him, when she was still alive. He was the father. If she would ever have to choose, she would choose him. If they ever had the opportunity to escape safely, she promised him, she would do it. If it was at all possible, they would live together as a family. No matter how much it would hurt you, Pamphilos, and how much it would hurt her to do that to you, Hyllus came first. And to her, Hyllus needed Gordias."
 
@@ -1053,17 +1046,17 @@ But he remembered what Anaximene had told him, when she was still alive. He was 
 
 That is why Gordias ultimately did what he did. Not out of jealousy. Not to hurt you. For her. To honor the memory of the woman you both loved.
 
-He knew the house of course. And Hyllus knew him. When you were away, he and Anaximene took every chance they could to spend time with the three of them. Hyllus knew that his mother trusted this man, so he trusted him as well. Gordias knew the blue hippopotamus she had made for Hyllus would keep him calm, so it was the only thing he took."
+He knew the house of course. And Hyllus knew him. When you were away, he and Anaximene took every chance they could to spend time with the three of them. Hyllus knew that his mother trusted this man, so he trusted him as well." 
 
 "Hyllus. Is he alive?" I said through my tears.
 
-"Yes. Gordias found work for a trader in Byzantium. When he was young, the trader's wife took care of Hyllus, together with her own children, while the men were out at sea. From his twelfth year, he joined his father. He is 18 now, and regularly captains the ship. He is a very accomplished sailor."
+"Yes. Gordias did eventually travel to Byzantion, and found a work there with a maritime trader. When he was young, the trader's wife took care of Hyllus, together with her own children, while the men were out at sea. From his twelfth year, he joined his father. He is 18 now, and regularly captains the ship. He is a very accomplished sailor."
 
 "Does he remember? His time with Anaximene? Does he know who I am?"
 
-"Yes. I think that Gordias would have preferred to keep the details from him, but that would have entailed withholding the details of his mother and her life. And Gordias was determined that Hyllus should know as much of his mother, and her life as he himself could remember. And that included her time at your house. He was honest. He told Hyllus that after a long list of cruel and brutal masters and traders, she finally found herself in a Villa in Illyria, under a master who hated himself, but was kinder to her than anybody she had ever met. He told him that she loved that master before she loved his father. And that the worst thing she was ever going to do was to break his heart and run away with Gordias.
+"Yes. I think that Gordias would have preferred to keep the details from him, but that would have entailed withholding the details of his mother and her life. And Gordias was determined that Hyllus should know as much of his mother, and her life as he himself could remember. And that included her time at your house. He was honest. He told Hyllus that after a long list of cruel and brutal masters and traders, she finally found herself in a villa in Illyria, under a master who hated himself, but was kinder to her than anybody she had ever met. He told him that she loved that master before she loved his father. And that the worst thing she was ever going to do was to break his heart and run away with Gordias.
 
-Those stories shaped him a lot. He knows that the Illyrians are the finest sailors under the Metzovon, and he considers that part of his heritage. He thinks about his mother most of all. She has inspired in him a desire to live away from society, to have as little to do with its structures and rules as possible. His sailing life gives him that freedom."
+Those stories shaped him a lot. He knows that the Illyrians are the finest sailors on the great sea, and he considers that part of his heritage. He thinks about his mother most of all. She has inspired in him a desire to live away from society, to have as little to do with its structures and rules as possible. His sailing life gives him that freedom."
 
 "Eighteen." I it said with a tearful smile. Different emotions rolled over me like waves over a beach. For all this time, I had imagined him frozen in time, six years old, like he was the last time I saw him. I had never truly dared to dream that he was still alive, so I had never thought to imagine him growing up. I was buffeted between the fear of his death and the impossible fantasy of us continuing our lives exactly where we had left off. I had never let myself think anything so realistic as this. That Hyllus was leading a perfectly good life, with only a dim memory of me, while I slowly destroyed myself for no good reason.
 
@@ -1071,15 +1064,13 @@ Above us, the sky had turned from deep black to a dark purple. On the horizon wa
 
 "So what happens now?"
 
-"Now we discuss your future. I will make you an offer and you will take it. But, please, Pamphilos, be careful with such broad questions. I cannot always control what the answer will be."
+"Now we discuss your future. I will make you an offer and you will take it. But, please, Pamphilos, be careful with such broad questions. I cannot always control what the answer will be.
 
-"Right."
-
-"You have had a lot to endure. You may feel now like you've accepted what I have told you, but over the next weeks you will come back to it again and again. You will realize how angry you truly are with me for manipulating your life. That anger will not die easily. You will think of travelling to Byzantium to see Hyllus. Or back to Illyria, to wait for him to visit. These are bad ideas."
+You have had a lot to endure. You may feel now like you've accepted what I have told you, but over the next weeks you will come back to it again and again. You will realize how angry you truly are with me for manipulating your life. That anger will not die easily. You will think of travelling to Byzantion to see Hyllus. Or back to Illyria, to wait for him to visit. These are bad ideas."
 
 "Why? Why should I not meet him?"
 
-"You would trade one obsession for another Pamphilos? So soon you've been relieved of your burden? It's a bad idea to visit him, because he has his own life. He is detached, and he is happy to be detached. His memories of you are the memories of his mother. That is the very best you have to offer him. That is what you can be to him. Meeting him now would only erase that."
+"You would trade one obsession for another Pamphilos? So soon after you've been relieved of your burden? It's a bad idea to visit him, because he has his own life. He is detached, and he is happy to be detached. His memories of you are the memories of his mother. That is the very best you have to offer him. That is what you can be to him. Meeting him now would only erase that."
 
 "What then? What is your offer?"
 
@@ -1103,7 +1094,7 @@ I did not understand immediately.
 
 But also about the world. You may ask me what the planets and the stars are made of. Which of the gods are real. Whether there are people on the other side of the earth. I offer you anything you may wish to know. What the Roman emperor thinks about when he masturbates. So long as it doesn't interfere with my intentions, I'm happy to let you ask what you want.
 
-There are a few like you on this island already. I always look forward to speaking with them. I have mined this curse for everything I could think of, but you people, you somehow always manage to come up with questions I have never thought of before. "
+There are a few like you on this island already. I always look forward to speaking with them. I have mined this curse for everything I could think of, but you people, you somehow always manage to come up with questions I have never thought of before."
 
 "It doesn't seem like a particularly appealing offer."
 
@@ -1133,10 +1124,10 @@ Yesterday, the Oracle told me that the blue hippopotamus that she made for Hyllu
 
 The villagers let me be. It's easy to tell her other victims apart from her priestesses and accomplices. They keep to themselves, write, take long walks. There is one I speak to occasionally. He used to be a soldier in the Seleucid empire, but it seems to be an unspoken rule that we do not discuss our histories in too much detail. 
 
-He told me that he too, spent a long time using his questions to find peace with what had happened. But then, as he settled in, he had started to wonder what things are made of, ultimately if we could see small enough, what would we see.. It seemed a simple question, so he asked the Oracle. Her answer was so exceedingly vague that he couldn't help but ask a series of further questions, even though he was only allowed three in total. She was patient with him, but the more she answered, the less he understood. Before long this was the problem that occupied his mind, to understand these answers. He has made great progress, he says, and suggests that sunlight and rain are both made of the same substance, which is in part like a missile from slingshot and in part like a wave on the sea.
+He told me that he too, spent a long time using his questions to find peace with what had happened. But then, as he settled in, he had started to wonder what things are made of, ultimately if we could see small enough, what would we see. It seemed a simple question, so he asked the Oracle. Her answer was so exceedingly vague that he couldn't help but ask a series of further questions, even though he was only allowed three in total. She was patient with him, but the more she answered, the less he understood. Before long this was the problem that occupied his mind, to understand these answers. He has made great progress, he says, and suggests that sunlight and rain are both made of the same substance, which is in part like a missile from slingshot and in part like a wave on the sea.
 
 This seems to be how most of them spend their days. They use the oracle to answer great and profound questions, and then spend their days attempting to understand the answers. Much is written, but we all accept that it is most likely that she will not allow any of it to survive, or to escape from the island. We are allowed to satisfy our own curiosities, but the days when we might have some effect on the course of history are behind us. We are not dead yet, but we are by no means fully alive. Whatever grand discoveries we make, they die with us.
 
 I wonder, is she content with the same fate? Has she decided to make her exit from this world gracefully, with nobody ever to know what part she played in our history? Two-thousand years, she said. That is enough responsibility for any one person to shoulder. Perhaps she would allow something to remain hidden. Something, she could make sure we would only find in time. Something to let them know that there was some order, some choice, that the world they suffered through, as bad as it was, was not the worst possible. That there was somebody, in the depths of time, making sure that though they erred and suffered, someone somewhere would at least learn from their suffering. Someone who made sure that that lesson stayed alive. 
 
-I feel that they should know. And for all she's done, I feel that she deserves for somebody to know that, at some point.
+I feel that they should know. And for all she's done, I feel that she deserves for it to be recorded.
