@@ -1,9 +1,9 @@
 ---
 title: "If Croesus goes to war"
 
-summary: "When I arrived at Naxos and made my way to the small beach on its eastern coast, I found only a handful of visitors who were there for the same reason I was. To consult the oracle, at the temple in the cave, on a small, unnamed island to the south."
+summary: ">I count the grains of sand on the beach and measure the sea; I understand the speech of the dumb and hear the voiceless. The smell has come to my sense of a hard shelled tortoise boiling and bubbling with a lamb's flesh in a bronze pot: the cauldron underneath it is of bronze, and bronze is the lid."
 
-image: "https://holidaygreece.ru/images/w./h.400/c.0/mr.1/d.guide_photos/sd.2014-04/i.1276619_10151807322058194_427827914_itaka-20140415.jpg"
+image: "http://profane-tmesis.info/croesus-cover.jpg"
 ---
 
 # If Croesus goes to war
