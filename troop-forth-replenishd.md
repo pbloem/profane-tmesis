@@ -20,7 +20,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Alpha%2C_Beta_and_Pr
 --- Hmpf, you call that sentient? Population size?<br/>
 --- At least a billion, your Beneficence.<br/>
 --- Well, we'd better bring a few of them home then. For study, and to please the conservationists. Who knows, maybe they'll make good pets. Save about a million, and exterminate the rest. Dissolver cannons, I think. With the profit we expect to make here, I think we can afford the expense of giving them a painless death.<br/>
---- Wonderfully charitable as always, your divinity. I will give the orders immediately.
+--- Wonderfully charitable as always, your Divinity. I will give the orders immediately.
 
 --- Odd, that. Finding a civilization so close by, isn't it minister? I wonder why we never spotted them before?<br/>
 --- I can have the observers look into the matter, if it please your Immortality.<br/>
@@ -59,7 +59,7 @@ Meanwhile, the population sample had managed to break out of their confinement, 
 --- By no means, your Splendidness. However,  it appears that this planet revolves more than three hundred times for one orbit. Close to five hundred per cycle.
 
 --- Good heavens, I would not have thought such a planet habitable.<br/>
---- Indeed, your Grace, certainly not for sentient life. In fact, we have always held that the required orbital characteristics explain why sentient life is so rare in the galaxy. Nevertheless, on this planet, life managed, somehow, to evolve to the point of sentience despite the very rapid fluctiuations in temperature induced by their rotational period.
+--- Indeed, your Grace, certainly not for sentient life. In fact, we have always held that the required orbital characteristics explain why sentient life is so rare in the galaxy. Nevertheless, on this planet, life managed, somehow, to evolve to the point of sentience despite the very rapid fluctuations in temperature induced by their rotational period.
 
 The prospectors were as surprised as you and I, but did not consider it more than a curiosity. However, when the population sample was transported aboard, it was found that for each such revolution, they sleep and wake. Hundreds of times every cycle.<br/>
 --- My word.<br/>
