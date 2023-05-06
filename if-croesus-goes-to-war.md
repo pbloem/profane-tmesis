@@ -82,7 +82,7 @@ Before I could speak, she interjected.
 
 She spoke with no drama. No theatre. Almost bored at the obvious truth of her proclamations.
 
-"To the village", I said at last. Whatever she had planned for me, whatever tricks she was playing, I could not let this end with a few simple questions and a night sleeping on the beach. 
+"To the village", I said at last. Whatever she had planned for me, whatever tricks she was playing, I could not let this end with a few simple questions and a night spent sleeping on the beach. 
 
 At first we walked in silence. I felt somehow that every question I would ask would pull me more firmly into her influence. I could sense it in her confidence. 
 
@@ -138,7 +138,7 @@ I paid twice what such a meal should cost, and in return he left us in peace. It
 
 But I did not know right away. I spent most of my time in those days with no other company than my goats. I rarely met people, except when I went into the city to sell my milk. The first person I spoke to after the Jinn had disappeared was a keeper of an inn just outside the south walls. An unpleasant man, but one who always paid a fair price. 
 
-He enjoyed asking me questions that made me uncomfortable. Intimate, physical questions. 'Coming along nicely, I see', he said, as he poked my chest with a fat finger. He spoke loudly, more to his patrons than to me. zSoon, you'll be a ripe little fig. You'll start craving the touch of a man like me. And more than a finger too!' His patrons laughed.
+He enjoyed asking me questions that made me uncomfortable. Intimate, physical questions. 'Coming along nicely, I see', he said, as he poked my chest with a fat finger. He spoke loudly, more to his patrons than to me. 'Soon, you'll be a ripe little fig. You'll start craving the touch of a man like me. And more than a finger too!' His patrons laughed.
 
 'How about it little one?' I had passed him the milk, but he held back my money to taunt me. 'Have you started having ungodly thoughts yet?'
  
@@ -186,7 +186,7 @@ At first I considered mumbling my answers, or pretending to be mute. But of cour
 
 In the end, my hunger and thirst won out, and without a plan, I joined the other children.
 
-The questions were not as bad as I had thought. 'What's your name?' they asked and 'Where are you from?' It gave me an opportunity to test my condition. I found I could not hold back the answer for long, but if I did, I had some measure of control. I could state that I was 'from Palmyra', or 'from the south', 'from a large city called Palmyra'. 
+The questions were not as bad as I had thought. 'What's your name?' they asked and 'Where are you from?' It gave me an opportunity to test my condition. I found I could not hold back the answer for long, but if I did, I had some measure of control. I could state that I was 'from Palmyra', or 'from the south', or 'from a large city called Palmyra'. 
 
 Any details I tried to withhold would come out immediately, but if I relaxed and concentrated, I could control the phrasing, and the order in which the facts emerged. I tried answering in Aramaic instead of Greek, but I found that I could not. If I could possibly make myself understood to the person who asked me a question, I had to.
 
@@ -204,9 +204,9 @@ We followed him around, to listen from a safe distance, without angering the tra
 
 When we came to Sardis, the caravan disbanded, and with it the group of orphans. As they ran off to their preferred places to beg, play, or steal, I was left alone. Instantly, I felt a great sense of despair come over me. I did not speak Greek well, and I did not know this city at all. Too late, I realized I should have followed the other children. 
 
-Behind me, I heard the storyteller.
-'Tell me, how is it that you have survived for so long?'
-'I'm sorry, I said, I do not understand the question.'
+Behind me, I heard the storyteller.<br/>
+'Tell me, how is it that you have survived for so long?'<br/>
+'I'm sorry, I said, I do not understand the question.'<br/>
 'I grew up like you, you know. I lived on the streets when I was your age. Kids like you don't survive. Kids who don't fight. Kids who are polite and withdrawn. You need the other kids to survive, and you need to be able to take what you want from them, when it comes to that.'
 
 I now understood. I hoped he would not ask again.
