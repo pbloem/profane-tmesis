@@ -684,7 +684,7 @@ This was the first thing she bought for herself when she became a free woman. It
 
 And here stood this fool, just days after we had performed the rites, after we had all mourned for her, as a household master and slave alike, sullying her belongings with his greedy fingers. And of all the things he could choose to steal, he picks the one item I would keep above all to remember her by. 
 
-I beat him. I kept beating. I was not a skilled fighter. I broke as many bones in my own hands as I did in his face. But he did not resist or fight back. If Midas had not found us, I would surely have killed him. When my rage had subsided, Midas took him away and sold him to a caravan bound for the east. We lost a fortune, selling him in that state, but it ensured that he would be taken far out of our lives, instead of lingering around the village. 
+I beat him. I kept beating. I was not a skilled fighter. I broke as many bones in my own hands as I did in his face. But he did not resist or fight back. If Midas had not found us, I would surely have killed him. When my rage had subsided, Midas took him away. I later learned that the boy had been sold to a caravan bound for the east. We lost a fortune, selling him in that state, but it ensured that he would be taken far out of our lives, instead of lingering around the village. 
 
 But for Hyllus, I would have let that fire burn me to ash. That little boy, asleep in his little bed, offered me a refuge from my rage. A different kind of sorrow.
 
