@@ -710,7 +710,7 @@ There was nothing special about the toy. Hyllus didn't particularly care for it.
 
 More than once, I dreamt that I myself had taken him. That I had broken myself in two, one side filled with happiness and love, which had taken all that mattered: Hyllus and the memory of his mother, and one side left behind in my vast, empty house, filled with all the bitterness, loneliness and misery that I had collected over the years.
 
-In my more lucid moments, I suspected all the slaves. Questioned them. One or two I beat, in hopes of a confession. I was hoping that somebody would run away, so that I would know that they were guilty. Of course, I had some enemies. Some villagers whose lives I had upset. Some slaves and ex-slaves. The thief, of course, could have made his way back from the slave market in Byzantion. Perhaps even Midas bore some hidden grudge against his new master. Would any of them be so aggrieved as to hurt me by taking my son? Did anything I had done in my life warrant such cruel retribution?
+In my more lucid moments, I suspected all the slaves. Questioned them. One or two I beat, in hopes of a confession. I was hoping that somebody would run away, so that I would know that they were guilty. Of course, I had some enemies. Some villagers whose lives I had upset. Some slaves and ex-slaves. Could the slave who stole Ana's necklace, have made his way back from the slave market in Byzantion? He seemd utterly resigned even as I beat him. Perhaps even Midas bore some hidden grudge against his new master. Would any of them be so aggrieved as to hurt me by taking my son? Did anything I had done in my life warrant such cruel retribution?
 
 Finally, in my desperation, I turned to the oracles.
 
