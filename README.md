@@ -10,6 +10,6 @@
 <li><a href="flash-fiction-2011">Flash fiction 2011</a></li>
 </ul>
 
-** elsewhere **: <a href="https://twitter.com/profane_tmesis/">twitter</a>,  <a href="https://writing.exchange/@ptmesis">mastodon</a>
+**elsewhere**: <a href="https://twitter.com/profane_tmesis/">twitter</a>,  <a href="https://writing.exchange/@ptmesis">mastodon</a>
 
 
