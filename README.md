@@ -12,5 +12,9 @@
 
 ## elsewhere
 
-* [twitter](https://twitter.com/profane_tmesis/)
-* [mastodon](https://writing.exchange/@ptmesis)
+
+<ul class="stories">
+<li><a href="https://twitter.com/profane_tmesis/">twitter</a></li>
+<li><a href="https://writing.exchange/@ptmesis">mastodon</a></li>
+</ul>
+
