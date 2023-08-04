@@ -9,3 +9,8 @@
 <li><a href="inside-out">Inside out</a></li>
 <li><a href="flash-fiction-2011">Flash fiction 2011</a></li>
 </ul>
+
+## elsewhere
+
+* [twitter](https://twitter.com/profane_tmesis/)
+* [mastodon](https://writing.exchange/@ptmesis)
