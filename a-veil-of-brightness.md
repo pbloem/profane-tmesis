@@ -1,7 +1,8 @@
 ---
 title: "A veil of brightness"
 
-summary: "I count the grains of sand on the beach and measure the sea; I understand the speech of the dumb and hear the voiceless. The smell has come to my sense of a hard shelled tortoise boiling and bubbling with a lamb's flesh in a bronze pot: the cauldron underneath it is of bronze, and bronze is the lid."
+summary: "The story of a girl who made a wish. The story of a man with a question. Pamphilos of the Ardiae has spent ten years of his life sailing to every corner of the Aegean in search of an Oracle who can tell him what he needs to know. Tonight, his travels come to an end, and his question is answered.
+"
 
 image: "http://profane-tmesis.info/veil-card.jpg"
 ---
