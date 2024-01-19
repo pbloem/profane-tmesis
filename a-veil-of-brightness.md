@@ -3,7 +3,7 @@ title: "A veil of brightness"
 
 summary: "I count the grains of sand on the beach and measure the sea; I understand the speech of the dumb and hear the voiceless. The smell has come to my sense of a hard shelled tortoise boiling and bubbling with a lamb's flesh in a bronze pot: the cauldron underneath it is of bronze, and bronze is the lid."
 
-image: "http://profane-tmesis.info/croesus-cover.jpg"
+image: "http://profane-tmesis.info/veil-cover.png"
 ---
 
 # A veil of brightness
@@ -1050,7 +1050,7 @@ He knew the house of course. And Hyllus knew him. When you were away, he and Ana
 
 "Hyllus. Is he alive?" I said through my tears.
 
-"Yes. Gordias did eventually travel to Byzantion, and found a work there with a maritime trader. When he was young, the trader's wife took care of Hyllus, together with her own children, while the men were out at sea. From his twelfth year, he joined his father. He is 18 now, and regularly captains the ship. He is a very accomplished sailor."
+"Yes. Gordias did eventually travel to Byzantion, and found work there with a maritime trader. When he was young, the trader's wife took care of Hyllus, together with her own children, while the men were out at sea. From his twelfth year, he joined his father. He is 18 now, and regularly captains the ship. He is a very accomplished sailor."
 
 "Does he remember? His time with Anaximene? Does he know who I am?"
 
@@ -1110,7 +1110,7 @@ She raised herself up with difficulty.
 
 That is where you find me now. In my hut, which is indeed surprisingly comfortable. Several of the villagers have offered to help me turn it into something that will be suitable for winter, should I decide to stay. She told me I will, and I have no reason to doubt her, but I do not feel it yet. 
 
-As I write, it has been eight weeks since I came to the island. So far everything she said has come true. The acceptance and relief I felt at the end of that night were short lived, and mostly inspired by exhaustion. After eventually finding some sleep, I found my fury refreshed as well as my body. I had many heated confrontations with her. She was mostly patient with me, and said what she needed to say to help me through my anger. It's a frustrating experience to attempt an argument with somebody who has been able to plan the confrontation in advance, but she seems mostly to have my interests at heart.
+As I write, it has been eight weeks since I came to the island. So far everything she said has come true. The acceptance and relief I felt at the end of that night were short lived, and inspired by exhaustion. After eventually finding sleep, I found my fury refreshed. I had many heated confrontations with her. She was mostly patient with me, and said what she needed to say to help me through my anger. It's a frustrating experience to attempt an argument with somebody who has been able to plan the confrontation in advance, but she seems to have my interests at heart.
 
 I was not angry for what she chose to do. I cannot think what I would have done in her place. I also admitted, however angry I was, that she brought me everything that was good and worthwhile in my life. I could not even wish that she had chosen somebody else in Illyria, for that would have been to wish I had never met Anaximene.
 
