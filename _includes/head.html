@@ -1,5 +1,15 @@
 
 	<!-- Twitter cards -->
+	<meta property="og:title" content="{{ page.title }}" />
+	{% if page.summary %}
+	<meta name="og:description" content="{{ page.summary }}">
+	{% else %}
+	<meta name="og:description" content="{{ site.description }}">
+	{% endif %}	
+	<meta property="og:image" content="{{ page.image }}" />
+	<meta property="og:image:secure_url" content="{{ page.image }}" />
+
+        <!-- Twitter cards -->
 	<meta name="twitter:site"    content="@{{ site.twitter_username }}">
 	<meta name="twitter:title"   content="{{ page.title }}">
 
