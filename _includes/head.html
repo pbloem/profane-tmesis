@@ -2,9 +2,9 @@
 	<!-- Twitter cards -->
 	<meta property="og:title" content="{{ page.title }}" />
 	{% if page.summary %}
-	<meta name="og:description" content="{{ page.summary }}">
+	<meta property="og:description" content="{{ page.summary }}">
 	{% else %}
-	<meta name="og:description" content="{{ site.description }}">
+	<meta property="og:description" content="{{ site.description }}">
 	{% endif %}	
 	<meta property="og:image" content="{{ page.image }}" />
 	<meta property="og:image:secure_url" content="{{ page.image }}" />
