@@ -3,7 +3,7 @@ title: "A veil of brightness"
 
 summary: "I count the grains of sand on the beach and measure the sea; I understand the speech of the dumb and hear the voiceless. The smell has come to my sense of a hard shelled tortoise boiling and bubbling with a lamb's flesh in a bronze pot: the cauldron underneath it is of bronze, and bronze is the lid."
 
-image: "http://profane-tmesis.info/veil-cover.png"
+image: "http://profane-tmesis.info/veil-card.jpg"
 ---
 
 # A veil of brightness
