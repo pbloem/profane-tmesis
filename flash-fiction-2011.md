@@ -3844,7 +3844,7 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
 <h2>Nine across</h2>
 <p>Muriel nearly falls off her bicycle. Her husband gets a few yards ahead before stopping and turning.</p>
 
-<p>&lsquo;Darling, are you allright?&rsquo;</p>
+<p>&lsquo;Darling, are you alright?&rsquo;</p>
 
 <p>She doesn&rsquo;t answer. He puts his bike down and walks to her.</p>
 
@@ -3917,7 +3917,7 @@ Lieutenant Miyake stares at her boots. Confused, she speaks before the Commodore
                 
                 
 <h2>Business plan</h2>
-<p>It&rsquo;s pretty straightforward. What we do is we sell these little cards. Like businesscards, but a bit bigger. Too big to keep in your wallet, too small to hang on your wall. They&rsquo;re mostly blank, but made of nice paper. On one side, it says &lsquo;everything is going to be allright&rsquo;.</p>
+<p>It&rsquo;s pretty straightforward. What we do is we sell these little cards. Like businesscards, but a bit bigger. Too big to keep in your wallet, too small to hang on your wall. They&rsquo;re mostly blank, but made of nice paper. On one side, it says &lsquo;everything is going to be all right&rsquo;.</p>
 
 <p>We sell them for five dollars per card. Strictly one per person. We ask for your identification. We have a database. You will not get a second.</p>
 
