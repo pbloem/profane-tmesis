@@ -15,7 +15,7 @@ When I arrived at Naxos and made my way to the small beach on its eastern coast,
 
 I am Pamphilos of the Ardiae. My father left me one of the largest estates in southern Illyria. Our olive grove is the envy of the Adriatic. My household numbers fifteen slaves, and in times of war, five-thousand strong are sworn to answer my call. 
 
-As I write, I am sat, cross-legged, in a small hut, still on the island near Naxos. And I have decided that I will die here, far away from my lands, from my happiness, and from my home. This tragedy is mine because I asked an oracle a question. 
+As I write, I am sat, cross-legged, in a small hut, still on the island near Naxos. It is where I will spend the rest of my life. Far away from my lands, from my happiness, and from my home. This tragedy is mine because I asked an oracle a question. 
 
 Mine is like so many stories about oracles. Filled with inevitability. Were they all warnings? If so, then let me add my own. Perhaps some future traveller will fail to heed this tale, like I did with all the others.
 
