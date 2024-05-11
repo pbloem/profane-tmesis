@@ -23,6 +23,11 @@
 	
   </head>
   <body id="body">
+
+  {% if page.url != "/" %}
+    <a class="home" href="/"><pre><<<</pre></a>
+  {% endif %}
+
   {{ content }}
   
   </body>

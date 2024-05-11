@@ -150,3 +150,19 @@ ul.stories li a {
 	border-bottom: solid white 1px;
 	padding: 0.725em 1.4545em 0.725em 1.4545em;
 }
+
+a.home {
+    position: absolute;
+    width: 3em;
+    height: 3em;
+    text-align: center;
+    left: -3em;
+}
+
+a.home pre {
+    height: 100%;
+    width: 100%;
+    line-height: 3em;
+    vertical-align: middle;
+    display: inline;
+}
