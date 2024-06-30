@@ -170,6 +170,6 @@ a.home pre {
 span.elsewhere {
     font-weight: 100;
     text-transform: uppercase;
-
-    color: #580000;
+    font-family: Helvetica, sans-serif;
+    font-size: 0.8em;
 }
