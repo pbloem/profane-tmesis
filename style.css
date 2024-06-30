@@ -166,3 +166,11 @@ a.home pre {
     vertical-align: middle;
     display: inline;
 }
+
+span.elsewhere {
+	font-weight: 100;
+	text-transform: uppercase;
+
+	color: #580000;
+
+}
