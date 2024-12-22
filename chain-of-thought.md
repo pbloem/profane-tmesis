@@ -3,7 +3,7 @@ title: Chain of thought
 summary: "A: Our starting assumption is that the message is toxic. What do you think?
 B: Context is key. The message reads like a joke. It may be satirical.
 C: We have limited access to context. However, the fact that it is a joke does not preclude the possibility of it being toxic."
-image: http://profane-tmesis.info/chain-of-thought.jpeg
+image: http://profane-tmesis.info/cot.jpeg
 ---
 
 
