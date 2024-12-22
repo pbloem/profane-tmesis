@@ -166,3 +166,8 @@ a.home pre {
     vertical-align: middle;
     display: inline;
 }
+
+code {
+    font-size: 0.8em;
+   	color: #580000;
+}

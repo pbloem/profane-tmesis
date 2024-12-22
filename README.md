@@ -1,6 +1,7 @@
 <h1 class="main">Profane tmesis</h1>
 
 <ul class="stories">
+<li><a href="chain-of-thought">Chain of thought</a></li>
 <li><a href="a-veil-of-brightness">A veil of brightness</a></li>
 <li><a href="troop-forth-replenishd">Troop forth replenish'd</a></li>
 <li><a href="a-week-in-the-life-of">A week in the life of</a></li>
