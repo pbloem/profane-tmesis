@@ -171,3 +171,10 @@ code {
     font-size: 0.8em;
    	color: #580000;
 }
+
+span.elsewhere {
+    font-weight: 100;
+    text-transform: uppercase;
+    font-family: Helvetica, sans-serif;
+    font-size: 0.8em;
+}

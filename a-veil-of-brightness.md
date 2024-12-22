@@ -824,7 +824,7 @@ Silence again.
 
 She took a deep breath and composed herself.
 
-"In all my misery, however, I was left with a purpose. I had pinned one part of the thread to the wall, but before and after that pin, the tapestry hung loose. There were still possibilities. and anything before and after this moment that I had seen, I still had some influence over.
+"In all my misery, however, I was left with a purpose. I had pinned one part of the thread to the wall, but before and after that pin, the tapestry hung loose. There were still possibilities. And anything before and after this moment that I had seen, I still had some influence over.
 
 I had learned my lesson, to be sure. I planned my questions more carefully. I quickly learned to ask about what possibilities I had to shape the future, before actually asking any questions. And so I came to the Romans."
 
