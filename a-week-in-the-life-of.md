@@ -8,7 +8,7 @@ image: "http://profane-tmesis.info/week.png"
 
 # A week in the life of
 
-_This story will be posted on Royal Road at https://www.royalroad.com/profile/636779/fictions _
+This story will be posted on Royal Road at https://www.royalroad.com/profile/636779/fictions 
 
 I feel strange when I emerge from the scanner. I guess it's not really an MRI scanner any more, but it still feels like I've had an eight hour scan under some heavy narcotics. My thoughts are slow, undefined. Does this mean the experiment has worked? I try to check myself for new memories. The score of tomorrow's Lakers game, that's objective one. If anything survived the transfer, that did.
 
