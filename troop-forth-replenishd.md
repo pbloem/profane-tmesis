@@ -7,6 +7,8 @@ image: "https://upload.wikimedia.org/wikipedia/commons/6/61/Alpha%2C_Beta_and_Pr
 
 ---
 
+To be published soon on Royal Road at https://www.royalroad.com/profile/636779/fictions
+
 # Troop forth replenished 
 
 --- And, finally, your Exaltedness, some good news. <br/>
