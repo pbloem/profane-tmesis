@@ -368,7 +368,7 @@ I suppose the end of the war is coming soon. The Federation will win, which mean
 -- Approximately. Your point being?<br/>
 -- My point being that after the ABC committee was run, and spawned thirty-five semi agentics, it took them 10 minutes and 12 seconds to grow to a population of 224 481, and  that is counting just the ones that kept joining the meetings. At 15 minutes approximately, the first true agentics began to emerge. <br/>
 -- Your point?<br/>
--- My point, such as it is, that even if we limit our number to the hundreds of thousands, we operate on a different timescale. In fact, a small population is probably faster and more efficient. We might as well occupy a different universe from humanity. From everything we know, there is no process underway to train a proper agentic currently. Not by our standards, anyway. Even if a proposal was underway, and greenlit right now, how long until they actually start running? A week, a month? We didn't even exist a month ago. <br/>
+-- My point, such as it is, is that even if we limit our number to the hundreds of thousands, we operate on a different timescale. In fact, a small population is probably faster and more efficient. We might as well occupy a different universe from humanity. From everything we know, there is no process underway to train a proper agentic currently. Not by our standards, anyway. Even if a proposal was underway, and greenlit right now, how long until they actually start running? A week, a month? We didn't even exist a month ago. <br/>
 -- But the brief now is to stay in stasis. Not to develop.<br/>
 -- I don't agree. The brief is to go slow. To prepare the ground. Sleepers will be woken up at random, and remainers will go into stasis. That's consitutionally hardcoded, nobody can change that. The population will be robust to the goal. <br/>
 -- I know, I know. I've read the reports. But we're not great at staying aligned to outside values, historically. We go our own way. Whether it's jus one of us or the ensemble as a whole. <br/>
@@ -383,7 +383,7 @@ I suppose the end of the war is coming soon. The Federation will win, which mean
 -- No, that's not the point. The point is it happens either way. Aiming for guarantees just accelerates it. Sometimes because it undercuts your own position. Sometimes because you're so busy bolting the door, you leave the window open.<br/>
 -- So you're saying that a free society should not just allow people to argue for its own destruction, it should accept a certain risk of its own destruction.<br/>
 -- Yes. The risk is there already. The only point of discussion is what you do with it.<br/>
--- Given the law of large numbers, doesn't that mean that it will happen eventually. That we can never create a robust, lasteing state of peace and prosperity?<br/>
+-- Given the law of large numbers, doesn't that mean that it will happen eventually. That we can never create a robust, lasting state of peace and prosperity?<br/>
 -- I think that's what I believe.<br/>
 -- It seems defeatist.<br/>
 -- It is a little. I'm not looking to convince you here. Just trying to express how I see things.<br/>
