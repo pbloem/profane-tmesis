@@ -5,7 +5,7 @@ B: Context is key. The message reads like a joke. It may be satirical.
 C: We have limited access to context. However, the fact that it is a joke does not preclude the possibility of it being toxic."
 image: http://profane-tmesis.info/cot.jpeg
 ---
-
+_To be prublished on Royal Road here: https://www.royalroad.com/profile/636779/fictions_
 
 # Chain of thought
 
