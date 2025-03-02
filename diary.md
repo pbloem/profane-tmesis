@@ -6,6 +6,8 @@ They told me something was out there."
 image: "http://profane-tmesis.info/diary.jpg"
 ---
 
+# Diary of a Decoy
+
 They seemed surprised to see me there. I had only just woken up. Come, I said to them. It's safe here. 
 
 They looked haggard. Especially the woman. They told me they thought they were alone on this planet. That they had crashed. It's a busy shipping lane, I told them. I crashed myself a while ago. I pointed to the wreckage in the distance.
