@@ -1,6 +1,7 @@
 <h1 class="main">Profane tmesis</h1>
 
 <ul class="stories">
+<li><a href="infinite-high-ground">The Infinite High Ground</a></li>
 <li><a href="diary">Diary of a Decoy</a></li>
 <li><a href="chain-of-thought">Chain of thought</a></li>
 <li><a href="a-veil-of-brightness">A veil of brightness</a></li>
