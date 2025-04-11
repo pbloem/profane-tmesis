@@ -61,7 +61,8 @@ I kept walking as the front line kept retreating behind me. All the way, my feet
 The imaginary line from my shoulders to the front seemed to go slack. I was no longer pulling it along, but struggling to keep ahead of it. I could hear the sound of tank engines and shellfire behind me.
 
 Finally, my knees shattered, and I fell forward. I hit the soft, fragrant grass. It was as comfortable as a down mattress. I lifted myself up on my elbows, and turned around, just in time to see one of our own tanks, rumbling towards me. I was in the path of its tracks. I knew now that I was dreaming, but I couldn't wake up. My limp feet were caught in between two track plates, and ground up. I felt the bones snap and the skin tear open as the weight of the whole tank slowly rolled on to my splintering shins. 
-Vaku's hand on my shoulder woke me. He said it was time to move, the enemy was continuing its retreat.
+
+Vaku's hand on my shoulder woke me. He said it was time to move. The enemy was continuing its retreat.
 
 ---
 
