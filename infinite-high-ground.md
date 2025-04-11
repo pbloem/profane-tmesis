@@ -1,6 +1,6 @@
 ---
 title: the infinite high ground
-image: 
+image: infinite-high-ground.jpg
 ---
 
 # The infinite high ground 
