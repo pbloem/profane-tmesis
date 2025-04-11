@@ -1,6 +1,6 @@
 ---
 title: the infinite high ground
-image: infinite-high-ground.jpg
+image: http://profane-tmesis.info/infinite-high-ground.jpg
 ---
 
 # The infinite high ground 
