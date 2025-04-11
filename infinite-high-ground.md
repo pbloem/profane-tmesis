@@ -67,53 +67,96 @@ Vaku's hand on my shoulder woke me. He said it was time to move. The enemy was c
 ---
 
 The log says we have been behind the line for exactly five years today. It feels shorter. I did not tell the men. They are restless. It would only remind them of how much they have given to the war. 
+
 They ask every day for more active missions. To hit a theatre in one of the villages. To show some of these women working in the field, driving cars, what retribution they would face in our lands. To show them the price they pay for squandering their modesty, the greatest gift the Father gave them.
+
 I tell them that that is not our primary purpose. We are here to stay hidden. To relay data. I give them such missions when the opportunity arises, but only then. They tell me it would be for the greater glory of the Father. That it makes tactical sense. Make these people see that they cannot live in such peace, such decadence, while war rages but a hundred kilometers from their doors.
+
 It isn't just a desire for a greater part in the war. I see it behind their eyes. I feel it myself. We are weary. Angry. It's not just the years of our lives that we gave to this war. Gladly of course. Gladly. How can you complain about five years, when you would gladly give your life? Is this not the lesser sacrifice? We have no basis to complain.
+
 Perhaps it's the land. There is something about the crispness of the air. The vitality of life. There is so much of it. Among the blackflower fields, you will see only roaches and screwflies. Here, every bug that darts in front of your eyes is a different kind and a different color. There is almost no exposed soil. Every patch of land is covered in an explosion of flowers. Even the shades of green are all different. In Maqbasa park, where I spent the best days of my youth, it seems that all the trees were the same color. Why would that upset me? What was I thinking about?
-We ran into another squad of burrowers a few weeks back. They dropped three years ago. Three of them. They wouldn't admit it at first, but one of them had deserted. I wouldn't have thought it possible. You are not selected to drop behind the front unless you are blessed with the true glory. How did they even let him get away? Why didn't they hunt him down?
+
+We ran into another squad of burrowers a few weeks back. They dropped three years ago. Three of them. They wouldn't admit it at first, but one of them had deserted. I wouldn't have thought it possible. You are not selected to drop behind the front unless you are blessed with the True Glory. How did they even let him get away? Why didn't they hunt him down?
 But then, why did we part ways? Why did I not push the matter? Put them to justice. Would I have let this pass five years ago? Would I have doubted myself so much and so often?
-Perhaps it is time for more active missions. That sort of thing has a way of reinvigorating the holy purpose. 
+Perhaps it _is_ time for more active missions. That sort of thing has a way of reinvigorating the holy purpose. 
+
 The enemy still retreats. Half of every week they pull back with high speed, and we race to maintain our distance. I estimate that they have retreated over ten thousand kilometers. It shows what vast territory they held to begin with. How did they ever keep such an empire, with such weak will? I hope it will not be another 5 years before they finally collapse under our onslaught. 
-#
+
+---
+
 The enemy has been calling me on the radio. I don't know how they got a hold of our scrambler key. A woman, of course. Says she wants to talk. That we might want to surrender. Is she mad? Who asks for surrender after losing a tenth of the globe to a constant retreat? They simply do not understand us. No matter, they will come to understand in time. 
+
 Food is getting harder to come by. I can't let the men eat off the land anymore. Not when they see these godless weaklings eat such glorious food. After active missions, we stock up on food of course, but that never lasts long, and we can't do that too often without exposing our position. These people still show plenty of aggression when one of their own is killed or violated. In their own terms, that is. They would see it as a violation. We do not take anything from them that they didn't squander already. We are only vessels for the Father's wrath.
+
 We have taken to pretending to be them. Vaku is good at their language. He dresses up in their clothes and asks for food. It took us a while to figure that out. These people don't use coin, so we can't pay for anything. Vaku started out by stealing, but it's hard to steal enough food for four men to survive. After a while, he was caught, and he felt sure that they would imprison him. Perhaps even mutilate him. They still do that in the south of Maqbasa-bar, where Vaku is from.
+
 Of course they don't do that here. I could have told him that. But I didn't expect what happened next. They asked him why he needed to steal. He made up a story about being thrown out of his house. They didn't seem to believe him, but they let him leave with the food. They just gave it. 
-I don't understand how these people survived for so long. We all know the instinct to give to the beggar. The Father teaches that we must be charitable. But the people in the streets are suffering from blackflower-syrup addiction. They are there to conquer their own weakness. Any money given directly to them is not spent to their benefit. The Temple is the vessel for His benevolence. The Temple can distribute our money so that it does good to all His children.
+
+I don't understand how these people survived for so long. We all know the instinct to give to the beggar. The Father teaches that we must be charitable. But the people in the streets are suffering from addiction to the blackflower-syrup. The Father put them there to conquer their own weakness. Any money given directly to them is not spent to their benefit. The Temple is the vessel for His benevolence. The Temple can distribute our money so that it does good to all His children.
+
 In any case, another way in which their misguided weakness speeds along our advance. We can more or less ask them for what we need, and they seem happy enough to feed us and clothe us. Vaku tells me that he has all but stopped making up stories. He assures me that all the other people still pay. There is still money here, even though they pay it by tapping their rings or waving a card. Everybody seems to have a ritual all their own. But if Vaku says he cannot pay, they give it to him for free. Even boots and coats we have taken from them like this. 
+
 The strange thing is, the easier it is to take things from them, the more uneasy the men become about it. Especially Vaku, he keeps saying that he'd prefer it if we could somehow steal some money. Then he could pay. When I ask him why that would be better, he says it might be less conspicuous, but he knows it's meaningless. The front is one hundred kilometers behind us. In a few weeks all these people will be killed or captured. Their smiles and their misguided charity will not save them from a life among the saltwort and the blackflower.
+
 The woman on the radio says we are not winning the war. We are slowly losing. The front is advancing on Maqbasa-bar by kilometers a week, she says. The first rule of war propaganda. Whatever truths we speak, they will simply repeat the reverse back twice as loudly. We do the same thing with our internal propaganda. If the dissident factions say we're godless, the first thing we tell our people is that they are godless. If the dissidents say we are oppressive, we say that their aim is to oppress.
+
 Still, I must admit that something about her intonation gets under my skin. It is as though it doesn't really matter to her whether I believe it.
-I checked the heat signatures on the satellite feed. The front is there. Right on our backs. I'll tell the men to fall back a little this week. Check with our own eyes that the front is still there.
+
+I checked the heat signatures on the satellite feed. The front is there. Right on our backs. I'll tell the men to fall back a little this week. Then we will be able to see with our own eyes, how wrong this woman is. 
+
 They have stopped asking for active missions. In fact, the whole subject seems to cause a great depressive mood among them. The last one was half a year ago, and I don't know how to describe it. It was like everybody was acting. We did everything as we have done so many times before, but somehow much more quietly. We didn't shout or scream, so all we could hear were the infidels wailing and pleading and begging. There was no real celebration afterwards. Nobody speaks about it.
-#
+
+--- 
+
 We have taken to wearing only their clothes. It was unavoidable, I suppose. I ordered the men to tear out their insignia from the remainders of their faded uniforms and to wear them around their arms, under these thin linen shirts that the enemy wears. The marks of our people and of our Father will always be closest to their skin.
+
 Since we now appear like them, it makes little sense to hide anymore. Over the last year, Vaku has taught us to speak their language. It's surprisingly easy to pick up. I find myself thinking in it half the time. Five years ago that would have disgusted me.
+
 We pay for our food now. Vaku was right. Somehow it's easier that way. We discovered that there is a kind of itinerant lifestyle in their culture that is indulged. It seems an aspect of human freedom that they value. If people wish to live on the fringes of society, most of them agree that that should be allowed if not actively encouraged. It allows us to do odd jobs, mostly simple farmwork, to scrape together a living.
+
 I once asked one of  them what the benefit is of this indulgence to their land and people. Why allow such a lack of loyalty to their culture? They don't seem to have a word for Empire, or if they do, they don't use it often. He didn't understand what I was trying to ask. This happens often: they are eager to answer any question you ask, but they are somehow stumped by the simplest things.
-#
+
+---
+
 We lost Amerestin. He left in the night. We didn't hunt him down. We barely talked about it.
+
 I don't think he went over to them. It's not that he still believes in the cause. That fire has dimmed in all of us. It's the other thing. The thing we don't talk about. It's probably the main reason we move on with the speed we do. It's hard to take. The way they look at you with such welcoming eyes. Such charity and friendliness. 
+
 He didn't leave because he wanted to be one of them. He just didn't want to be one of us anymore.
-#
+
+---
+
 Vaku and Ren are gone too, both in the same night. They must have decided independently. None of us talked much at all anymore. I like to imagine that they left at the exact same time, by pure coincidence. If they crossed paths one final time, there would have been nothing to say. 
+
 I'm by myself now. Amarestin had the right idea. It's easier this way. Fundamentally, it doesn't change anything. I can't let the front catch up with me. I can't imagine I would pass as anything but a deserter. The woman on the radio keeps me company. I don't answer, but I like the sound of her voice. 
+
 She still claims that the front is slowly advancing on Maqbasa-bar every day. She must know that isn't true. I've fallen back to visual range. I can see our tanks in the distance. I still send updates every now and then, and they still confirm receipt. The war plan is in full effect. All these people who have fed me and clothed me have been sent to die in our disgusting fields. Our miserable Empire will chew them up and spit out their bones. 
-Perhaps I should talk to her. Perhaps there is something I can do. Some way I can help. What if I know something. Perhaps with enough men like me, who are hardened by the other side. Perhaps we can help to stop this unending retreat. Perhaps we can inspire them, just once, to embrace the reality of their world and to defend what they have. Isn't it worth defending?
-#
+
+Perhaps I should talk to her. Perhaps there is something I can do. Some way I can help. What if I know something. Perhaps with enough men like me, who are hardened by the other side. Perhaps we can help to stop this unending retreat. Perhaps we can inspire them, just once, to embrace the reality of what is happpening and to defend what they have. Isn't it worth defending?
+
+---
+
 I am nothing but a petulant child. A melting snowflake in a thunderstorm who thought he could somehow control the lightning. For all my guilt and loneliness, that's the one thing I still gave myself. A part in any of this. A role to play.
+
 I spoke to her. I told her how wrong she was. How she must know she was wrong. That I could see our tanks with my own eyes, and they were advancing. The numbers were as great as they were five years ago. The line was still strong and as wide as a continent. The supply lines were holding. 
+
 They say the mark of a great warrior is the laconic phrase. It took her two words, to break my final defences, and to show me truly, how insignificant my part had been. Two words, to show that we never had any chance of winning this war. The only question there had ever been was how they would win it with dignity. With as little bloodshed as possible. 
+
 Of course we cannot see the strategy. We are peasants, steeped in warfare and brutality. It took me a decade of living among them, of speaking their language, of wearing their clothes, to see that they could not possibly want to take our land. What they want is to change our ways. To open our eyes. To help us mature, and to help us take control.
+
 Goals, they knew, that take time. Goals that require exposure. Goals that can only be achieved when force and violence is removed.
 
 "Your tanks."
 
 I suppose I had been lying to myself. If I had been thinking clearly, I would have realized immediately that I should have seen their tanks, not ours.
+
 Our frontline units are as dazed as I am. Going through the motions, progressing slowly, but never firing a shot. They have been living in enemy territory for years now. The supply lines aren't holding. They're gone, and the enemy is feeding us. 
+
 The trick is really very simple. At every retreat, a small proportion of their forces stays behind. Hidden here and there, by simple camouflage. As the front moves back, their line thins out, slowly, but steadily, keeping perfectly in check with the diminishing morale on our side. By the time we're taking their food and talking to their farmers, there is no need for their tanks anymore. Our line moves forward at a steady pace, no shots fired.
-Behind the line, their troops reform, and a new front is created. She said that if you look at it on a map, their line doesn't really move at all. It's more like a gradient of troop density that our line moves through, and slowly dissolves into. Individual troops move around like convection rolls in gently boiling water, but the overall density of their troops remains stable. The only real change is that the gradient slowly stretches out, working its way into our territory as wave after wave of our men is filtered through.
+
+Behind the line, their troops reform, and a new front is created. She said that if you look at it on a map, their line doesn't really move at all. It's more like a gradient of troop density that our line moves through, and slowly dissolves into. Their troops move around like convection rolls in gently boiling water, but the overall density remains stable. The only real change is that the gradient slowly stretches out, working its way into our territory as wave after wave of our men is filtered through.
+
 By the end, there won't be any decisive battle or great fight for dominance. Every one of our people will simply pass through this fish trap and come out as one of theirs. 
-It's not without loss or suffering. Their soldiers still fight. And those who dare to settle near the front line still risk great... well. A price is paid. But they have enough people who seek a life of risk. Or who are genuinely willing to die for the fundamentals of their society. Did they really understand, though, I wonder, what they were signing up for? Can you really understand, if you grew up on this side of the war?
+It's not without loss or suffering. Their soldiers still fight. And those citizens who dare to settle near the front line still risk great... well. A price is paid. But they have enough people who seek a life of risk. Or who are genuinely willing to die for the fundamentals of their society. Did they really understand, though, I wonder, what they were signing up for? Can you really understand, if you grew up on this side of the war?
+
 I told her, you must know what we've done. Can you really accept us into your society without punishment? She paused at that. She says there is a process. For people like me, who are guilty of the worst. It isn't easy, but it usually works. She says it has done for centuries.
