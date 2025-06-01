@@ -1,4 +1,6 @@
-<h1 class="main">Profane tmesis</h1>
+<div class="links">
+<h1 class="main">Profane tmesis</h1> <a href="about">about</a> · <a href="https://twitter.com/profane_tmesis/">twitter</a> · <a href="https://writing.exchange/@ptmesis">mastodon</a> · <a href="https://bsky.app/profile/ptmesis.bsky.social">bsky</a>
+</div>
 
 <ul class="stories">
 <li><a href="aut__r-inf_ct_d"><pre>AUT__R INF_CT_D</pre></a></li>
@@ -11,10 +13,8 @@
 <li><a href="voodo-economics">Voodoo economics</a></li>
 <li><a href="love-these-mixd-souls">Love these mix'd souls</a></li>
 <li><a href="inside-out">Inside out</a></li>
-<li><a href="the-story-of-the-white-dragon-pagoda">The story of the white dragon pagoda</a></li>
+<li><a href="the-story-of-the-white-dragon-pagoda">The white dragon pagoda</a></li>
 <li><a href="flash-fiction-2011">Flash fiction 2011</a></li>
 </ul>
-
-<span class="elsewhere">elsewhere</span>: <a href="https://twitter.com/profane_tmesis/">twitter</a>,  <a href="https://writing.exchange/@ptmesis">mastodon</a>, <a href="https://bsky.app/profile/ptmesis.bsky.social">bsky</a>
 
 

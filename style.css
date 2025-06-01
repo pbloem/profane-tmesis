@@ -192,3 +192,14 @@ span.elsewhere {
     font-family: Helvetica, sans-serif;
     font-size: 0.8em;
 }
+
+h1.main {
+    display: inline;
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+.links {
+    padding-top: 1em;
+    margin: 0 0 1em 0;
+}
