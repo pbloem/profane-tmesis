@@ -1,6 +1,6 @@
 ---
 title: AUT__R INF_CT_D
-summary: " "
+summary: "Occasionally, the whole of humanity seems to share a single unexpressed thought. Some worry that occupies us all, but that nobody voices. Something that, collectively, we push out of the global consciousness. The first time I became aware of this, I think, was at the end of the 2019 Coronavirus pandemic. I was just 14 at the time the restrictions began to be lifted, and the vaccination program began to show results."
 image: http://profane-tmesis.info/aut.jpg
 ---
 # `AUT__R INF_CT_D`
