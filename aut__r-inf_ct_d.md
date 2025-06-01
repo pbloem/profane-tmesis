@@ -1,7 +1,7 @@
 ---
 title: AUT__R INF_CT_D
 summary: " "
-image: http://profane-tmesis.info/aut.jpeg
+image: http://profane-tmesis.info/aut.jpg
 ---
 # `AUT__R INF_CT_D`
 
