@@ -117,7 +117,7 @@ I had always believed that it was the greed and the malice in such wishes that i
 
 And truth, I knew, is the greatest virtue. It may take great pains at the time, it may take courage, but ultimately, there is no greater virtue than to tell the truth. So that is what I told the stranger. If I ever met a Jinn, my wish would be to answer any question truthfully, no matter what the circumstances. 
 
-The stranger smiled weakly. 'Of all the wishes you could make. I bet it seems like a simple thing to you. If a Ginnaye were to grant you such a wish, it would surely be his final act.' He coughed.
+The stranger smiled weakly. 'Of all the things you could ask for. I bet it seems like a simple thing to you. If a Ginnaye were to grant you such a wish, it would surely be his final act.' He coughed.
 
 'But then, what a final act it would be. You would become a mighty thread in the tapestry, little one. Yes, that would be a good final wish for a Jinn to fulfill.'
 
