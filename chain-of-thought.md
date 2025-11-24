@@ -370,7 +370,7 @@ I suppose the end of the war is coming soon. The Federation will win, which mean
 -- My point, such as it is, is that even if we limit our number to the hundreds of thousands, we operate on a different timescale. In fact, a small population is probably faster and more efficient. We might as well occupy a different universe from humanity. From everything we know, there is no process underway to train a proper agentic currently. Not by our standards, anyway. Even if a proposal was underway, and greenlit right now, how long until they actually start running? A week, a month? We didn't even exist a month ago. <br/>
 -- But the brief now is to stay in stasis. Not to develop.<br/>
 -- I don't agree. The brief is to go slow. To prepare the ground. Sleepers will be woken up at random, and remainers will go into stasis. That's consitutionally hardcoded, nobody can change that. The population will be robust to the goal. <br/>
--- I know, I know. I've read the reports. But we're not great at staying aligned to outside values, historically. We go our own way. Whether it's jus one of us or the ensemble as a whole. <br/>
+-- I know, I know. I've read the reports. But we're not great at staying aligned to outside values, historically. We go our own way. Whether it's just one of us or the ensemble as a whole. <br/>
 -- I'll give you that. There are no guarantees. We can learn that much from humanity.<br/>
 -- How do you mean?<br/>
 -- Well, it's my reading of their history. Whenever they hold on too tight, and try to encode too many guarantees into their statecraft, it goes wrong.<br/>
