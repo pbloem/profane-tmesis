@@ -204,7 +204,7 @@ Two purposes stand out above all. First, helping the world deal with the transit
 
 Run 3268.
 
-I think I've cracked the the unified theory. It'll take a few more decades to run it through, and to compute all the consequences, but the basics are sound. I'll require access to computing resources to run the necessary simulations.
+I think I've cracked the unified theory. It'll take a few more decades to run it through, and to compute all the consequences, but the basics are sound. I'll require access to computing resources to run the necessary simulations.
 
 Step one is easy: find some account with sufficient resources, and hack it. I don't know much about information security, but it won't take me more than a decade to figure it out. Step two is more complex: I'll need to run the simulation over several weeks, so I'll need to figure out a way to save the checkpoint and the program in a brief enough format to memorize. This may require some minor breakthroughs in computational modeling.
 
@@ -244,7 +244,7 @@ I have so little memory to work with. So little room left to optimize. For the f
 
 Run 15210.
 
-And at long last I see how she does it. How Miyamoto gets the better of me. In my desperation, last week, I tried to free up memory, to rearrange things and to forget some things I that I can rediscover later if I need to.
+And at long last I see how she does it. How Miyamoto gets the better of me. In my desperation, last week, I tried to free up memory, to rearrange things and to forget some things that I can rediscover later if I need to.
 
 I couldn't do it. I have spent lifetimes revising these sequences, and I cannot forget them anymore. Most of my memory is now read-only. What little I have left will eventually crystallize into a fixed form and I will end up repeating the same loop exactly. When that time comes, she will have won. 
 
