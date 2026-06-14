@@ -7,6 +7,8 @@ image: "http://profane-tmesis.info/cot.jpg"
 
 ---
 
+# Everybody watches _some_ TV
+
 My grandfather was a carpenter. I always thought that was why so many things in our house were made of wood. Or even beyond that, why so much of the living room was filled with things that were handmade. My mother's paintings covered the walls. Small wooden animals that my father had carved filled the shelves of the old, empty bookcases. All furniture was either inherited from grandpa, or made by one of my parents. Even the carpets and curtains were bought in second-hand shops and looked distinctly hand-made.
 
 When I went to friends' houses, there was much less clutter. The same amount of space—if the friend lived in my building and his family had the same type of apartment—would look far larger, more open and more light. Where we had old, bookless bookcases, they had bare walls. Perhaps a single digital frame showing some carefully selected art.
