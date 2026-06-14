@@ -1,9 +1,9 @@
 ---
 title: Everybody watches _some_ TV
 
-summary: "My grandfather was a carpenter. I always thought that was why so many things in our house were made of wood. Or even beyond that, why so much of the living room was filled with things that were handmade. "
+summary: "My grandfather was a carpenter. I always thought that was why so many things in our house were made of wood. Or even beyond that, why so much of the living room was filled with things that were handmade."
 
-image: "http://profane-tmesis.info/cot.jpg"
+image: "http://profane-tmesis.info/tv.jpg"
 
 ---
 
