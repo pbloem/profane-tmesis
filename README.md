@@ -3,6 +3,7 @@
 </div>
 
 <ul class="stories">
+<li><a href="everybody-watches-some-tv">Everybody watches <em>some</em> TV</a></li>
 <li><a href="aut__r-inf_ct_d"><pre>AUT__R INF_CT_D</pre></a></li>
 <li><a href="infinite-high-ground">The infinite high ground</a></li>
 <li><a href="diary">Diary of a decoy</a></li>
