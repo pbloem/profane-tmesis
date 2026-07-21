@@ -167,7 +167,7 @@ I fled from Palmyra in a panic. In shame, and in fear. These days I think they a
 
 It took me a long time to recall the details of my life long ago. "If you had been found out in our village, the judgement would most likely have fallen to me. I don't expect I would have shown you much mercy then."
 
-"So you are changed. Is it your grief that has changed you, Pamhpilos? Or is it travel, exposure to so many different people? Perhaps it is simply time? A kind of empathy, that comes with age?"
+"So you are changed. Is it your grief that has changed you, Pamphilos? Or is it travel, exposure to so many different people? Perhaps it is simply time? A kind of empathy, that comes with age?"
 
 "It is difficult to explain. I suppose simply that once your head, in fact your whole body, becomes filled with one subject, one purpose, everything else becomes trivial. I cannot understand anymore how other people care so much about so many different things."
 
@@ -403,7 +403,7 @@ We sat in silence, both considering the implications. I could see he was tempted
 
 I think we both lay awake a long time. Both pretending to be asleep. We both realized that our game was coming to an end. It was time for the final moves.
 
-Agias was shrewd, Pamhilos, but arrogant. He thought, perhaps, that he had some time left to make a plan. Perhaps he had not guessed how much of my recent timidity and deference was an act. Perhaps he was just more tired than I was. Whatever the case, he let himself fall asleep. When he woke up, he found me sitting on his chest, with my knees pinning his arms in place.
+Agias was shrewd, Pamphilos, but arrogant. He thought, perhaps, that he had some time left to make a plan. Perhaps he had not guessed how much of my recent timidity and deference was an act. Perhaps he was just more tired than I was. Whatever the case, he let himself fall asleep. When he woke up, he found me sitting on his chest, with my knees pinning his arms in place.
 
 I had taken the knife from his tunic and held it to his throat. I forced the tip deep into his skin. 
 
