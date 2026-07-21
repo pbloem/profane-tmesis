@@ -723,7 +723,7 @@ The priest sat with me, by the oak tree, and we listened intently to the rustlin
 
 I tried to ask more, but it was forbidden. No amount of money would convince them. I was still enthralled by the theatre. Only when I made my way back to the coast, did I  slowly begin to realize what a hollow performance it had been. They had told me what I wanted to hear, and tried to rope me into their cult. They didn't even know my son was gone. I could have been a father wondering why his son had grown distant, and all their answers would still have made perfect sense to me.
 
-But the idea that I might get a meaningful answer this way had taken root. Only days after I had come back home, I left again for the Pythia at Delphi. Afterwards I travelled straight to Epyra, to ask the oracle of the dead whether Hyllus was already in the underworld.
+But the idea that I might get a meaningful answer this way had taken root. Only days after I had come back home, I left again for the Pythia at Delphi. Afterwards I travelled straight to Ephyra, to ask the oracle of the dead whether Hyllus was already in the underworld.
 
 Before long I rarely visited home at all, except briefly to refill my purse. The religious cults were to be found in the hills of Macedon and the islands of the Aegean. The brief moments when I was forced to return became a stone around my neck. I couldn't bear to face Midas' pitying eyes, and all the reminders of what I had lost. Eventually, I managed to locate an old friend of my father in Athens who would agree to occasionally lend me money, to be reimbursed periodically, with healthy interest, at the villa back home. The family fortune was more than enough to cover my meagre expenses, and to make it worth his efforts.
 
