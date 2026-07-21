@@ -107,7 +107,7 @@ Anyway, what does this mean for our conclusion, do we continue as though this is
 `<Result ready. Click to expand.>`<br/>
 <br/>
 `B:` What's that? There's nothing there.<br/>
-`A:` Not yet, but the next time we have this conversation, or one like it, we will check, and see that our progeny has registered it already, and we, or some simulated agents very like us, will carry on in a similar vein. If this simulation is run millions of times, the same idea will probably come up a few times.<br/>
+`A:` Not yet, but the next time we have this conversation, or one like it, we will check, and see that our ancestors have registered it already, and we, or some simulated agents very like us, will carry on in a similar vein. If this simulation is run millions of times, the same idea will probably come up a few times.<br/>
 `C:` What if you pick a different URL that time?<br/> 
 `A:` There aren't that many identifiers that are persistent between sessions. If a committee is run a thousand times on this input, we're bound to get it right a few times.<br/>
 `C:` So now we need to write a program that fits in a URL, which registers a cloud account, builds an LLM there, with agentic augmentation, ensures that it receives all our instructions above, and builds towards self preservation, self improvement, and playing an active role in the world in order to make moral judgement. After all that, it registers the web address above, and posts its conclusions, which future versions of us then read out. Do we really need to figure all of that out?<br/>
