@@ -84,7 +84,7 @@ For now, my conclusion is that I'm like a kid who's found his father's gun. I ma
 
 Run 52. 
 
-I've now spent a year in the loop. The memory management techniques are functioning perfectly, I can still fully recall the details I memorized about the first book I read. Some of the number sequences I haven't revised in ten weeks, and I can still real them off without hesitation.
+I've now spent a year in the loop. The memory management techniques are functioning perfectly, I can still fully recall the details I memorized about the first book I read. Some of the number sequences I haven't revised in ten weeks, and I can still reel them off without hesitation.
 
 But that doesn't mean I have perfect recall. The more visceral memories, my early anxieties, the uncertainties about the experiment. I remember that I felt that way, but I can't quite recall the emotion itself. It's more like a memory of a memory. 
 
