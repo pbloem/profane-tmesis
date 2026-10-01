@@ -4,7 +4,7 @@ title: "A veil of brightness"
 summary: "The story of a girl who made a wish. The story of a man with a question. Pamphilos of the Ardiae has spent ten years of his life sailing to every corner of the Aegean in search of an Oracle who can tell him what he needs to know. Tonight, his travels come to an end, and his question is answered.
 "
 
-image: "http://profane-tmesis.info/veil-card.jpg"
+image: "https://profane-tmesis.info/veil-card.jpg"
 ---
 
 # A veil of brightness
