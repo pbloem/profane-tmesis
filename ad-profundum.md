@@ -21,30 +21,29 @@ They never shut up about it either. How they're going to save up and make their 
 
 ***
 
---- Is it really that big a deal to you?
---- Great. I knew you wouldn't understand. This is typical
---- No, hey, Don't do that. I don't want to fight over this. It's just hard for me to understand where this is coming from.
---- I don't know what the big deal is. It's a simple procedure. They put you down, and they poke you with a bunch of needles. We have plenty of savings. We could easily afford it. 
---- It's not about the money, it's a really invasive procedure. It's rewriting your DNA.
---- In one place. That's why they can do this, but not like fix a big nose or obesity. This is like one super localized edits. It's super safe, I did a lot of research on this.
---- Don't they open up your joints to liquify your growth plates?
---- Don't be so lurid. It's pinhole surgery. They mostly just inject a liquid. 
---- Look, this stuff has only been around for a year. It's just out of human trials. You have no idea what the long-term effects are. And it's purely cosmetic 
---- How about your finasteride? That's purely cosmetic.
---- Ok, that's fair I guess. But that's a lot less invasive.
---- But you can get side effects, right? 
-You still risked it.
---- I guess. Losing my hair was hard for me. I was really obsessing over it, irrationally. At some point it didn't feel cosmetic anymore. It was like a mental health thing.
---- Right.
---- Is that how you feel about your height? You've never talked about it. It's never occurred to me.
---- It never does to tall guys. 
---- But you've never talked about it.
---- How often did you talk about your hair loss?
---- Ok, yeah. Point taken. Look, I fell in love with you like this. This is who you are to me. It's going to be weird if you suddenly look different.
---- It takes a year, I'll change slowly. And it's only 10 centimeters. It's not like I'm going to be suddenly towering over you. 
---- Now there's a thought.
---- Hello. That works for you does it? I thought height didn't matter to you.
---- Oh shut up. 
+--- Is it really that big a deal to you? <br/>
+--- Great. I knew you wouldn't understand. This is typical <br/>
+--- No, hey, Don't do that. I don't want to fight over this. It's just hard for me to understand where this is coming from. <br/>
+--- I don't know what the big deal is. It's a simple procedure. They put you down, and they poke you with a bunch of needles. We have plenty of savings. We could easily afford it.  <br/>
+--- It's not about the money, it's a really invasive procedure. It's rewriting your DNA. <br/>
+--- In one place. That's why they can do this, but not like fix a big nose or obesity. This is like one super localized edits. It's super safe, I did a lot of research on this. <br/>
+--- Don't they open up your joints to liquify your growth plates? <br/>
+--- Don't be so lurid. It's pinhole surgery. They mostly just inject a liquid.  <br/>
+--- Look, this stuff has only been around for a year. It's just out of human trials. You have no idea what the long-term effects are. And it's purely cosmetic.  <br/>
+--- How about your finasteride? That's purely cosmetic. <br/>
+--- Ok, that's fair I guess. But that's a lot less invasive. <br/>
+--- But you can get side effects, right? You still risked it. <br/>
+--- I guess. Losing my hair was hard for me. I was really obsessing over it, irrationally. At some point it didn't feel cosmetic anymore. It was like a mental health thing. <br/>
+--- Right. <br/>
+--- Is that how you feel about your height? You've never talked about it. It's never occurred to me. <br/>
+--- It never does to tall guys.  <br/>
+--- But you've never talked about it. <br/>
+--- How often did you talk about your hair loss? <br/>
+--- Ok, yeah. Point taken. Look, I fell in love with you like this. This is who you are to me. It's going to be weird if you suddenly look different. <br/>
+--- It takes a year, I'll change slowly. And it's only 10 centimeters. It's not like I'm going to be suddenly towering over you.  <br/>
+--- Now there's a thought. <br/>
+--- Hello. That works for you does it? I thought height didn't matter to you. <br/>
+--- Oh shut up.  <br/>
 
 ***
 
@@ -76,37 +75,37 @@ Schreiber looks at me. I'm the lead. It's my call.
 
 ***
 
--- @Aardvarker 5:13 yesterday
+-- ```@Aardvarker 5:13 yesterday``` <br/>
 Look, I'm gonna spell it out for you, ok. The European Framework Treaty for the Regulation of Stature Modification (or "the Downsizing act" for the smoothbrains) is a disaster for Europe. You guys have been falling behind for years and now you're going to regulate this?
 
--- @FanonDomme 5:32 yesterday
+-- @FanonDomme 5:32 yesterday <br/>
 Can you really not see what's happening in your own country? Half of you are below 40%. 
 
--- @Aardvarker 5:34 yesterday
+-- @Aardvarker 5:34 yesterday <br/>
 So? It's a way to make ends meet when you're in a tough spot. Better than some of the things I had to do when I was making my way through college. My wife and I moved down to 80%, and we're delighted with the choice. It cuts down on groceries and the house feels like a mansion now. 
 
--- @JackBree2003 6:33 yesterday
+-- @JackBree2003 6:33 yesterday <br/>
 5 percenter here. It hits a little different when you have to move to a compound. 
 
-@EdgeDuke 6:42 yesterday
+@EdgeDuke 6:42 yesterday <br/>
 Shit man, 5. You must have fucked up bad. Did you go to prison or something?
 
-@FanonDomme 7:04 yesterday
+@FanonDomme 7:04 yesterday <br/>
 Is 5 even physically possible? Like, can you shrink your brain that much and still be you? 
 
-@JackBree2003 7:15 yesterday
+@JackBree2003 7:15 yesterday <br/>
 They offload some parts of our brain into a computer, I think. I didn't really understand it all that well. Your body feels a little different at first. You look a little weird too, up close in the mirror . But everybody does, so you get used to it. 
 
-@EdgeDuke 7:17 yesterday
+@EdgeDuke 7:17 yesterday <br/>
 I hear the Chinese are going much further. You can go much further down if you offload the whole brain into a box, maybe even out-of-body, and then you can replace your blood with hemolymph, your bones with keratin and augment your muscles with resilin. You basically get an insect body shaped like a human. I heard they're doing all softs of espionage shit. Could be in your room right now.
 
-@FanonDomme 8:42 yesterday 
+@FanonDomme 8:42 yesterday  <br/>
 Still think this requires no regulation @Aardvarker? This shit is like a mass psychosis. when the Sundlo sites were discovered everybody was saying it was super harmless: you just toggle them on or off and you grow a little taller or a little shorter. But we're way beyond that now. This is full-blown genetic body modification. Why is everybody still so focused on size? Why not give ourselves five arms, or blue skin? All of that is regulated everywhere, but size is somehow fine, even if I basically Gregor Samsa myself?
 
-@EdgeDuke 8:46 yesterday
+@EdgeDuke 8:46 yesterday <br/>
 I think it's because the companies got in there quick. They got us hooked on it. Blue skin isn't going to give the stock market a boost, but fitting twice the office staff in the same building, that's hard to walk back once it's happened.
 
-@Aardvarker 8:53 yesterday
+@Aardvarker 8:53 yesterday <br/>
 This is conspiracy stuff. The future is here and we need to embrace it. You guys enjoy the regulation, while the US and China run circles around you. You know the US population is up to a billion now, tripled in like 20 years? China stopped publishing their numbers at 3B. Good luck competing with that with 500M people. Enjoy your free healthcare while it lasts. The Chinese army is going to come knocking soon, and it's going to be a hell of a fight in the downsizing era.
 
 ***
