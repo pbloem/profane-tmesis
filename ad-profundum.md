@@ -1,5 +1,5 @@
 ---
-title: Per Aspera ad Profunda
+title: Per Aspera ad Profundum
 summary: "Tree duty today. Hard work. We know they're not trees. Just like the fungus isn't moss, and the bugs aren't wolves. But it helps to use familiar names for things. We're all homesick here. It comes with the job."
 image: "https://profane-tmesis.info/matryoshka.jpg"
 ---
