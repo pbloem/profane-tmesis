@@ -142,7 +142,7 @@ As we eat, Schreiber tries to explain to Chu why they did it. If they were still
 
 I couldn't explain it to him if he spoke the King's English. He hasn't been here long enough. I don't try. I don't want to be the one who makes him understand. 
 
-_Lyndon Bryce wakes up. It takes him only a few moments to realize it must have happened. It's done.
+<em markdonw="1">Lyndon Bryce wakes up. It takes him only a few moments to realize it must have happened. It's done.
 
 He puts on his glasses and walks over to the mirror. And there it is. Just as he'd planned with his AI. After two weeks with an itchy beard: a perfectly clean shaven chin, and a full moustache. He inspects his cheeks up close. No stubble, no rawness. It really is the closest shave there is. 
 
@@ -152,4 +152,4 @@ The AI wishes him a good morning. It reports first that the Iridium fleet has st
 
 It also informs him that the grooming unit on his bedpost has lost a third of a percent of its functioning volume. It will still operate, but he should have it serviced at the earliest opportunity. 
 
-Never mind, thinks Lyndon, rubbing his chin. It's worth the money._
+Never mind, he thinks, rubbing his chin. It's worth the money.</em>
